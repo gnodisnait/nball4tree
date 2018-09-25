@@ -22,8 +22,6 @@ $ python nball.py --train_nball /Users/<user-name>/data/glove/nball.txt --w2v /U
 % --log: log file, shall be located in the same directory as the file of nball embeddings
 ```
 The training process can take around 8.5 hours.
-* result
-- ```/Users/<user-name>/data/glove/data_out``` is created to save all created nballs, one nball is saved in one file
 
 ## Experiment 1.2: Evaluating nball embeddings
 * main input is the output directory of nballs created in Experiment 1.1
