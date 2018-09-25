@@ -21,7 +21,8 @@ $ python nball.py --train_nball /Users/<user-name>/data/glove/nball.txt --w2v /U
 % --ws_catcode: file of the parent location code of a word-sense in the tree structure
 % --log: log file, shall be located in the same directory as the file of nball embeddings
 ```
-The training process can take around 8.5 hours.
+The training process can take around 8.5 hours. 
+
 
 ## Experiment 1.2: Evaluating nball embeddings
 * main input is the output directory of nballs created in Experiment 1.1
@@ -35,6 +36,9 @@ $ python nball.py --zero_energy <output-path> --ball <output-file> --ws_child /U
 * result
 If zero-energy is achieved, one big nball-embedding file will be created ```<output-path>/<output-file>```
 otherwise, failed relations and word-senses will be printed.
+
+A successful screen will look as below.
+    ![](https://github.com/gnodisnait/nball4tree/blob/master/pic/success_result.png)
 
 # Experiment 2: Observe neighbors of word-sense using nball embeddings
 * [pre-trained nball embeddings](https://drive.google.com/file/d/176FZwSaLB2MwTOWRFsfxWxMmJKQfoFRw/view?usp=sharing)
