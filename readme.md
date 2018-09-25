@@ -37,8 +37,8 @@ $ python nball.py --zero_energy <output-path> --ball <output-file> --ws_child /U
 If zero-energy is achieved, one big nball-embedding file will be created ```<output-path>/<output-file>```
 otherwise, failed relations and word-senses will be printed.
 
-A successful screen will look as below.
-    ![](https://github.com/gnodisnait/nball4tree/blob/master/pic/success_result.png)
+A successful screen will look as below
+ ![img|630x420](https://github.com/gnodisnait/nball4tree/blob/master/pic/success_result.png)
 
 # Experiment 2: Observe neighbors of word-sense using nball embeddings
 * [pre-trained nball embeddings](https://drive.google.com/file/d/176FZwSaLB2MwTOWRFsfxWxMmJKQfoFRw/view?usp=sharing)
@@ -48,6 +48,10 @@ $ python nball.py --neighbors beijing.n.01 berlin.n.01  --ball /Users/<user-name
 % --ball: file location of the nball embeddings
 % --num: number of neighbors
 ```
+
+* Results of nearest neighbors look like below:
+
+ <a href="url"><img src="https://github.com/gnodisnait/nball4tree/blob/master/pic/nbneighbors.png"   height="700" width="500" ></a></p>
 
 # Experiment 3: Consistency analysis
 
