@@ -1,7 +1,7 @@
 
 import numpy as np
 import decimal
-import os
+import copy
 from nball4tree.config import DECIMAL_PRECISION
 
 decimal.getcontext().prec = DECIMAL_PRECISION
