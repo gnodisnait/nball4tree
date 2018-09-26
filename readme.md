@@ -39,6 +39,10 @@ otherwise, failed relations and word-senses will be printed.
 
 A successful screen will look as below
  ![img|630x420](https://github.com/gnodisnait/nball4tree/blob/master/pic/success_result.png)
+ 
+- nball embeddings with 47634 balls is downloadable at [nball47634](https://drive.google.com/file/d/1TC5h8PXKQz4rQ4hsFYlWSFsyuoxlkutf/view?usp=sharing)
+
+- nball embeddings with 54311 balls is downloadable at [nball54311](https://drive.google.com/file/d/1tOJWK08mMx-uUOFxaIGEKqiQLLahKglj/view?usp=sharing)
 
 # Experiment 2: Observe neighbors of word-sense using nball embeddings
 * [pre-trained nball embeddings](https://drive.google.com/file/d/176FZwSaLB2MwTOWRFsfxWxMmJKQfoFRw/view?usp=sharing)
