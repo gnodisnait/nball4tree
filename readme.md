@@ -1,5 +1,12 @@
 # Install the package
 
+* for Ubuntu please first install python3-tk
+```
+sudo apt-get install python3-tk
+```
+
+then type:
+
 ```
 $ git clone https://github.com/gnodisnait/nball4tree.git
 $ cd nball4tree
