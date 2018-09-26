@@ -73,6 +73,9 @@ $ python nball.py --neighbors beijing.n.01 berlin.n.01  --ball /Users/<user-name
 ```
 $ python nball.py  --std_stem /Users/<user-name>/data/glove/wordstem.std --dim 50 --ballStemFile /Users/<user-name>/data/glove/glove.6B.50Xball.words --ball /Users/<user-name>/data/glove/glove.6B.50Xball.V10.txt
 ```
+* Result of consistency analysis
+
+<a href="url"><img src="https://github.com/gnodisnait/nball4tree/blob/master/pic/std.png"  height="400" width="500" ></a></p>
 
 # Experiment 4: Validating unknown word-senses or words
 
@@ -93,3 +96,14 @@ $ python nball.py  --validate_member /Users/<user-name>/data/glove/memberValidat
 ```
 $ python nball.py  --plot_validate_member /Users/<user-name>/data/glove/memberValidation/membershipPredictionResult.txt      --numOfChild 10       --percentages 5 10 20 30 40 50 60 70 80 90
 ```
+
+* Precision of validating the category of unknown words
+
+<a href="url"><img src="https://github.com/gnodisnait/nball4tree/blob/master/pic/precision.png"  height="400" width="500" ></a></p>
+
+* Recall of validating the category of unknown words
+
+<a href="url"><img src="https://github.com/gnodisnait/nball4tree/blob/master/pic/recall.png"  height="400" width="500" ></a></p>
+
+
+
