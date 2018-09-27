@@ -1,11 +1,11 @@
 # Install the package
 
-* for Ubuntu please first install python3-tk
+* for Ubuntu platform please first install python3-tk
 ```
 sudo apt-get install python3-tk
 ```
 
-then type:
+* for Ubuntu or Mac platform type:
 
 ```
 $ git clone https://github.com/gnodisnait/nball4tree.git
@@ -28,10 +28,10 @@ $ python nball.py --train_nball /Users/<user-name>/data/glove/nball.txt --w2v /U
 % --ws_catcode: file of the parent location code of a word-sense in the tree structure
 % --log: log file, shall be located in the same directory as the file of nball embeddings
 ```
-The training process can take around 8.5 hours. 
+The training process can take around 6.5 hours. 
 
 
-## Experiment 1.2: Evaluating nball embeddings
+## Experiment 1.2: Checking whether tree structures are perfectly embedded into word-embeddings
 * main input is the output directory of nballs created in Experiment 1.1
 * shell command for running the nball construction and training process
 ```
@@ -40,6 +40,7 @@ $ python nball.py --zero_energy <output-path> --ball <output-file> --ws_child /U
 % --ball <output-file> : the name of the output nball-embedding file
 % --ws_child /Users/<user-name>/data/glove/wordSenseChildren.txt: file of parent-children relations among word-senses
 ```
+The checking process can take around 2 hours.
 * result
 If zero-energy is achieved, one big nball-embedding file will be created ```<output-path>/<output-file>```
 otherwise, failed relations and word-senses will be printed.
@@ -49,7 +50,7 @@ A successful screen will look as below
  
 - nball embeddings with 47634 balls is downloadable at [nball47634](https://drive.google.com/file/d/1TC5h8PXKQz4rQ4hsFYlWSFsyuoxlkutf/view?usp=sharing)
 
-- nball embeddings with 54311 balls is downloadable at [nball54311](https://drive.google.com/file/d/1tOJWK08mMx-uUOFxaIGEKqiQLLahKglj/view?usp=sharing)
+- nball embeddings with 54310 balls is downloadable at [nball54311](https://drive.google.com/file/d/1tOJWK08mMx-uUOFxaIGEKqiQLLahKglj/view?usp=sharing)
 
 # Experiment 2: Observe neighbors of word-sense using nball embeddings
 * [pre-trained nball embeddings](https://drive.google.com/file/d/176FZwSaLB2MwTOWRFsfxWxMmJKQfoFRw/view?usp=sharing)
