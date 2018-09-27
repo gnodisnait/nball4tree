@@ -207,9 +207,3 @@ def get_recall_from_files(trainingRatioLst, marginLst, target, ipath="", ifilePa
     tmMatrix = np.matrix(tmMatrix).transpose()
     return tmMatrix
 
-
-if __name__ == "__main__":
-    pers = [5, 10, 20, 30, 40, 50, 60, 70, 80, 90]
-    show_membership_prediction_result(pers=pers)
-
-
