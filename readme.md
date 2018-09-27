@@ -42,7 +42,8 @@ $ python nball.py --zero_energy <output-path> --ball <output-file> --ws_child /U
 ```
 The checking process can take around 2 hours.
 * result
-If zero-energy is achieved, one big nball-embedding file will be created ```<output-path>/<output-file>```
+
+If zero-energy is achieved, a big nball-embedding file will be created ```<output-path>/<output-file>```
 otherwise, failed relations and word-senses will be printed.
 
 ** Test result at Mac platform:
