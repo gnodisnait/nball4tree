@@ -79,7 +79,7 @@ $ python nball.py  --std_stem /Users/<user-name>/data/glove/wordstem.std --dim 5
 ```
 * Result of consistency analysis
 
-<a href="url"><img src="https://github.com/gnodisnait/nball4tree/blob/master/pic/std.png"  height="400" width="500" ></a></p>
+<a href="url"><img src="https://github.com/gnodisnait/nball4tree/blob/master/pic/std0.pnd"  height="400" width="500" ></a></p>
 
 # Experiment 4: Validating unknown word-senses or words
 
