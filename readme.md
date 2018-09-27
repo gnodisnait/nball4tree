@@ -45,8 +45,10 @@ The checking process can take around 2 hours.
 If zero-energy is achieved, one big nball-embedding file will be created ```<output-path>/<output-file>```
 otherwise, failed relations and word-senses will be printed.
 
-A successful screen will look as below
- ![img|630x420](https://github.com/gnodisnait/nball4tree/blob/master/pic/success_result.png)
+** Test result at Mac platform:
+![img|630x420](https://github.com/gnodisnait/nball4tree/blob/master/pic/success_result.png)
+** Test result at Ubuntu platform:
+![](https://github.com/gnodisnait/nball4tree/blob/master/pic/ubuntu_result.png)
  
 - [nball embeddings with 47634 balls](https://drive.google.com/file/d/1TC5h8PXKQz4rQ4hsFYlWSFsyuoxlkutf/view?usp=sharing)
 
