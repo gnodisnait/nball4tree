@@ -75,7 +75,7 @@ $ python nball.py --neighbors beijing.n.01 berlin.n.01  --ball /Users/<user-name
 
 * shell command for running the experiment
 ```
-$ python nball.py  --std_stem /Users/<user-name>/data/glove/wordstem.std --dim 50 --ballStemFile /Users/<user-name>/data/glove/glove.6B.50Xball.words --ball /Users/<user-name>/data/glove/glove.6B.50Xball.V10.txt
+$ python nball.py  --std_stem /Users/<user-name>/data/glove/wordstem.std --dim 50 --w2v /Users/<user-name>/data/glove/glove.6B.50d.txt --ballStemFile /Users/<user-name>/data/glove/glove.6B.50Xball.words --ball /Users/<user-name>/data/glove/glove.6B.50Xball.V10.txt
 ```
 * Result of consistency analysis
 
