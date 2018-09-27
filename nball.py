@@ -84,7 +84,7 @@ def main():
 
     """
     # usage 5: consistency analysis 1: deviation of word-stems
-    $ python nball.py  --std_stem /Users/tdong/data/glove/wordstem.std --dim 50 --ballStemFile /Users/tdong/data/glove/glove.6B.50Xball.words --ball /Users/tdong/data/glove/glove.6B.50Xball.V10.txt
+    $ python nball.py  --std_stem /Users/tdong/data/glove/wordstem.std --dim 50 --w2v /Users/tdong/data/glove/glove.6B.50d.txt --ballStemFile /Users/tdong/data/glove/glove.6B.50Xball.words --ball /Users/tdong/data/glove/glove.6B.50Xball.V10.txt
 
     """
     parser.add_argument('--std_stem')
@@ -127,8 +127,9 @@ def main():
     if args.plot_validate_member and args.percentages and args.numOfChild:
         show_membership_prediction_result(filePat=args.plot_validate_member, pers=args.percentages)
 
-    if args.std_stem and args.ballStemFile and args.dim and args.ball:
-        maximum_deviation(ofile=args.std_stem, ballFile=args.ball, ballStemFile=args.ballStemFile, dim=args.dim)
+    if args.std_stem and args.ballStemFile and args.dim and args.ball and args.w2v:
+        maximum_deviation(ofile=args.std_stem, word2vecFile= args.w2v,
+                          ballFile=args.ball, ballStemFile=args.ballStemFile, dim=args.dim)
 
     if args.zero_energy and args.ball and args.ws_child:
         wsChildrenDic = dict()

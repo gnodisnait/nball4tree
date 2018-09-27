@@ -15,22 +15,30 @@ decimal.getcontext().prec = DECIMAL_PRECISION
 UpperCats = defaultdict(list)
 
 
-def maximum_deviation(ballStemFile="", ballFile="", dim=50, ofile=""):
+def maximum_deviation(ballStemFile="", word2vecFile="", ballFile="", dim=50, ofile=""):
     ballStemsDic = defaultdict()
     stdlines = []
     data = defaultdict()
+    word2vecDic = defaultdict()
+
+    with open(word2vecFile, 'r') as w2v:
+        for line in w2v.readlines():
+            wlst = line.strip().split()
+            word2vecDic[wlst[0]] = vec_norm([decimal.Decimal(ele) for ele in wlst[1:]])
 
     with open(ballStemFile, 'r') as ifh:
         for ln in ifh:
             w=ln[:-1].strip()
             ballStemsDic[w] = []
+
     dic = get_word_sense_dic(ballFile)
     for key, value in dic.items():
         w = key.split('.')[0]
         ballStemsDic[w].append(vec_norm(value[:dim]))
+
     for key, values in ballStemsDic.items():
-        average = average_vector(values)
-        disLst = [dis_between_norm_vec(p, average) for p in values]
+        preTrained = word2vecDic[key]
+        disLst = [dis_between_norm_vec(p, preTrained) for p in values]
         val = decimal.Decimal(np.std(disLst, axis=0))
         val = float(val.quantize(decimal.Decimal('.000000000000000000001')))
         if val in data:
@@ -48,7 +56,17 @@ def maximum_deviation(ballStemFile="", ballFile="", dim=50, ofile=""):
     plt.ylabel('count')
     plt.show()
 
-    pprint(data)
+    keys = list(data.keys())
+    dicStd = {
+        "max Std":   max(keys),
+        "Std > 0.2": sum([data[e] for e in [k for k in keys if k>0.2]]),
+        "Std <= 0.2 and >0.1": sum([data[e] for e in [k for k in keys if k> 0.1 and k<= 0.2]]),
+        "Std <=0.1 and > 10^(-12)": sum([data[e] for e in [k for k in keys if k > 10 ** -12 and k <= 0.1]]),
+        "Std <=10^(-12) and >0": sum([data[e] for e in [k for k in keys if k > 0 and k <= 10 ** -12]]),
+        "Std == 0": sum([data[e] for e in [k for k in keys if k == 0]])
+    }
+    pprint(dicStd)
+
     with open(ofile, 'w') as ofh:
         ofh.write('\n'.join(stdlines))
 
