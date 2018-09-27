@@ -1,5 +1,12 @@
 # Install the package
 
+* for Ubuntu platform please first install python3-tk
+```
+sudo apt-get install python3-tk
+```
+
+* for Ubuntu or Mac platform type:
+
 ```
 $ git clone https://github.com/gnodisnait/nball4tree.git
 $ cd nball4tree
@@ -21,10 +28,10 @@ $ python nball.py --train_nball /Users/<user-name>/data/glove/nball.txt --w2v /U
 % --ws_catcode: file of the parent location code of a word-sense in the tree structure
 % --log: log file, shall be located in the same directory as the file of nball embeddings
 ```
-The training process can take around 8.5 hours. 
+The training process can take around 6.5 hours. 
 
 
-## Experiment 1.2: Evaluating nball embeddings
+## Experiment 1.2: Checking whether tree structures are perfectly embedded into word-embeddings
 * main input is the output directory of nballs created in Experiment 1.1
 * shell command for running the nball construction and training process
 ```
@@ -33,12 +40,17 @@ $ python nball.py --zero_energy <output-path> --ball <output-file> --ws_child /U
 % --ball <output-file> : the name of the output nball-embedding file
 % --ws_child /Users/<user-name>/data/glove/wordSenseChildren.txt: file of parent-children relations among word-senses
 ```
+The checking process can take around 2 hours.
 * result
 If zero-energy is achieved, one big nball-embedding file will be created ```<output-path>/<output-file>```
 otherwise, failed relations and word-senses will be printed.
 
 A successful screen will look as below
  ![img|630x420](https://github.com/gnodisnait/nball4tree/blob/master/pic/success_result.png)
+ 
+- [nball embeddings with 47634 balls](https://drive.google.com/file/d/1TC5h8PXKQz4rQ4hsFYlWSFsyuoxlkutf/view?usp=sharing)
+
+- [nball embeddings with 54310 balls](https://drive.google.com/file/d/1tOJWK08mMx-uUOFxaIGEKqiQLLahKglj/view?usp=sharing)
 
 # Experiment 2: Observe neighbors of word-sense using nball embeddings
 * [pre-trained nball embeddings](https://drive.google.com/file/d/176FZwSaLB2MwTOWRFsfxWxMmJKQfoFRw/view?usp=sharing)
@@ -62,6 +74,9 @@ $ python nball.py --neighbors beijing.n.01 berlin.n.01  --ball /Users/<user-name
 ```
 $ python nball.py  --std_stem /Users/<user-name>/data/glove/wordstem.std --dim 50 --ballStemFile /Users/<user-name>/data/glove/glove.6B.50Xball.words --ball /Users/<user-name>/data/glove/glove.6B.50Xball.V10.txt
 ```
+* Result of consistency analysis
+
+<a href="url"><img src="https://github.com/gnodisnait/nball4tree/blob/master/pic/std.png"  height="400" width="500" ></a></p>
 
 # Experiment 4: Validating unknown word-senses or words
 
@@ -82,3 +97,14 @@ $ python nball.py  --validate_member /Users/<user-name>/data/glove/memberValidat
 ```
 $ python nball.py  --plot_validate_member /Users/<user-name>/data/glove/memberValidation/membershipPredictionResult.txt      --numOfChild 10       --percentages 5 10 20 30 40 50 60 70 80 90
 ```
+
+* Precision of validating the category of unknown words
+
+<a href="url"><img src="https://github.com/gnodisnait/nball4tree/blob/master/pic/precision.png"  height="400" width="500" ></a></p>
+
+* Recall of validating the category of unknown words
+
+<a href="url"><img src="https://github.com/gnodisnait/nball4tree/blob/master/pic/recall.png"  height="400" width="500" ></a></p>
+
+
+
