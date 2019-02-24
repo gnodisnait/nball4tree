@@ -109,5 +109,9 @@ $ python nball.py  --plot_validate_member /Users/<user-name>/data/glove/memberVa
 
 <a href="url"><img src="https://github.com/gnodisnait/nball4tree/blob/master/pic/recall.png"  height="400" width="500" ></a></p>
 
+# Cite
 
+If you use the code, please cite the following paper:
+
+Tiansi Dong, Chrisitan Bauckhage, Hailong Jin, Juanzi Li, Olaf Cremers, Daniel Speicher, Armin B. Cremers, Joerg Zimmermann (2019). *Imposing Category Trees Onto Word-Embeddings Using A Geometric Construction*. **ICLR-19** The Seventh International Conference on Learning Representations, May 6 – 9, New Orleans, Louisiana, USA.
 
