@@ -21,6 +21,8 @@ $ pip install -r requirements.txt
 * [datasets for training nball embeddings](https://drive.google.com/file/d/1V2kBNgxDzFBznkd97UuwDW0OtionpP6y/view?usp=sharing)
 * shell command for running the nball construction and training process
 ```
+% you need to create an empty file nball.txt for output
+
 $ python nball.py --train_nball /Users/<user-name>/data/glove/nball.txt --w2v /Users/<user-name>/data/glove/glove.6B.50d.txt  --ws_child /Users/<user-name>/data/glove/wordSenseChildren.txt  --ws_catcode /Users/<user-name>/data/glove/glove.6B.catcode.txt  --log log.txt
 % --train_nball: output file of nball embeddings
 % --w2v: file of pre-trained word embeddings
