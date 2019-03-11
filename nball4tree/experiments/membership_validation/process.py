@@ -56,6 +56,7 @@ def training_one_family(treeStruc=defaultdict(list), root=None, w2vDic=dict(), c
         return ballDict
 '''
 
+
 def membership_prediction(trainingTestingFile="", outputFile="", NodeChildrenFile="", catPathFile="",
                           catFingerPrintFile="", w2vFile="", logPath="", L0=0, R0=0,  addDim=[]):
     """
@@ -152,7 +153,7 @@ def membership_prediction_evaluation(cat=None, trainingLst=[], testingLst=[],fal
     """
     trainingTree = create_training_tree(cat=cat, children=trainingLst,catPathDic = catPathDic)
 
-    ballDict = training_one_family(treeStruc=trainingTree, root=trainingTree['*root*'][0], w2vDic=w2vDic,
+    ballDict = training_one_family(treeStruc=trainingTree, root=trainingTree['*root*'][0], word2ballDic=w2vDic,
                                     catMemDic=catMemDic, catFPDic=catFPDic, addDim = addDim, ballDict=dict(),
                                     L0=L0, R0=R0, logFile=logFile)
 
@@ -289,6 +290,7 @@ def membership_prediction_in_batch(plst, NumOfChild=10, trainingTestingFile="", 
                               NodeChildrenFile=NodeChildrenFile, catPathFile=catPathFile,
                               catFingerPrintFile=catFingerPrintFile, w2vFile=w2vFile, logPath=logPath,
                               L0=L0, R0=R0, addDim=addDim)
+
 
 '''
 if __name__ == "__main__":
