@@ -19,6 +19,7 @@ $ pip install -r requirements.txt
 # Experiment 1:  Training and evaluating nball embeddings
 ## Experiment 1.1: Training nball embeddings
 * [datasets for training nball embeddings](https://drive.google.com/file/d/1V2kBNgxDzFBznkd97UuwDW0OtionpP6y/view?usp=sharing)
+* download glove.6B.50d.txt from the GloVe webpage https://nlp.stanford.edu/projects/glove/ 
 * shell command for running the nball construction and training process
 ```
 % you need to create an empty file nball.txt for output
