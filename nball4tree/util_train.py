@@ -1,9 +1,7 @@
 import decimal
 from nball4tree.config import DECIMAL_PRECISION
 
-
 decimal.getcontext().prec = DECIMAL_PRECISION
-
 
 
 def get_children(nodeData, wsChildrenDic=dict(), firstChild=None, word2ballDic=None):
