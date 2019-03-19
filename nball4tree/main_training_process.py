@@ -490,7 +490,8 @@ def testing_whole_family(outputPath=None, wsChildrenDic=dict(), word2ballDic=dic
         print("try again, or contact the author")
 
 
-def fix_dim(maxsize, mindim, word2ballDic=dict(), bPath = '/Users/tdong/data/glove/glove.6B/glove.6B.50Xball'):
+def fix_dim(maxsize, mindim, word2ballDic=dict(), bPath = '/Users/tdong/data/glove/glove.6B/glove.6B.50Xball',
+            outputPath=""):
     """
     :param maxsize:
     :param mindim:
@@ -559,7 +560,7 @@ def train_word2ball(root="",  outputPath = '', logFile='', wsChildrenDic=dict(),
     if outputPathBack:
         copy_tree(outputPath, outputPathBack)
     maxsize, mindim , word2ballDic = load_balls(ipath=outputPath, word2ballDic=word2ballDic)
-    fix_dim(maxsize, mindim, bPath=outputPath)
+    fix_dim(maxsize, mindim, bPath=outputPath, outputPath=outputPath)
     make_DC_for_first_level_children(root=root, firstChild = 'entity.n.01', wsChildrenDic=wsChildrenDic,
                                                     word2ballDic=word2ballDic, outputPath=outputPath,
                                                     maxsize=maxsize, mindim=mindim, logFile=logFile)
