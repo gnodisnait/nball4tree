@@ -114,7 +114,7 @@ $ python nball.py  --plot_validate_member /Users/<user-name>/data/glove/memberVa
 
 # NBalls for other languages
 
-* [This code has been used to generate nball embeddings for Arabic, Chinese, Hindi languages. Click me to get the Jupyter scripts](https://github.com/p3ml/ai_language_technology)
+* [This code has been used to generate nball embeddings for Arabic, Chinese, Hindi, and Russian languages. Click me to get the Jupyter scripts](https://github.com/p3ml/ai_language_technology)
 
 # Cite
 
