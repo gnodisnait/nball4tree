@@ -112,6 +112,10 @@ $ python nball.py  --plot_validate_member /Users/<user-name>/data/glove/memberVa
 
 <a href="url"><img src="https://github.com/gnodisnait/nball4tree/blob/master/pic/recall.png"  height="400" width="500" ></a></p>
 
+# NBalls for other languages
+
+* [This code has been used to generate nball embeddings for Arabic, Chinese, Hindi languages. Click me to get the Jupyter scripts](https://github.com/p3ml/ai_language_technology)
+
 # Cite
 
 If you use the code, please cite the following paper:
