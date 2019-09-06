@@ -18,3 +18,4 @@ tabulate==0.8.2
 Theano==1.0.1
 traitlets==4.3.2
 virtualenv==15.1.0
+pygermanet==1.0.2
