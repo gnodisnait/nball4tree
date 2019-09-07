@@ -1,6 +1,6 @@
 from pygermanet import load_germanet
 from bs4 import BeautifulSoup
-from .tree import Tree
+from tree import Tree
 import os
 
 
@@ -27,23 +27,36 @@ class GermaNetUtil:
 		:return: complete tree
 		'''
 
+		germanet = load_germanet()
+
 		# step 1: extract words from GermaNet
-		self.__extract_words(outputfile)
+		self.__extract_words(germanet, outputfile)
 		words = []
 		with open(outputfile, 'r') as file:
 			words = file.readlines()
-
+		
 		# step 2: fill tree with hypernym paths
-		germanet = load_germanet()
+		
 		tree = Tree()
 		for word in words:
-			paths = germanet.synset(word).hypernym_paths
-			for path in paths:
-				tree.add_hypernym_path(path)
+			synset = germanet.synset(word[:-1]) 
+			if synset is None:
+				continue
+			paths = synset.hypernym_paths
+
+			# checks if synset has multiple paths
+			if len(paths) > 0 and isinstance(paths[0], list):
+				for path in paths:
+					tree.add_hypernym_path(path)
+			else:
+				tree.add_hypernym_path(paths)
 
 		return tree
 
-	def __extract_words(self, outputFile):
+	def __get_synset_name(self, synset):
+		return synset.__str__()[7:-1]
+
+	def __extract_words(self, germanet, outputFile):
 		'''Extracts words from xml files. 
 		Only those contained in the word-vector embedding are kept.
 
@@ -70,21 +83,36 @@ class GermaNetUtil:
 				lines = f_in.readlines()
 				for line in lines:
 					words.append(line.split()[0])
-			return words
+			return set(words)
 
-		# step 1: get all words from word-embedding
-		embeddedWords = get_vector_words(wordVecFile)
-
-		# step 2: remove all words in germanet that are not present in the word-embeddings
-		# 		  and write the remaining words into a file
-		files = getFiles(dir)
-		with open(outputFile, 'w') as out:
+		def get_words(files):
+			words = []
 			for file in files:
 				with open(file, 'r') as f:
 					xml = BeautifulSoup(f.read(), 'html.parser')
 					for child in xml.find_all('synset'):
 						for lexUnit in child.find_all('lexunit'):
 							word = lexUnit.orthform.text
-							if word in embeddedWords:
-								out.write(lexUnit.orthform.text)
-								out.write('\n')		
+							words.append(word)
+			return set(words)
+
+		
+
+		files = getFiles(dir)
+		
+		words = get_words(files)
+		# step 1: get all words from word-embedding
+		embedded_words = get_vector_words(wordVecFile)
+		
+		retained_words = words.intersection(embedded_words)
+
+		with open(outputFile, 'w') as f:
+			for word in retained_words:
+				lst = [self.__get_synset_name(ele) for ele in germanet.synsets(word)]
+				f.write("\n".join(lst))
+				f.write('\n')
+
+
+		# step 2: remove all words in germanet that are not present in the word-embeddings
+		# 		  and write the remaining words into a file
+		

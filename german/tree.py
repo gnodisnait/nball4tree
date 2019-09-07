@@ -1,9 +1,10 @@
 from collections import deque
+import os 
 
 class Node:
     
-    def __init__(self, word, parent=None):
-        self.index = 1
+    def __init__(self, word, index=1, parent=None):
+        self.index = index
         self.word = word
         self.parent = parent
         self.children = []
@@ -12,8 +13,8 @@ class Node:
         if self.has_child(word):
             return
 
-        node = Node(word, self)
-        node.index = len(self.children)+1
+        index = len(self.children)+1
+        node = Node(word, index, self)
         self.children.append(node)
         return node
 
@@ -30,14 +31,19 @@ class Node:
     
     def get_path(self):
         indices = []
-        node = self.parent
+        node = self
         while(node is not None):
-            indices.append(node.index)
+            indices.append(str(node.index))
             node = node.parent
         return indices[::-1]
 
-    def get_path_string(self):
-        path = get_path()
+    def get_path_string(self, depth=None):
+        path = self.get_path()
+        
+        if depth is not None:
+            length = depth - len(path)
+            path += ['0']*length
+        
         return self.word + " "+" ".join(path)
 
 class Tree:
@@ -46,14 +52,19 @@ class Tree:
 
     def __init__(self):
         self.root = Node('*root*')
+        self.depth = 1
 
     def add_hypernym_path(self, ordered_path):
         '''Adds a hypernym path of a word. 
 
         :param ordered_path: ordered list of parents of a word/synset, starting from root
         '''
+        if len(ordered_path) > self.depth:
+            self.depth = len(ordered_path)
+
         node = self.root
-        for child in ordered_path[1:]:
+        for synset in ordered_path[1:]:
+            child = synset.__str__()[7:-1]
             if node.has_child(child):
                 node = node.get_child(child)
             else:
@@ -66,39 +77,25 @@ class Tree:
 
         :param outputfile: file to write into
         '''
-    
-        # Traverses the tree using depth-first-search (dfs) approach.
-        # Writes the location code of each node into the file.
-        def dfs(node, visited, file):
-            if node is None: # if entire tree was traversed
+
+        if os.path.isfile(outputfile):
+            return
+
+        def traverse(node, visited, file):
+            if node.is_leaf():
                 return
-
-            path = ' '.join(node.get_path())
-            if not path in visited:
-                visited.add(path)
-                file.write(node.get_path_string()+"\n")
-                if not node.is_leaf():
-                    dfs(node.children[0], visited, file)
-                else:
-                    dfs(node.parent, visited, file)
-            else:
-                unvisited = None
-                # checks if there are unvisited neighbor-nodes
-                for child in node.children:
-                    unv_path = ' '.join(child.get_path())
-                    if not unv_path in visited:
-                        unvisited = child
-                        break
-
-                if unvisited is not None:
-                    dfs(unvisited, visited, file)
-                else:
-                    dfs(node.parent, visited, file)
+            for child in node.children:
+                code = node.get_path_string(self.depth)
+                if not code in visited:
+                    file.write(code+"\n")
+                    visited.add(code)
+                traverse(child, visited, file)
     
+
         node = self.root
         visited = {'1'}
         with open(outputfile, 'w') as file:
-            dfs(node.children[0], visited, file)
+            traverse(node, visited, file)
 
 
     def write_tree(self, outputfile):
@@ -107,24 +104,25 @@ class Tree:
             The structure of the output follows the breadth-first-search approach.
             
             :param outputfile: the file to write into
-        '''
+        '''  
 
-        # Traverses the tree using the breadth-first-approach.
-        # Writes children of each traversed node.
-        def bfs(node, queue, file):
+        def traverse(node, visited, file):
+            code = node.get_path_string()
             if node.is_leaf():
-                file.write(node.word+"\n")                
+                if not code in visited:
+                    file.write(node.word+"\n")
+                    visited.add(code)
             else:
-                file.write(" ".join(node.children))
-                file.write('\n')
-                queue.extend(node.children)
+                if not code in visited:
+                    file.write(node.word +" "+" ".join(map(lambda n: n.word, node.children)))
+                    file.write('\n')
+                    visited.add(code)
+                for child in node.children:
+                    traverse(child, visited, file)
 
-            if len(queue) == 0: # avoid exception once all elements are traversed
-                return
-            bfs(queue.popleft(), queue, file)    
 
         node = self.root
-        queue = deque()
+        visited = {'1'}
         with open(outputfile, 'w') as file:
-            bfs(node, queue, file)
+            traverse(node, visited, file)
         
