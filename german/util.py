@@ -93,7 +93,9 @@ class GermaNetUtil:
 					for child in xml.find_all('synset'):
 						for lexUnit in child.find_all('lexunit'):
 							word = lexUnit.orthform.text
-							words.append(word)
+							# avoids multiple word-compositions
+							if not ' ' in word:
+								words.append(word)
 			return set(words)
 
 		
