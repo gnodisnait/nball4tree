@@ -54,22 +54,28 @@ class Tree:
         self.root = Node('*root*')
         self.depth = 1
 
-    def add_hypernym_path(self, ordered_path):
+    def add_hypernym_path(self, ordered_path, embedded_words):
         '''Adds a hypernym path of a word. 
 
         :param ordered_path: ordered list of parents of a word/synset, starting from root
         '''
-        if len(ordered_path) > self.depth:
-            self.depth = len(ordered_path)
-
+        
         node = self.root
         for synset in ordered_path[1:]:
             child = synset.__str__()[7:-1]
+            if len(child.split()) > 1:
+                return
+            
             if node.has_child(child):
                 node = node.get_child(child)
+            elif child.split('.')[0] not in embedded_words:
+                return
             else:
                 n = node.add_child(child)
                 node = n
+
+        if len(ordered_path) > self.depth:
+            self.depth = len(ordered_path)
             
 
     def write_parent_location_code(self, outputfile):
@@ -82,13 +88,12 @@ class Tree:
             return
 
         def traverse(node, visited, file):
-            if node.is_leaf():
-                return
+            code = node.get_path_string(self.depth)
+            if node not in visited:
+                file.write(code+"\n")
+                visited.add(code)
+
             for child in node.children:
-                code = node.get_path_string(self.depth)
-                if not code in visited:
-                    file.write(code+"\n")
-                    visited.add(code)
                 traverse(child, visited, file)
     
 
@@ -122,7 +127,7 @@ class Tree:
 
 
         node = self.root
-        visited = {'1'}
+        visited = {'0'}
         with open(outputfile, 'w') as file:
             traverse(node, visited, file)
         

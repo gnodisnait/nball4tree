@@ -30,7 +30,7 @@ class GermaNetUtil:
 		germanet = load_germanet()
 
 		# step 1: extract words from GermaNet
-		self.__extract_words(germanet, outputfile)
+		embedded_words = self.__extract_words(germanet, outputfile)
 		words = []
 		with open(outputfile, 'r') as file:
 			words = file.readlines()
@@ -47,9 +47,9 @@ class GermaNetUtil:
 			# checks if synset has multiple paths
 			if len(paths) > 0 and isinstance(paths[0], list):
 				for path in paths:
-					tree.add_hypernym_path(path)
+					tree.add_hypernym_path(path, embedded_words)
 			else:
-				tree.add_hypernym_path(paths)
+				tree.add_hypernym_path(paths, embedded_words)
 
 		return tree
 
@@ -62,10 +62,6 @@ class GermaNetUtil:
 
 		:param outputFile: destination file 
 		'''
-
-		# skips everything if file was already written into
-		if os.path.isfile(outputFile):
-			return
 
 		dir = self.__source
 		wordVecFile = self.__w2vec_file
@@ -94,18 +90,22 @@ class GermaNetUtil:
 						for lexUnit in child.find_all('lexunit'):
 							word = lexUnit.orthform.text
 							# avoids multiple word-compositions
-							if not ' ' in word:
-								words.append(word)
+							if len(word.split()) == 1:
+								words.append(word)						
+							
 			return set(words)
-
 		
-
-		files = getFiles(dir)
-		
-		words = get_words(files)
 		# step 1: get all words from word-embedding
 		embedded_words = get_vector_words(wordVecFile)
-		
+
+		# skips step 2 and 3
+		if os.path.isfile(outputFile):
+			return embedded_words
+
+		# step 2: read words from WordNet
+		files = getFiles(dir)
+		words = get_words(files)
+		# step 3: discard words that are not present in word-embedding
 		retained_words = words.intersection(embedded_words)
 
 		with open(outputFile, 'w') as f:
@@ -114,7 +114,6 @@ class GermaNetUtil:
 				f.write("\n".join(lst))
 				f.write('\n')
 
+		return embedded_words
 
-		# step 2: remove all words in germanet that are not present in the word-embeddings
-		# 		  and write the remaining words into a file
 		
