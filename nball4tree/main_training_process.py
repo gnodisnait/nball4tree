@@ -416,7 +416,6 @@ def training_all_families(root="*root*", wsChildrenDic=dict(), word2vecDic=dict(
     child0 = children[0]
     children = sorted(children, key=lambda ele: np.dot(get_word2vector(child0, word2vecDic=word2vecDic),
                                                        get_word2vector(ele, word2vecDic=word2vecDic)))
-    children = sorted(children, key=sort)
     print(children)
     N = int(np.ceil(np.log(len(children))))
     open(logFile, 'w+')

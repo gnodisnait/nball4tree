@@ -1,4 +1,3 @@
-from collections import deque
 import os 
 
 class Node:
@@ -59,13 +58,13 @@ class Tree:
 
         :param ordered_path: ordered list of parents of a word/synset, starting from root
         '''
-        
+
         node = self.root
         for synset in ordered_path[1:]:
             child = synset.__str__()[7:-1]
+            #avoids nodes with multiple word-compositions
             if len(child.split()) > 1:
                 return
-            
             if node.has_child(child):
                 node = node.get_child(child)
             elif child.split('.')[0] not in embedded_words:
@@ -76,6 +75,7 @@ class Tree:
 
         if len(ordered_path) > self.depth:
             self.depth = len(ordered_path)
+
             
 
     def write_parent_location_code(self, outputfile):

@@ -98,6 +98,7 @@ class GermaNetUtil:
 		# step 1: get all words from word-embedding
 		embedded_words = get_vector_words(wordVecFile)
 
+
 		# skips step 2 and 3
 		if os.path.isfile(outputFile):
 			return embedded_words
