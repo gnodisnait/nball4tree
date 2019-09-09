@@ -415,7 +415,8 @@ def training_all_families(root="*root*", wsChildrenDic=dict(), word2vecDic=dict(
     """
     global L0, DIM
     children = get_children(root, wsChildrenDic=wsChildrenDic)
-    child0= 'entity.n.01'
+    #child0= 'entity.n.01'
+    child0 = children[0]
     children = sorted(children, key=lambda ele: np.dot(get_word2vector(child0, word2vecDic=word2vecDic),
                                                        get_word2vector(ele, word2vecDic=word2vecDic)))
     print(children)
