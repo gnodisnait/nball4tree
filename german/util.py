@@ -94,7 +94,7 @@ class GermaNetUtil:
 						for lexUnit in child.find_all('lexunit'):
 							word = lexUnit.orthform.text
 							# avoids multiple word-compositions
-							if not ' ' in word:
+							if len(word.split()) == 1:
 								words.append(word)
 			return set(words)
 
