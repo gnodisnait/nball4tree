@@ -87,28 +87,22 @@ class Tree:
         if os.path.isfile(outputfile):
             return
 
-        def traverse(node, visited, file):
+        def traverse(node, file):
             code = node.get_path_string(self.depth)
-            if node not in visited:
-                file.write(code+"\n")
-                visited.add(code)
-
+            file.write(code+"\n")
             for child in node.children:
-                traverse(child, visited, file)
+                traverse(child, file)
     
-
         node = self.root
-        visited = {'1'}
         with open(outputfile, 'w') as file:
-            traverse(node, visited, file)
+            traverse(node, file)
 
 
     def write_tree(self, outputfile):
         '''Writes the elements of the tree into a file.
-
-            The structure of the output follows the breadth-first-search approach.
+        The structure of the output follows the breadth-first-search approach.
             
-            :param outputfile: the file to write into
+        :param outputfile: the file to write into
         '''  
 
         def traverse(node, visited, file):
@@ -124,7 +118,6 @@ class Tree:
                     visited.add(code)
                 for child in node.children:
                     traverse(child, visited, file)
-
 
         node = self.root
         visited = {'0'}
