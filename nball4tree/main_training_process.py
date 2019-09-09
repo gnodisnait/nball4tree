@@ -25,8 +25,6 @@ def get_word2vector(wordsense, word2vecDic = dict()):
     wd = wordsense.split('.')[0]
     if wd in word2vecDic:
         return word2vecDic[wd]
-    elif wordsense.split('.')[0] in word2vecDic:
-        return word2vecDic[wordsense.split('.')[0]]
 
 
 def initialize_ball(root, addDim=[], L0=0.1, R0=0.1,
@@ -457,7 +455,7 @@ def training_all_families(root="*root*", wsChildrenDic=dict(), word2vecDic=dict(
                                                               wsChildrenDic=wsChildrenDic)
         print("failed families with P", failed_P)
         print("failed families with DC", failed_DC)
-    return word2ballDic
+    return child0
 
 
 def testing_whole_family(outputPath=None, wsChildrenDic=dict(), word2ballDic=dict(), outputBallFile=None):
@@ -555,14 +553,14 @@ def train_word2ball(root="",  outputPath = '', logFile='', wsChildrenDic=dict(),
     :param outputBallForestFile:
     :return:
     """
-    training_all_families(root=root, wsChildrenDic=wsChildrenDic, word2vecDic=word2vecDic,
+    child0 = training_all_families(root=root, wsChildrenDic=wsChildrenDic, word2vecDic=word2vecDic,
                                           wscatCodeDic=wscatCodeDic, word2ballDic=word2ballDic,
                                           outputPath=outputPath, logFile=logFile)
     if outputPathBack:
         copy_tree(outputPath, outputPathBack)
     maxsize, mindim , word2ballDic = load_balls(ipath=outputPath, word2ballDic=word2ballDic)
     fix_dim(maxsize, mindim, bPath=outputPath, outputPath=outputPath)
-    make_DC_for_first_level_children(root=root, firstChild = 'entity.n.01', wsChildrenDic=wsChildrenDic,
+    make_DC_for_first_level_children(root=root, firstChild = child0, wsChildrenDic=wsChildrenDic,
                                                     word2ballDic=word2ballDic, outputPath=outputPath,
                                                     maxsize=maxsize, mindim=mindim, logFile=logFile)
 

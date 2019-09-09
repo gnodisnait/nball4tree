@@ -93,12 +93,13 @@ class GermaNetUtil:
 					for child in xml.find_all('synset'):
 						for lexUnit in child.find_all('lexunit'):
 							word = lexUnit.orthform.text
-							# avoids multiple word-compositions
-							if len(word.split()) == 1:
-								words.append(word)
-			return set(words)
-
-		
+							synsets = germanet.synsets(word)
+							for synset in synsets:
+								name = self.__get_synset_name(synset)
+								# avoids multiple word-compositions
+								if len(name.split()) == 1:
+									words.append(name)
+			return set(words)		
 
 		files = getFiles(dir)
 		
@@ -109,12 +110,4 @@ class GermaNetUtil:
 		retained_words = words.intersection(embedded_words)
 
 		with open(outputFile, 'w') as f:
-			for word in retained_words:
-				lst = [self.__get_synset_name(ele) for ele in germanet.synsets(word)]
-				f.write("\n".join(lst))
-				f.write('\n')
-
-
-		# step 2: remove all words in germanet that are not present in the word-embeddings
-		# 		  and write the remaining words into a file
-		
+			f.write("\n".join(retained_words))
