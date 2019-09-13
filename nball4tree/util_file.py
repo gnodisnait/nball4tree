@@ -357,7 +357,9 @@ def generate_ws_cat_codes(cpathFile = "",
     with open(childrenFile, 'r') as chfh:
         for ln in chfh.readlines():
             lst = ln.strip().split()
-            if len(lst) == 0:
+            if not lst:
+                continue
+            elif len(lst) == 1:
                 wsChildrenDic[lst[0]] = []
             else:
                 wsChildrenDic[lst[0]] = lst[1:]

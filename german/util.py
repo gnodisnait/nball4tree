@@ -1,5 +1,5 @@
 from pygermanet import load_germanet
-from bs4 import BeautifulSoup
+from xml.sax import make_parser, handler
 from tree import Tree
 import os
 
@@ -30,26 +30,37 @@ class GermaNetUtil:
 		germanet = load_germanet()
 
 		# step 1: extract words from GermaNet
-		embedded_words = self.__extract_words(germanet, outputfile)
-		words = []
-		with open(outputfile, 'r') as file:
-			words = file.readlines()
-		
+		print("extracting words..")
+		words, embedded_words = self.__extract_words(germanet, outputfile)
+				
 		# step 2: fill tree with hypernym paths
-		
+		count = 0
+		skipped = 0
+		mult_paths = 0
 		tree = Tree()
 		for word in words:
-			synset = germanet.synset(word[:-1]) 
+			synset = germanet.synset(word) 
 			if synset is None:
+				skipped += 1
 				continue
 			paths = synset.hypernym_paths
 
-			# checks if synset has multiple paths
-			if len(paths) > 0 and isinstance(paths[0], list):
+			if len(paths) == 0:
+				skipped += 1
+				return
+			elif len(paths) > 0 and isinstance(paths[0], list): # checks if synset has multiple paths
+				mult_paths += 1
 				for path in paths:
+					count +=1
 					tree.add_hypernym_path(path, embedded_words)
 			else:
+				count+=1
 				tree.add_hypernym_path(paths, embedded_words)
+
+		print("number of words added = "+str(len(tree.words)))
+		print("number of paths = "+str(count))
+		print("number of synsets with multiple paths = "+str(mult_paths))
+		print("skipped = "+str(skipped))
 
 		return tree
 
@@ -66,55 +77,74 @@ class GermaNetUtil:
 		dir = self.__source
 		wordVecFile = self.__w2vec_file
 
-		# gets all xml files
-		def getFiles(dir):
-			prefixes = ['adj', 'verben', 'nomen']
-			files = [dir+file for file in os.listdir(dir) if file.split('.')[0] in prefixes]
-			return files
-
 		# extracts all existing words from the word-embedding file
 		def get_vector_words(file):
 			words = []
 			with open(file, 'r') as f_in:
-				lines = f_in.readlines()
-				for line in lines:
+				for line in f_in:
 					words.append(line.split()[0])
 			return set(words)
+	
 
-		def get_words(files):
+		def get_words(dir):
+			prefixes = ['adj', 'verben', 'nomen']
+			files = [dir+file for file in os.listdir(dir) if file.split('.')[0] in prefixes]
+
+			class ContentH(handler.ContentHandler):
+				def __init__(self):
+					self.words = []
+					self.current_content = ""
+
+				def startElement(self, name, attrs):
+					self.current_content = ""
+
+				def characters(self, content):
+					if len(content.strip().split()) == 1:
+						self.current_content += content.strip()
+
+				def endElement(self, name):
+					if name.lower() == "orthform" and self.current_content:
+						self.words.append(self.current_content)
+						
 			words = []
 			for file in files:
-				with open(file, 'r') as f:
-					xml = BeautifulSoup(f.read(), 'html.parser')
-					for child in xml.find_all('synset'):
-						for lexUnit in child.find_all('lexunit'):
-							word = lexUnit.orthform.text
-							# avoids multiple word-compositions
-							if len(word.split()) == 1:
-								words.append(word)						
-							
+				parser = make_parser()
+				content_handler = ContentH()
+				parser.setContentHandler(content_handler)
+				parser.parse(file)
+				words += content_handler.words
 			return set(words)
-		
+
+
+
 		# step 1: get all words from word-embedding
 		embedded_words = get_vector_words(wordVecFile)
-
+		print("number of word embeddings = "+str(len(embedded_words)))
 
 		# skips step 2 and 3
 		if os.path.isfile(outputFile):
-			return embedded_words
+			synsets = set()
+			with open(outputFile, 'r') as file:
+				for line in file:
+					synsets.add(line[:-1])
+				print("number of words in word embeddings and GermaNet = "+str(len(synsets)))
+			return synsets, embedded_words
 
 		# step 2: read words from WordNet
-		files = getFiles(dir)
-		words = get_words(files)
+		words = get_words(dir)
+		print("number of words in GermaNet = "+str(len(words)))
 		# step 3: discard words that are not present in word-embedding
 		retained_words = words.intersection(embedded_words)
+		print("number of same words in word embeddings and GermaNet = "+str(len(retained_words)))
 
+		synsets = []
 		with open(outputFile, 'w') as f:
 			for word in retained_words:
 				lst = [self.__get_synset_name(ele) for ele in germanet.synsets(word)]
+				synsets += lst
 				f.write("\n".join(lst))
 				f.write('\n')
 
-		return embedded_words
+		return set(synsets), embedded_words
 
 		

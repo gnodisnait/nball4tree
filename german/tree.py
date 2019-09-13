@@ -1,7 +1,9 @@
 import os 
 
 class Node:
-    
+    '''Data structure for creating n-ary trees.
+    '''
+
     def __init__(self, word, index=1, parent=None):
         self.index = index
         self.word = word
@@ -30,7 +32,11 @@ class Node:
     
     def get_path(self):
         indices = []
-        node = self
+        node = self.parent
+        # if current node is root
+        if not node:
+            return ['1']
+
         while(node is not None):
             indices.append(str(node.index))
             node = node.parent
@@ -52,6 +58,7 @@ class Tree:
     def __init__(self):
         self.root = Node('*root*')
         self.depth = 1
+        self.words = set()
 
     def add_hypernym_path(self, ordered_path, embedded_words):
         '''Adds a hypernym path of a word. 
@@ -60,20 +67,22 @@ class Tree:
         '''
 
         node = self.root
+        current_len = 0
         for synset in ordered_path[1:]:
+            current_len += 1
             child = synset.__str__()[7:-1]
             #avoids nodes with multiple word-compositions
             if len(child.split()) > 1:
-                return
-            if node.has_child(child):
-                node = node.get_child(child)
+                break
             elif child.split('.')[0] not in embedded_words:
-                return
+                break
+            elif node.has_child(child):
+                node = node.get_child(child)
             else:
-                n = node.add_child(child)
-                node = n
-
-        if len(ordered_path) > self.depth:
+                self.words.add(child)
+                node = node.add_child(child)
+            
+        if current_len > self.depth:
             self.depth = len(ordered_path)
 
             

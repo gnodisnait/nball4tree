@@ -1,10 +1,10 @@
 from util import GermaNetUtil
 
-dir = './'
+dir = '../data/'
 file_word_embedding = '../data/de.vec'
-output_words = 'output-words.txt'
-output_tree = 'output-tree.txt'
-output_codes = 'output-codes.txt'
+output_words = '../data/test-output-words.txt'
+output_tree = '../data/test-output-tree.txt'
+output_codes = '../data/test-output-codes.txt'
 
 util = GermaNetUtil(dir, file_word_embedding)
 
@@ -20,14 +20,14 @@ tree.write_tree(output_tree)
 
 words = []
 leafs = []
-with open('output-tree.txt', 'r') as f:
+with open(output_tree, 'r') as f:
 	for line in f.readlines():
 		words.append(line[:-1])
 		if len(line[:-1].split()) == 1:
 			leafs.append(line[:-1])
 
 codes = []
-with open('output-codes.txt', 'r') as f:
+with open(output_codes, 'r') as f:
 	for line in f.readlines():
 		codes.append(line.split()[0])
 
