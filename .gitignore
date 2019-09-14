@@ -58,3 +58,8 @@ ENV/
 # IDE files
 .idea/
 
+data/GermaNet/
+data/w2v.vec
+data/ws_words.txt
+
+germanet/mongodb/
