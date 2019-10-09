@@ -73,6 +73,13 @@ def training_P_by_name(childName, atreeName, addDim=[], wsChildrenDic=dict(),wor
         LeafL, LeafR = BallLeaf[-2],BallLeaf[-1]
         ParentL, ParentR = LeafL + LeafR + cgap, LeafR + LeafR + cgap + cgap
         BallParent = ParentO + [ParentL, ParentR]
+
+        '''
+        t = ParentR / ParentL
+        if t >= 1:
+            print("break")
+        '''
+
         word2ballDic.update({atreeName: BallParent})
     else:
         targetsin0 = 0.6
@@ -102,7 +109,8 @@ def training_P_by_name(childName, atreeName, addDim=[], wsChildrenDic=dict(),wor
             yalpha = np.sqrt(1 - xalpha*xalpha)
             sin_xalpha = xalpha*cos_alpha + yalpha*sin_alpha
             delta = 1 - sin_xalpha * sin_xalpha
-            if delta < 0: delta = 0
+            if delta < 0:
+                delta = 0
             cos_xalpha = np.sqrt(delta)
 
             sin_alpha = sin_xalpha
@@ -138,6 +146,13 @@ def training_P_by_name(childName, atreeName, addDim=[], wsChildrenDic=dict(),wor
 
         ParentR = ParentL * (decimal.Decimal(sin_alpha) * decimal.Decimal(cos_beta)
                              + decimal.Decimal(cos_alpha) * decimal.Decimal(sin_beta)) + decimal.Decimal(0.1)
+
+        '''
+        t = ParentR / ParentL
+        if t >= 1:
+            print("break")
+        '''
+
         BallParent = ParentO + [ParentL, ParentR]
         word2ballDic.update({atreeName: BallParent})
 
@@ -149,6 +164,13 @@ def training_P_by_name(childName, atreeName, addDim=[], wsChildrenDic=dict(),wor
             ParentR += delta
             delta *= 10
         BallParent = ParentO + [ParentL, ParentR]
+
+        '''
+        t = ParentR / ParentL
+        if t >= 1:
+            print("break")
+        '''
+
         word2ballDic.update({atreeName: BallParent})
         # print('*', qsr_P_degree_by_name(childName, atreeName))
         # print("**", qsr_P_by_name(childName, atreeName))
@@ -205,6 +227,13 @@ def making_ball_contains(root, children,  addDim=[], word2vecDic=dict(),
                 minL_R = decimal.Decimal(pBall[-2]) - decimal.Decimal(pBall[-1])
 
             word2ballDic[root] = word2ballDic[root][:-2] + [maxL, maxL - minL_R + cgap]
+
+            '''
+            t = word2ballDic[root][-1] / word2ballDic[root][-2]
+            if t >= 1:
+                print("break")
+            '''
+
             if outputPath:
                 create_ball_file(root,  outputPath=outputPath,word2ballDic=word2ballDic)
     return word2ballDic
@@ -233,8 +262,6 @@ def training_DC_by_name(childrenNames, wsChildrenDic=dict(), word2ballDic=dict()
         lst = [(item[0], word2ballDic[item[0]]) for item in sorted(dic.items(), key=operator.itemgetter(1))]
 
     i = 0
-    if "herd.n.02" in childrenNames and "gathering.n.01" in childrenNames:
-        print('break')
     while i < len(lst) - 1:
         # print('i:', i, ' in', len(lst))
         j = i + 1
@@ -247,6 +274,12 @@ def training_DC_by_name(childrenNames, wsChildrenDic=dict(), word2ballDic=dict()
                 ball1 = word2ballDic[curTreeName]
                 l1, r1 = decimal.Decimal(ball1[-2]), decimal.Decimal(ball1[-1])
                 k = r1 / l1
+
+                '''
+                if k >= 1:
+                    print("break")
+                '''
+
                 if k == 1:
                     L, R = word2ballDic[curTreeName][-2:]
                     print('Shifting...', curTreeName)
@@ -280,14 +313,12 @@ def training_DC_by_name(childrenNames, wsChildrenDic=dict(), word2ballDic=dict()
         lst = [(item[0], word2ballDic[item[0]]) for item in sorted(dic.items(), key=operator.itemgetter(1))]
         i += 1
 
-    if "herd.n.02" in childrenNames and "gathering.n.01" in childrenNames:
-        print('break')
-
     #####
     # homothetic transformation
     #####
     for child in childrenNames:
         ratio = word2ballDic[child][-2]/decimal.Decimal(dic0[child])
+
         word2ballDic = homothetic_recursive_transform_of_decendents(child, root=child, rate=ratio,
                                                                     wsChildrenDic=wsChildrenDic,
                                                                     word2ballDic=word2ballDic, outputPath=outputPath)

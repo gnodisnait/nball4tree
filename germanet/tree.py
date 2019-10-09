@@ -1,8 +1,8 @@
 import os 
 
 class Node:
-    '''Data structure for creating n-ary trees.
-    '''
+    """Data structure for creating n-ary trees.
+    """
 
     def __init__(self, word, index=1, parent=None):
         self.index = index
@@ -52,19 +52,21 @@ class Node:
         return self.word + " "+" ".join(path)
 
 class Tree:
-    '''Tree Datastructure for creating word-hypernym trees.
-    '''
+    """Tree Datastructure for creating word-hypernym trees.
+    """
 
     def __init__(self):
         self.root = Node('*root*')
         self.depth = 1
         self.words = set()
 
-    def add_hypernym_path(self, ordered_path, embedded_words):
-        '''Adds a hypernym path of a word. 
+    def add_hypernym_path(self, ordered_path, embedded_words, ignore_duplicates):
+        """Adds a hypernym path of a word.
 
         :param ordered_path: ordered list of parents of a word/synset, starting from root
-        '''
+        :param embedded_words: set containing word-embeddings
+        :param ignore_duplicates: True if duplicate nodes with different hypernym paths should be ignored, else False
+        """
 
         node = self.root
         current_len = 0
@@ -78,6 +80,8 @@ class Tree:
                 break
             elif node.has_child(child):
                 node = node.get_child(child)
+            elif ignore_duplicates and child in self.words:
+                break
             else:
                 self.words.add(child)
                 node = node.add_child(child)
@@ -88,10 +92,10 @@ class Tree:
             
 
     def write_parent_location_code(self, outputfile):
-        '''Writes parent locations of all words into a file.
+        """Writes parent locations of all words into a file.
 
         :param outputfile: file to write into
-        '''
+        """
 
         if os.path.isfile(outputfile):
             return
@@ -108,11 +112,11 @@ class Tree:
 
 
     def write_tree(self, outputfile):
-        '''Writes the elements of the tree into a file.
+        """Writes the elements of the tree into a file.
         The structure of the output follows the breadth-first-search approach.
-            
+
         :param outputfile: the file to write into
-        '''  
+        """
 
         def traverse(node, visited, file):
             code = node.get_path_string()
@@ -132,4 +136,3 @@ class Tree:
         visited = {'0'}
         with open(outputfile, 'w') as file:
             traverse(node, visited, file)
-        

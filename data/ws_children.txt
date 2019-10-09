@@ -1,0 +1,4995 @@
+*root* Zustand.n.1 Stelle.n.3 Entität.n.2 machen.v.7 wahrnehmen.v.3 denken.v.5 handeln.v.5 sein.v.2 Menge.n.2 wünschen.v.1 nehmen.v.1 bekommen.v.4 sein.v.3 geben.v.4 gehen.v.7 lassen.v.5 wissen.v.2 haben.v.1 führen.v.5 können.v.2 haben.v.6 stammen.v.1 fehlen.v.5 kommen.v.2 bedeuten.v.2 anschließen.v.3 gefallen.v.1 haben.v.8 bekommen.v.2 müssen.v.2 sollen.v.1 sein.v.5 können.v.1 haben.v.7 sollen.v.3 folgen.v.1 sollen.v.2 folgen.v.5 haben.v.5 halten.v.5 können.v.3
+Zustand.n.1 Beziehung.n.1 Situation.n.1 Verfassung.n.1 Dauerhaftigkeit.n.1
+Beziehung.n.1 Kommunikation.n.1 Verknüpfung.n.1 Verbindung.n.2 Gleichheit.n.1 Relation.n.2 Funktion.n.2 Abhängigkeit.n.2 Kontakt.n.2 Hierarchie.n.1 Partnerschaft.n.1 Verlinkung.n.1 Miteinander.n.1 Band.n.7 Symbiose.n.1 Tonalität.n.3 Freiheit.n.2 Nebeneinander.n.1 Bezug.n.2 Korrelation.n.1 Zusammenleben.n.1
+Kommunikation.n.1 Äußerung.n.2 Gespräch.n.1 Telekommunikation.n.1 Lachen.n.1 Briefwechsel.n.1 Moderation.n.1 Signalisierung.n.1
+Äußerung.n.2 Aussage.n.1 Spruch.n.2 Schrei.n.1 Abgabe.n.2 Vorschlag.n.2 Antwort.n.2 Erlaubnis.n.1 Wort.n.4 Meinungsäußerung.n.1 Kundgebung.n.1 Benennung.n.1 Entschuldigung.n.1 Vorwurf.n.2 Wort.n.3 Erhöhung.n.1 Drohung.n.1 Artikulation.n.1 Lob.n.1 Ausruf.n.1
+Aussage.n.1 Text.n.1 Behauptung.n.2 Erwähnung.n.1 Zeugnis.n.1 Eid.n.1 Geständnis.n.1 Wahrheit.n.1 Argument.n.1 Lüge.n.1
+Text.n.1 Aufsatz.n.1 Literatur.n.1 Kurzform.n.1 Edition.n.3 Wortlaut.n.1 Libretto.n.1 Erzählung.n.2 Text.n.2 Wort.n.2 Erklärung.n.4 Originaltext.n.1 Kontext.n.1 Untertitel.n.2 Umschrift.n.1 Fließtext.n.1 Klartext.n.1 Urtext.n.1
+Aufsatz.n.1 Untersuchung.n.1 Forschungsarbeit.n.1 Traktat.n.3 Abriss.n.1
+Untersuchung.n.1
+Forschungsarbeit.n.1
+Traktat.n.3
+Abriss.n.1
+Literatur.n.1 Literatur.n.2 Sekundärliteratur.n.1 Fachliteratur.n.1
+Literatur.n.2 Epik.n.1 Schauspiel.n.1 Jugendliteratur.n.1 Weltliteratur.n.1 Hörspiel.n.1 Dramatik.n.1 Belletristik.n.1
+Epik.n.1 Lied.n.1 Epos.n.1
+Lied.n.1
+Epos.n.1 Ilias.n.1 Aeneis.n.1 Ulysses.n.1 Nibelungenlied.n.1 Odyssee.n.1 Edda.n.1
+Ilias.n.1
+Aeneis.n.1
+Ulysses.n.1
+Nibelungenlied.n.1
+Odyssee.n.1
+Edda.n.1
+Schauspiel.n.1 Posse.n.1 Melodram.n.1 Komödie.n.3 Farce.n.1 Drama.n.1 Spiel.n.1 Tragikomödie.n.1 Trauerspiel.n.1
+Posse.n.1
+Melodram.n.1
+Komödie.n.3 Lustspiel.n.1
+Lustspiel.n.1
+Farce.n.1
+Drama.n.1
+Spiel.n.1
+Tragikomödie.n.1
+Trauerspiel.n.1
+Jugendliteratur.n.1
+Weltliteratur.n.1
+Hörspiel.n.1
+Dramatik.n.1
+Belletristik.n.1
+Sekundärliteratur.n.1
+Fachliteratur.n.1
+Kurzform.n.1 Deklaration.n.1
+Deklaration.n.1
+Edition.n.3 Werkausgabe.n.1 Originalausgabe.n.1 Gesamtausgabe.n.1 Taschenbuchausgabe.n.1 Neuausgabe.n.1 Erstausgabe.n.1
+Werkausgabe.n.1
+Originalausgabe.n.1
+Gesamtausgabe.n.1
+Taschenbuchausgabe.n.1
+Neuausgabe.n.1
+Erstausgabe.n.1
+Wortlaut.n.1
+Libretto.n.1
+Erzählung.n.2 Witz.n.3 Anekdote.n.1 Märchen.n.1
+Witz.n.3
+Anekdote.n.1
+Märchen.n.1
+Text.n.2 Hypertext.n.1
+Hypertext.n.1
+Wort.n.2
+Erklärung.n.4 Bekanntmachung.n.1 Widmung.n.1 Kriegserklärung.n.1 Pressekonferenz.n.1 Unabhängigkeitserklärung.n.1 Meldung.n.1
+Bekanntmachung.n.1
+Widmung.n.1
+Kriegserklärung.n.1
+Pressekonferenz.n.1
+Unabhängigkeitserklärung.n.1
+Meldung.n.1
+Originaltext.n.1
+Kontext.n.1
+Untertitel.n.2
+Umschrift.n.1
+Fließtext.n.1
+Klartext.n.1
+Urtext.n.1
+Behauptung.n.2 Parole.n.2 These.n.1 Unterstellung.n.1
+Parole.n.2
+These.n.1
+Unterstellung.n.1
+Erwähnung.n.1 Bemerkung.n.1 Berührung.n.1 Ersterwähnung.n.1
+Bemerkung.n.1 Anmerkung.n.2 Feststellung.n.3 Anspielung.n.1 U-Boot.n.1
+Anmerkung.n.2
+Feststellung.n.3
+Anspielung.n.1
+U-Boot.n.1
+Berührung.n.1
+Ersterwähnung.n.1
+Zeugnis.n.1
+Eid.n.1 Versprechen.n.1
+Versprechen.n.1 Votum.n.1 Aussetzung.n.1 Verheißung.n.1 Verpflichtung.n.2 Wort.n.1
+Votum.n.1
+Aussetzung.n.1
+Verheißung.n.1
+Verpflichtung.n.2
+Wort.n.1
+Geständnis.n.1 Bekenntnis.n.1 Beichte.n.1
+Bekenntnis.n.1
+Beichte.n.1
+Wahrheit.n.1
+Argument.n.1 Kriterium.n.1
+Kriterium.n.1
+Lüge.n.1 Schauspielerei.n.1 Erfindung.n.3 Verleumdung.n.2
+Schauspielerei.n.1
+Erfindung.n.3 Fabel.n.1
+Fabel.n.1
+Verleumdung.n.2
+Spruch.n.2 Überzeugung.n.1 Weisheit.n.1 Wahlspruch.n.1
+Überzeugung.n.1
+Weisheit.n.1
+Wahlspruch.n.1 Parole.n.3
+Parole.n.3
+Schrei.n.1 Ruf.n.3
+Ruf.n.3
+Abgabe.n.2
+Vorschlag.n.2 Angebot.n.3 Entwurf.n.2 Aufstellung.n.5 Propaganda.n.1
+Angebot.n.3 Nahrungsangebot.n.1 Angebot.n.1
+Nahrungsangebot.n.1
+Angebot.n.1 Gebot.n.1
+Gebot.n.1
+Entwurf.n.2 Skizze.n.1 Szenario.n.1 Anlage.n.3 Konzept.n.1 Gesetzentwurf.n.1 Studie.n.1 Schema.n.2 Gerüst.n.1 Verfassungsentwurf.n.1 Inszenierung.n.1 Bauplan.n.1 Vorlage.n.2
+Skizze.n.1
+Szenario.n.1
+Anlage.n.3
+Konzept.n.1 Exposition.n.2
+Exposition.n.2
+Gesetzentwurf.n.1
+Studie.n.1
+Schema.n.2
+Gerüst.n.1
+Verfassungsentwurf.n.1
+Inszenierung.n.1
+Bauplan.n.1
+Vorlage.n.2
+Aufstellung.n.5 Nominierung.n.1
+Nominierung.n.1
+Propaganda.n.1 Anraten.n.1
+Anraten.n.1
+Antwort.n.2
+Erlaubnis.n.1 Freigabe.n.1 Genehmigung.n.1 Einlass.n.2 Approbation.n.1 Freigabe.n.2 Gewährung.n.2 Zulassung.n.2 Bewilligung.n.1 Konzession.n.2 Fahrerlaubnis.n.1
+Freigabe.n.1 Haftentlassung.n.1
+Haftentlassung.n.1
+Genehmigung.n.1 Baugenehmigung.n.1
+Baugenehmigung.n.1
+Einlass.n.2 Zutritt.n.1
+Zutritt.n.1
+Approbation.n.1
+Freigabe.n.2
+Gewährung.n.2
+Zulassung.n.2 Zulässigkeit.n.1 Lizenz.n.1
+Zulässigkeit.n.1
+Lizenz.n.1
+Bewilligung.n.1
+Konzession.n.2
+Fahrerlaubnis.n.1
+Wort.n.4 Ausdruck.n.5
+Ausdruck.n.5 Relikt.n.1 Expression.n.1
+Relikt.n.1
+Expression.n.1
+Meinungsäußerung.n.1 Stimme.n.4 Stellungnahme.n.2
+Stimme.n.4
+Stellungnahme.n.2
+Kundgebung.n.1
+Benennung.n.1 Aufzählung.n.1
+Aufzählung.n.1
+Entschuldigung.n.1
+Vorwurf.n.2
+Wort.n.3
+Erhöhung.n.1
+Drohung.n.1
+Artikulation.n.1
+Lob.n.1
+Ausruf.n.1
+Gespräch.n.1 Unterhaltung.n.3 Diskussion.n.1 Interview.n.1 Aussprache.n.1 Disput.n.1 Unterredung.n.1 Dialog.n.1 Monolog.n.1
+Unterhaltung.n.3
+Diskussion.n.1
+Interview.n.1
+Aussprache.n.1
+Disput.n.1 Polemik.n.1 Disputation.n.1
+Polemik.n.1
+Disputation.n.1
+Unterredung.n.1 Informationsaustausch.n.1
+Informationsaustausch.n.1
+Dialog.n.1
+Monolog.n.1
+Telekommunikation.n.1 Anruf.n.2
+Anruf.n.2
+Lachen.n.1
+Briefwechsel.n.1
+Moderation.n.1
+Signalisierung.n.1
+Verknüpfung.n.1 Assoziation.n.1 Verzahnung.n.1 Verflechtung.n.1 Geflecht.n.1
+Assoziation.n.1
+Verzahnung.n.1
+Verflechtung.n.1
+Geflecht.n.1
+Verbindung.n.2 Vereinigung.n.1 Verwicklung.n.1 Zusammenhang.n.1 Zusammenhalt.n.1 Nord-Süd-Verbindung.n.1 Kontinuum.n.1 Kopplung.n.2 Straßenverbindung.n.1
+Vereinigung.n.1 Fusion.n.1 Synthese.n.2 Anschluss.n.4 Personalunion.n.1
+Fusion.n.1 Kernfusion.n.1
+Kernfusion.n.1
+Synthese.n.2 Biosynthese.n.1 Transkription.n.2
+Biosynthese.n.1
+Transkription.n.2
+Anschluss.n.4
+Personalunion.n.1
+Verwicklung.n.1 Verstrickung.n.1
+Verstrickung.n.1
+Zusammenhang.n.1 Kohärenz.n.1 Gesetz.n.2 Konsistenz.n.1
+Kohärenz.n.1
+Gesetz.n.2
+Konsistenz.n.1
+Zusammenhalt.n.1 Bindung.n.1
+Bindung.n.1
+Nord-Süd-Verbindung.n.1
+Kontinuum.n.1
+Kopplung.n.2
+Straßenverbindung.n.1
+Gleichheit.n.1 Äquivalent.n.1 Ähnlichkeit.n.1 Gleichheit.n.2 Deckung.n.3 Homogenität.n.1 Kongruenz.n.2 Gleichzeitigkeit.n.1 Parität.n.3 Chancengleichheit.n.1 Gleichsetzung.n.1
+Äquivalent.n.1 Ersatz.n.1 Gegenwert.n.1 Gegenüber.n.1
+Ersatz.n.1 Vertreterin.n.1 Provisorium.n.2
+Vertreterin.n.1 Ablösung.n.2
+Ablösung.n.2
+Provisorium.n.2
+Gegenwert.n.1
+Gegenüber.n.1 Gegenstück.n.1
+Gegenstück.n.1
+Ähnlichkeit.n.1 Anklang.n.1 Anlehnung.n.1 Verwandtschaft.n.1 Parallele.n.1 Vergleich.n.4
+Anklang.n.1
+Anlehnung.n.1
+Verwandtschaft.n.1
+Parallele.n.1
+Vergleich.n.4
+Gleichheit.n.2
+Deckung.n.3 Konvergenz.n.1 Korrespondenz.n.2 Kongruenz.n.1
+Konvergenz.n.1
+Korrespondenz.n.2
+Kongruenz.n.1
+Homogenität.n.1
+Kongruenz.n.2
+Gleichzeitigkeit.n.1
+Parität.n.3
+Chancengleichheit.n.1
+Gleichsetzung.n.1
+Relation.n.2 Parität.n.2 Parität.n.1 Statik.n.3 Lichtstärke.n.1 Seitenverhältnis.n.1 Funktion.n.1 Maßstab.n.1
+Parität.n.2
+Parität.n.1
+Statik.n.3
+Lichtstärke.n.1
+Seitenverhältnis.n.1
+Funktion.n.1 Schutzfunktion.n.1
+Schutzfunktion.n.1
+Maßstab.n.1
+Funktion.n.2 Fakultät.n.2 Wellenfunktion.n.1 Übertragungsfunktion.n.1 Logarithmus.n.1 Determinante.n.1 Exponentialfunktion.n.1 Verteilungsfunktion.n.1
+Fakultät.n.2
+Wellenfunktion.n.1
+Übertragungsfunktion.n.1
+Logarithmus.n.1
+Determinante.n.1
+Exponentialfunktion.n.1
+Verteilungsfunktion.n.1
+Abhängigkeit.n.2
+Kontakt.n.2 Verbindung.n.3 Berührung.n.2
+Verbindung.n.3 Anbindung.n.1
+Anbindung.n.1 Verkehrsanbindung.n.1
+Verkehrsanbindung.n.1
+Berührung.n.2
+Hierarchie.n.1 Taxonomie.n.1 Rangfolge.n.1
+Taxonomie.n.1
+Rangfolge.n.1
+Partnerschaft.n.1 Städtepartnerschaft.n.1
+Städtepartnerschaft.n.1
+Verlinkung.n.1 Schaltung.n.2
+Schaltung.n.2
+Miteinander.n.1 Verbundenheit.n.2 Zugehörigkeit.n.1 Solidarität.n.1
+Verbundenheit.n.2 Verbundenheit.n.1 Nähe.n.1 Affinität.n.1 Bindung.n.3
+Verbundenheit.n.1
+Nähe.n.1
+Affinität.n.1
+Bindung.n.3
+Zugehörigkeit.n.1 Staatsangehörigkeit.n.1 Loyalität.n.1
+Staatsangehörigkeit.n.1
+Loyalität.n.1
+Solidarität.n.1
+Band.n.7
+Symbiose.n.1
+Tonalität.n.3
+Freiheit.n.2
+Nebeneinander.n.1
+Bezug.n.2
+Korrelation.n.1
+Zusammenleben.n.1
+Situation.n.1 Ereignis.n.1 Zustand.n.2 Behinderung.n.1 Not.n.1 Dasein.n.1 Herausforderung.n.2 Alltag.n.1 Vollbeschäftigung.n.1 Ernst.n.1
+Ereignis.n.1 Prozess.n.1 Erscheinung.n.3 Ding.n.2 Abgabe.n.3
+Prozess.n.1 Übermittlung.n.1 Lauf.n.3 Erkennung.n.1 Vorgang.n.2 Aufnahme.n.3 Werdegang.n.1 Herstellungsprozess.n.1 Formatierung.n.1 Umschrift.n.3 Datenverarbeitung.n.1 Entwicklungsprozess.n.1 Transkription.n.1
+Übermittlung.n.1 Mitteilung.n.1 Übersetzen.n.1 Ausstrahlung.n.1
+Mitteilung.n.1 Antwort.n.1 Ablehnung.n.2 Aufforderung.n.1 Bericht.n.1 Erklärung.n.2 Lehre.n.3 Pressemitteilung.n.1 Auskunft.n.2 Abfrage.n.1 Schreiben.n.1 Nachricht.n.1 Bericht.n.2 Verbreitung.n.1 Beitrag.n.1 Bestätigung.n.3 Entschuldigung.n.2 Verständigung.n.1 Austausch.n.1 Annahme.n.2
+Antwort.n.1 Verneinung.n.1 Bestätigung.n.1
+Verneinung.n.1 Anfechtung.n.2 Absage.n.1
+Anfechtung.n.2 Klage.n.2 Verfassungsbeschwerde.n.1 Anstoß.n.1
+Klage.n.2 Anklage.n.2 Strafanzeige.n.1
+Anklage.n.2
+Strafanzeige.n.1 Denunziation.n.1
+Denunziation.n.1
+Verfassungsbeschwerde.n.1
+Anstoß.n.1
+Absage.n.1
+Bestätigung.n.1 Zustimmung.n.1
+Zustimmung.n.1 Beifall.n.1 Zusage.n.1 Einwilligung.n.1 Billigung.n.1 Anklang.n.2 Parteinahme.n.1 Einverständnis.n.1 Sanktion.n.1
+Beifall.n.1
+Zusage.n.1
+Einwilligung.n.1
+Billigung.n.1 Entlastung.n.1 Annahme.n.1
+Entlastung.n.1
+Annahme.n.1
+Anklang.n.2
+Parteinahme.n.1
+Einverständnis.n.1
+Sanktion.n.1
+Ablehnung.n.2 Abfertigung.n.2 Weigerung.n.1 Zurückweisung.n.1 Aberkennung.n.1 Einwand.n.1 Absage.n.2 Korb.n.1 Vorwurf.n.1
+Abfertigung.n.2
+Weigerung.n.1
+Zurückweisung.n.1 Verwerfung.n.1
+Verwerfung.n.1
+Aberkennung.n.1
+Einwand.n.1 Kritik.n.1 Widerspruch.n.2 Einspruch.n.1
+Kritik.n.1
+Widerspruch.n.2
+Einspruch.n.1
+Absage.n.2
+Korb.n.1
+Vorwurf.n.1
+Aufforderung.n.1 Anweisung.n.4 Gebot.n.2 Verbot.n.1 Einladung.n.1 Appell.n.2 Ladung.n.1 Abruf.n.1
+Anweisung.n.4 Auftrag.n.1 Maßgabe.n.1 Bestimmung.n.5 Vorschrift.n.2 Anweisung.n.5 Zuweisung.n.1 Verhängung.n.1 Rezeptur.n.2 Rezept.n.2
+Auftrag.n.1 Bestellung.n.3
+Bestellung.n.3 Abonnement.n.1 Abruf.n.2 Anforderung.n.1 Order.n.2
+Abonnement.n.1
+Abruf.n.2
+Anforderung.n.1
+Order.n.2
+Maßgabe.n.1
+Bestimmung.n.5 Fixierung.n.1
+Fixierung.n.1
+Vorschrift.n.2
+Anweisung.n.5
+Zuweisung.n.1
+Verhängung.n.1
+Rezeptur.n.2
+Rezept.n.2
+Gebot.n.2 Befehl.n.2 Verfügung.n.2 Erlass.n.2 Kommando.n.2
+Befehl.n.2 Forderung.n.1 Order.n.1
+Forderung.n.1 Wunsch.n.2 Wille.n.3 Anforderung.n.2 Bedingung.n.1 Ruf.n.4 Bedarf.n.1 Imperativ.n.2 Anspruch.n.1 Bestehen.n.1 Postulat.n.2
+Wunsch.n.2 Bitte.n.1 Verlangen.n.1 Traum.n.2
+Bitte.n.1 Anrufung.n.1 Ersuchen.n.1 Gebet.n.1
+Anrufung.n.1 Kyrie.n.1
+Kyrie.n.1
+Ersuchen.n.1
+Gebet.n.1 Preis.n.1 Vaterunser.n.1 Segen.n.1 Stundengebet.n.1 Ave.n.1
+Preis.n.1
+Vaterunser.n.1
+Segen.n.1
+Stundengebet.n.1
+Ave.n.1
+Verlangen.n.1
+Traum.n.2
+Wille.n.3 Absicht.n.1
+Absicht.n.1 Ansinnen.n.1
+Ansinnen.n.1
+Anforderung.n.2
+Bedingung.n.1
+Ruf.n.4 Aufruf.n.1
+Aufruf.n.1
+Bedarf.n.1 Eigenbedarf.n.1 Energiebedarf.n.1 Nachfrage.n.2
+Eigenbedarf.n.1
+Energiebedarf.n.1
+Nachfrage.n.2 Zuspruch.n.1
+Zuspruch.n.1
+Imperativ.n.2
+Anspruch.n.1
+Bestehen.n.1
+Postulat.n.2
+Order.n.1
+Verfügung.n.2 Rechtsverordnung.n.1 Patientenverfügung.n.1 Dekret.n.1
+Rechtsverordnung.n.1
+Patientenverfügung.n.1
+Dekret.n.1
+Erlass.n.2 Edikt.n.1 Bulle.n.1
+Edikt.n.1 Gemeindeedikt.n.1
+Gemeindeedikt.n.1
+Bulle.n.1
+Kommando.n.2
+Verbot.n.1 Sperre.n.1 Prohibition.n.1 Berufsverbot.n.1 Tabu.n.1
+Sperre.n.1
+Prohibition.n.1
+Berufsverbot.n.1
+Tabu.n.1
+Einladung.n.1
+Appell.n.2 Plädoyer.n.1
+Plädoyer.n.1
+Ladung.n.1
+Abruf.n.1
+Bericht.n.1 Jahresbericht.n.1 Zeugnis.n.3 Nachrichten.n.2 Reisebericht.n.1
+Jahresbericht.n.1
+Zeugnis.n.3 Bescheinigung.n.1 Zertifikat.n.1
+Bescheinigung.n.1 Führerschein.n.1 Los.n.1 TÜV.n.2
+Führerschein.n.1
+Los.n.1 Treffer.n.1
+Treffer.n.1
+TÜV.n.2
+Zertifikat.n.1
+Nachrichten.n.2
+Reisebericht.n.1
+Erklärung.n.2 Deutung.n.1 Ausführung.n.2 Herleitung.n.1 Deklaration.n.2 Fußnote.n.1 Begründung.n.2 Glosse.n.2 Legende.n.1
+Deutung.n.1 Auseinandersetzung.n.1 Lesung.n.1 Darstellung.n.2 Kommentar.n.1 Umdeutung.n.1 Exegese.n.1
+Auseinandersetzung.n.1 Besprechung.n.2 Beratung.n.2
+Besprechung.n.2 Kritik.n.2 Beratung.n.1 Rücksprache.n.1
+Kritik.n.2 Beurteilung.n.1 Literaturkritik.n.1 Besprechung.n.1 Filmkritik.n.1 Review.n.1
+Beurteilung.n.1 Ranking.n.2 Prädikat.n.3 Expertise.n.1
+Ranking.n.2
+Prädikat.n.3
+Expertise.n.1
+Literaturkritik.n.1
+Besprechung.n.1
+Filmkritik.n.1
+Review.n.1
+Beratung.n.1
+Rücksprache.n.1
+Beratung.n.2 Lesung.n.2 Seelsorge.n.1
+Lesung.n.2
+Seelsorge.n.1
+Lesung.n.1
+Darstellung.n.2 Verzerrung.n.1 Individualisierung.n.1 Darbietung.n.1
+Verzerrung.n.1
+Individualisierung.n.1
+Darbietung.n.1
+Kommentar.n.1
+Umdeutung.n.1
+Exegese.n.1
+Ausführung.n.2
+Herleitung.n.1
+Deklaration.n.2
+Fußnote.n.1
+Begründung.n.2 Berufung.n.3
+Berufung.n.3
+Glosse.n.2
+Legende.n.1
+Lehre.n.3 Anleitung.n.2 Lehrgang.n.1
+Anleitung.n.2 Einführung.n.4
+Einführung.n.4 Amtseinführung.n.1 Initiation.n.1 Vorstellung.n.1
+Amtseinführung.n.1 Ernennung.n.1 Thronbesteigung.n.1 Vereidigung.n.1 Ordination.n.2
+Ernennung.n.1 Bestellung.n.1
+Bestellung.n.1
+Thronbesteigung.n.1 Kaiserkrönung.n.1
+Kaiserkrönung.n.1
+Vereidigung.n.1
+Ordination.n.2
+Initiation.n.1
+Vorstellung.n.1
+Lehrgang.n.1
+Pressemitteilung.n.1
+Auskunft.n.2 Erklärung.n.3 Hinweis.n.1 Bescheid.n.1 Aufklärung.n.2
+Erklärung.n.3 Offenlegung.n.1 Legitimation.n.1 Willenserklärung.n.1 Eröffnung.n.2
+Offenlegung.n.1 Bekanntmachung.n.2 Bekanntwerden.n.1 Aufdeckung.n.1
+Bekanntmachung.n.2 Verkündigung.n.1 Ausschreibung.n.1 Einführung.n.2 Ankündigung.n.1 Publikation.n.1 Ausruf.n.2
+Verkündigung.n.1
+Ausschreibung.n.1 Aufgebot.n.2 Anzeige.n.1 Steckbrief.n.1
+Aufgebot.n.2
+Anzeige.n.1
+Steckbrief.n.1
+Einführung.n.2 Wiedereinführung.n.1
+Wiedereinführung.n.1
+Ankündigung.n.1 Vorschau.n.1 Anmeldung.n.1 Re.n.1 Avis.n.1
+Vorschau.n.1
+Anmeldung.n.1
+Re.n.1
+Avis.n.1
+Publikation.n.1 Erstveröffentlichung.n.2 Edition.n.2
+Erstveröffentlichung.n.2
+Edition.n.2
+Ausruf.n.2
+Bekanntwerden.n.1
+Aufdeckung.n.1
+Legitimation.n.1
+Willenserklärung.n.1
+Eröffnung.n.2
+Hinweis.n.1 Rat.n.3 Verweis.n.1 Stichwort.n.1 Weisung.n.1
+Rat.n.3 Warnung.n.1
+Warnung.n.1 Achtung.n.2 Alarm.n.1
+Achtung.n.2
+Alarm.n.1
+Verweis.n.1 Referenz.n.2 Bezugnahme.n.1
+Referenz.n.2
+Bezugnahme.n.1
+Stichwort.n.1 Schlagwort.n.1
+Schlagwort.n.1
+Weisung.n.1
+Bescheid.n.1
+Aufklärung.n.2
+Abfrage.n.1 Antrag.n.3 Frage.n.2
+Antrag.n.3 Löschantrag.n.1 Antrag.n.2 Motion.n.1 Volksbegehren.n.1 Zeichnung.n.2
+Löschantrag.n.1
+Antrag.n.2
+Motion.n.1
+Volksbegehren.n.1
+Zeichnung.n.2
+Frage.n.2 Nachfrage.n.1
+Nachfrage.n.1
+Schreiben.n.1 Telegramm.n.1 Fax.n.1 Brief.n.1 Rundschreiben.n.1 Bewerbung.n.1 Resolution.n.1 Umlauf.n.2 Note.n.2 Adresse.n.1 Ladung.n.2
+Telegramm.n.1
+Fax.n.1
+Brief.n.1
+Rundschreiben.n.1 Enzyklika.n.1
+Enzyklika.n.1
+Bewerbung.n.1
+Resolution.n.1
+Umlauf.n.2
+Note.n.2
+Adresse.n.1
+Ladung.n.2
+Nachricht.n.1 Gerücht.n.1 Botschaft.n.2 Bestellung.n.2 Mail.n.1
+Gerücht.n.1
+Botschaft.n.2 Message.n.1
+Message.n.1
+Bestellung.n.2
+Mail.n.1 Spam.n.1
+Spam.n.1
+Bericht.n.2
+Verbreitung.n.1
+Beitrag.n.1
+Bestätigung.n.3
+Entschuldigung.n.2 Rechtfertigung.n.1
+Rechtfertigung.n.1
+Verständigung.n.1
+Austausch.n.1 Rechtsverkehr.n.1
+Rechtsverkehr.n.1
+Annahme.n.2
+Übersetzen.n.1 Bibelübersetzung.n.1 Transliteration.n.1 Synchronisation.n.1 Neuübersetzung.n.1
+Bibelübersetzung.n.1 Septuaginta.n.1
+Septuaginta.n.1
+Transliteration.n.1
+Synchronisation.n.1
+Neuübersetzung.n.1
+Ausstrahlung.n.1 Erstausstrahlung.n.1 Wiederholung.n.1
+Erstausstrahlung.n.1
+Wiederholung.n.1
+Lauf.n.3 Wechsel.n.4 Geschichte.n.6 Kriegsverlauf.n.1 Reihung.n.1 Trott.n.1 Fortschritt.n.1 Weiterentwicklung.n.1 Umbruch.n.2 Lebenslauf.n.1 Verjüngung.n.1 Kreislauf.n.2 Bevölkerungsentwicklung.n.1 Vererbung.n.1 Neuentwicklung.n.2 Alterung.n.2 Wachstum.n.3 Evolution.n.1 Spielverlauf.n.1 Anamnese.n.1 Fokussierung.n.1 Entfaltung.n.1
+Wechsel.n.4 Bekehrung.n.1 Zeitenwende.n.1 Strukturwandel.n.1 Wechselspiel.n.1 Abkühlung.n.1 Bedeutungswandel.n.1
+Bekehrung.n.1
+Zeitenwende.n.1 Jahrtausendwende.n.1 Jahrhundertwende.n.1 Jahreswende.n.1
+Jahrtausendwende.n.1
+Jahrhundertwende.n.1
+Jahreswende.n.1
+Strukturwandel.n.1
+Wechselspiel.n.1
+Abkühlung.n.1
+Bedeutungswandel.n.1
+Geschichte.n.6 Kunstgeschichte.n.2 Wirtschaftsgeschichte.n.1 Geistesgeschichte.n.1 Familiengeschichte.n.2 Naturgeschichte.n.1 Unternehmensgeschichte.n.1 Filmgeschichte.n.1 Menschheitsgeschichte.n.1 Industrialisierung.n.1 Regionalgeschichte.n.1 Verwaltungsgeschichte.n.1 Bandgeschichte.n.1 Stammesgeschichte.n.1 Kirchengeschichte.n.1 Musikgeschichte.n.2 Ortsgeschichte.n.1 Siedlungsgeschichte.n.1 Religionsgeschichte.n.1 Landesgeschichte.n.1 Erdgeschichte.n.1 Literaturgeschichte.n.1 Kulturgeschichte.n.1 Sozialgeschichte.n.1 Militärgeschichte.n.1 Rechtsgeschichte.n.1 Stadtgeschichte.n.1 Versionsgeschichte.n.1 Baugeschichte.n.1 Philosophiegeschichte.n.1
+Kunstgeschichte.n.2
+Wirtschaftsgeschichte.n.1
+Geistesgeschichte.n.1 Empirismus.n.1 Strukturalismus.n.1 Humanismus.n.2 Rationalismus.n.1
+Empirismus.n.1
+Strukturalismus.n.1
+Humanismus.n.2
+Rationalismus.n.1
+Familiengeschichte.n.2
+Naturgeschichte.n.1
+Unternehmensgeschichte.n.1
+Filmgeschichte.n.1
+Menschheitsgeschichte.n.1
+Industrialisierung.n.1
+Regionalgeschichte.n.1
+Verwaltungsgeschichte.n.1
+Bandgeschichte.n.1
+Stammesgeschichte.n.1
+Kirchengeschichte.n.1 Protestantismus.n.1 Calvinismus.n.2
+Protestantismus.n.1 Pietismus.n.1
+Pietismus.n.1
+Calvinismus.n.2
+Musikgeschichte.n.2
+Ortsgeschichte.n.1
+Siedlungsgeschichte.n.1
+Religionsgeschichte.n.1
+Landesgeschichte.n.1
+Erdgeschichte.n.1
+Literaturgeschichte.n.1
+Kulturgeschichte.n.1
+Sozialgeschichte.n.1
+Militärgeschichte.n.1
+Rechtsgeschichte.n.1
+Stadtgeschichte.n.1
+Versionsgeschichte.n.1
+Baugeschichte.n.1
+Philosophiegeschichte.n.1
+Kriegsverlauf.n.1
+Reihung.n.1 Kaskade.n.3
+Kaskade.n.3
+Trott.n.1
+Fortschritt.n.1 Karriere.n.2
+Karriere.n.2 Profikarriere.n.1 Solokarriere.n.1 Filmkarriere.n.1
+Profikarriere.n.1
+Solokarriere.n.1
+Filmkarriere.n.1
+Weiterentwicklung.n.1 Progress.n.1
+Progress.n.1
+Umbruch.n.2 Umsturz.n.2 Revolution.n.1 Aufbruch.n.3
+Umsturz.n.2
+Revolution.n.1
+Aufbruch.n.3
+Lebenslauf.n.1
+Verjüngung.n.1
+Kreislauf.n.2
+Bevölkerungsentwicklung.n.1
+Vererbung.n.1 Abstammung.n.1
+Abstammung.n.1 Geburt.n.1 Herkunft.n.2
+Geburt.n.1
+Herkunft.n.2 Elternhaus.n.2
+Elternhaus.n.2
+Neuentwicklung.n.2
+Alterung.n.2
+Wachstum.n.3 Bevölkerungswachstum.n.1
+Bevölkerungswachstum.n.1
+Evolution.n.1
+Spielverlauf.n.1
+Anamnese.n.1
+Fokussierung.n.1 Fixierung.n.3 Spezialisierung.n.1
+Fixierung.n.3
+Spezialisierung.n.1
+Entfaltung.n.1
+Erkennung.n.1 Identifizierung.n.1
+Identifizierung.n.1 Entschlüsselung.n.1
+Entschlüsselung.n.1 Entzifferung.n.1
+Entzifferung.n.1
+Vorgang.n.2 Untergang.n.1 Löschung.n.1 Verfahren.n.3 Expression.n.2 Regelung.n.1 Extraktion.n.1 Mediatisierung.n.1 Verpackung.n.1 Induktion.n.1 Wäsche.n.2 Überlagerung.n.2
+Untergang.n.1 Untergang.n.2
+Untergang.n.2
+Löschung.n.1
+Verfahren.n.3
+Expression.n.2
+Regelung.n.1
+Extraktion.n.1
+Mediatisierung.n.1
+Verpackung.n.1
+Induktion.n.1
+Wäsche.n.2
+Überlagerung.n.2
+Aufnahme.n.3 Registrierung.n.1
+Registrierung.n.1
+Werdegang.n.1
+Herstellungsprozess.n.1
+Formatierung.n.1
+Umschrift.n.3 Romanisierung.n.2
+Romanisierung.n.2
+Datenverarbeitung.n.1 EDV.n.1
+EDV.n.1
+Entwicklungsprozess.n.1
+Transkription.n.1
+Erscheinung.n.3 Vorschein.n.1 Schatten.n.1
+Vorschein.n.1
+Schatten.n.1
+Ding.n.2
+Abgabe.n.3 Ausstoß.n.2
+Ausstoß.n.2
+Zustand.n.2 Ergebnis.n.2 Lage.n.5 Grundzustand.n.1 Originalzustand.n.1 Gesundheitszustand.n.1 Kriegszustand.n.1 Status.n.2 Ausnahmezustand.n.2 Unsicherheit.n.1 Modus.n.2
+Ergebnis.n.2 Schaden.n.1 Leistung.n.3 Wirkung.n.2 Belastung.n.1 Fazit.n.1 Auswirkung.n.1 Konsequenz.n.2 Rechtsfolge.n.1 Messung.n.1 Wahlergebnis.n.1 Output.n.2
+Schaden.n.1 Verschmutzung.n.1 Zerstörung.n.1 Zerstörung.n.2 Schande.n.1 Abbruch.n.1 Treibhauseffekt.n.1
+Verschmutzung.n.1 Verunreinigung.n.1 Luftverschmutzung.n.1
+Verunreinigung.n.1
+Luftverschmutzung.n.1
+Zerstörung.n.1
+Zerstörung.n.2 Explosion.n.2 Verwüstung.n.1 Zerfall.n.2 Zusammenbruch.n.1 Entzündung.n.2 Sprengung.n.2 Verfall.n.1
+Explosion.n.2 Schuss.n.4 Ausbruch.n.3 Schuss.n.3 Detonation.n.1
+Schuss.n.4
+Ausbruch.n.3 Entladung.n.2 Vulkanausbruch.n.1
+Entladung.n.2
+Vulkanausbruch.n.1
+Schuss.n.3 Abgabe.n.1
+Abgabe.n.1 Salve.n.1
+Salve.n.1
+Detonation.n.1
+Verwüstung.n.1
+Zerfall.n.2
+Zusammenbruch.n.1
+Entzündung.n.2
+Sprengung.n.2
+Verfall.n.1
+Schande.n.1
+Abbruch.n.1
+Treibhauseffekt.n.1
+Leistung.n.3 Prüfung.n.3 Erfolg.n.1 Nennleistung.n.1 Gelingen.n.1 Lebenswerk.n.2
+Prüfung.n.3 Aufnahmeprüfung.n.1 Promotion.n.2 Test.n.2 Klausur.n.4 Habilitation.n.2 Meisterprüfung.n.1 Vorspiel.n.1 Trial.n.2 Staatsexamen.n.1
+Aufnahmeprüfung.n.1
+Promotion.n.2
+Test.n.2
+Klausur.n.4
+Habilitation.n.2
+Meisterprüfung.n.1
+Vorspiel.n.1
+Trial.n.2
+Staatsexamen.n.1
+Erfolg.n.1 Sieg.n.1 Qualifizierung.n.1 Fortune.n.1 Wurf.n.1 Verdienst.n.2 Durchbruch.n.3 Verkaufserfolg.n.2 Zustandekommen.n.1 Gewinn.n.3 Publikumserfolg.n.1
+Sieg.n.1 Weltmeisterschaft.n.1 Niederwerfung.n.1 Meisterschaft.n.1 Olympiasieg.n.1 Titelgewinn.n.1 Wahlsieg.n.1
+Weltmeisterschaft.n.1
+Niederwerfung.n.1
+Meisterschaft.n.1
+Olympiasieg.n.1
+Titelgewinn.n.1
+Wahlsieg.n.1
+Qualifizierung.n.1
+Fortune.n.1
+Wurf.n.1
+Verdienst.n.2
+Durchbruch.n.3
+Verkaufserfolg.n.2
+Zustandekommen.n.1
+Gewinn.n.3
+Publikumserfolg.n.1
+Nennleistung.n.1
+Gelingen.n.1
+Lebenswerk.n.2
+Wirkung.n.2 Nebenwirkung.n.1 Witz.n.1 Wucht.n.1 Dramatik.n.2 Endeffekt.n.1
+Nebenwirkung.n.1
+Witz.n.1
+Wucht.n.1
+Dramatik.n.2
+Endeffekt.n.1
+Belastung.n.1
+Fazit.n.1 Handelsbilanz.n.1
+Handelsbilanz.n.1
+Auswirkung.n.1 Ausfluss.n.2
+Ausfluss.n.2
+Konsequenz.n.2
+Rechtsfolge.n.1
+Messung.n.1
+Wahlergebnis.n.1
+Output.n.2
+Lage.n.5
+Grundzustand.n.1
+Originalzustand.n.1
+Gesundheitszustand.n.1
+Kriegszustand.n.1
+Status.n.2
+Ausnahmezustand.n.2
+Unsicherheit.n.1
+Modus.n.2
+Behinderung.n.1 Zwang.n.1 Behinderung.n.3
+Zwang.n.1
+Behinderung.n.3 Stau.n.1
+Stau.n.1
+Not.n.1 Gefahr.n.1 Notstand.n.1 Notstand.n.3 Last.n.2 Wohnungsnot.n.1 Plage.n.2 Arbeitslosigkeit.n.1 Bedrängnis.n.1 Hunger.n.1
+Gefahr.n.1 Bedrohung.n.1 Lebensgefahr.n.1 Gefährdung.n.1
+Bedrohung.n.1
+Lebensgefahr.n.1
+Gefährdung.n.1 Anfechtung.n.1
+Anfechtung.n.1
+Notstand.n.1 Ausnahmezustand.n.1
+Ausnahmezustand.n.1
+Notstand.n.3
+Last.n.2 Plage.n.1 Hypothek.n.4 Kreuz.n.6
+Plage.n.1
+Hypothek.n.4
+Kreuz.n.6
+Wohnungsnot.n.1
+Plage.n.2
+Arbeitslosigkeit.n.1
+Bedrängnis.n.1
+Hunger.n.1
+Dasein.n.1 Zivilisation.n.1 Geschick.n.1
+Zivilisation.n.1
+Geschick.n.1
+Herausforderung.n.2
+Alltag.n.1 Alltagsleben.n.1
+Alltagsleben.n.1
+Vollbeschäftigung.n.1
+Ernst.n.1
+Verfassung.n.1 Krankheit.n.1 Konstitution.n.2 Schwäche.n.2 Unschuld.n.3 Nacktheit.n.1 Sättigung.n.1 Gesundheit.n.1 Form.n.1 Tragzeit.n.2 Müdigkeit.n.2
+Krankheit.n.1 Entzündung.n.1 Erbkrankheit.n.1 Kollaps.n.2 Grippe.n.1 Erkältung.n.1 Leiden.n.1 Alzheimer.n.1 Epidemie.n.1 Kollaps.n.1 Anfall.n.2 Tollwut.n.1 Sucht.n.2 Zucker.n.1 Verschluss.n.1
+Entzündung.n.1 Reizung.n.1 Wolf.n.3
+Reizung.n.1
+Wolf.n.3
+Erbkrankheit.n.1
+Kollaps.n.2
+Grippe.n.1
+Erkältung.n.1 Husten.n.1
+Husten.n.1
+Leiden.n.1 Sklerose.n.1 Anämie.n.1 Gicht.n.2
+Sklerose.n.1 MS.n.1
+MS.n.1
+Anämie.n.1
+Gicht.n.2
+Alzheimer.n.1
+Epidemie.n.1 Pestepidemie.n.1
+Pestepidemie.n.1
+Kollaps.n.1 Schock.n.1
+Schock.n.1
+Anfall.n.2
+Tollwut.n.1
+Sucht.n.2
+Zucker.n.1
+Verschluss.n.1
+Konstitution.n.2 Kraft.n.1 Stärke.n.7 Nerven.n.1
+Kraft.n.1 Schlagkraft.n.1 Gewalt.n.2
+Schlagkraft.n.1
+Gewalt.n.2 Terror.n.1 Brutalität.n.1 Grausamkeit.n.2
+Terror.n.1
+Brutalität.n.1
+Grausamkeit.n.2 Barbarei.n.2
+Barbarei.n.2
+Stärke.n.7 Fitness.n.1 Widerstandsfähigkeit.n.1 Robustheit.n.1
+Fitness.n.1
+Widerstandsfähigkeit.n.1 Toleranz.n.2 Zähigkeit.n.1 Immunabwehr.n.1
+Toleranz.n.2
+Zähigkeit.n.1
+Immunabwehr.n.1
+Robustheit.n.1
+Nerven.n.1
+Schwäche.n.2 Instabilität.n.1 Empfindlichkeit.n.1
+Instabilität.n.1
+Empfindlichkeit.n.1
+Unschuld.n.3
+Nacktheit.n.1
+Sättigung.n.1
+Gesundheit.n.1 Wohl.n.1
+Wohl.n.1
+Form.n.1 Ausdauer.n.1
+Ausdauer.n.1
+Tragzeit.n.2
+Müdigkeit.n.2
+Dauerhaftigkeit.n.1
+Stelle.n.3 Lage.n.4 Region.n.3 Aufenthaltsort.n.1 Seite.n.4 Gebiet.n.4 Veranstaltungsort.n.1 Stelle.n.6 Platz.n.4 Spielstätte.n.1 Platz.n.2 Warte.n.3 Bestimmung.n.1 Platz.n.3 Hauptort.n.1 Station.n.2 Tatort.n.1 Einsatzort.n.1 Fundstätte.n.1 Drehort.n.1 Pol.n.1 Pol.n.3 Paradies.n.2 Begegnungsstätte.n.1 Zusammenfluss.n.1 Treffpunkt.n.1 Abbau.n.1 Grabstelle.n.1 Gedenkstätte.n.1
+Lage.n.4 Lokalisierung.n.1 Höhenlage.n.1 Hanglage.n.1 Randlage.n.1 Bahnanschluss.n.1 Ortslage.n.1
+Lokalisierung.n.1 Richtung.n.2 Entfernung.n.1 Stationierung.n.1 Positionierung.n.1 Ausrichtung.n.2 Gegenrichtung.n.1
+Richtung.n.2 Fließrichtung.n.1 Bewegungsrichtung.n.1 Flugrichtung.n.1 Ost-West-Richtung.n.2 Himmelsrichtung.n.1 Lauf.n.2 Fahrtrichtung.n.1 Längsrichtung.n.1 Windrichtung.n.1
+Fließrichtung.n.1
+Bewegungsrichtung.n.1 West-Ost-Richtung.n.1 Drehrichtung.n.1 Nord-Süd-Richtung.n.1 Ost-West-Richtung.n.1
+West-Ost-Richtung.n.1
+Drehrichtung.n.1 Uhrzeigersinn.n.1
+Uhrzeigersinn.n.1
+Nord-Süd-Richtung.n.1
+Ost-West-Richtung.n.1
+Flugrichtung.n.1
+Ost-West-Richtung.n.2
+Himmelsrichtung.n.1 Norden.n.2 Südwesten.n.1 Osten.n.2 Nordosten.n.2 Süd.n.2 Nordwesten.n.1 Westen.n.1 Südosten.n.2
+Norden.n.2
+Südwesten.n.1
+Osten.n.2
+Nordosten.n.2
+Süd.n.2
+Nordwesten.n.1
+Westen.n.1
+Südosten.n.2
+Lauf.n.2 Abzweigung.n.1 Streckenführung.n.1 Verzweigung.n.1 Grenzverlauf.n.1 Kurve.n.3 Biegung.n.1 Mäander.n.1
+Abzweigung.n.1
+Streckenführung.n.1
+Verzweigung.n.1 Abzweig.n.1
+Abzweig.n.1
+Grenzverlauf.n.1
+Kurve.n.3
+Biegung.n.1 Knie.n.1
+Knie.n.1
+Mäander.n.1
+Fahrtrichtung.n.1
+Längsrichtung.n.1
+Windrichtung.n.1
+Entfernung.n.1 Nähe.n.3 Reichweite.n.1 Ferne.n.2 Einzug.n.4 Sprung.n.2 Luftlinie.n.1 Wellenlänge.n.1 Mensur.n.2 Brennweite.n.1 Spannweite.n.1 Tragweite.n.2 Radstand.n.1 Länge.n.1 Höhe.n.3 Parallaxe.n.2
+Nähe.n.3 Küstennähe.n.1 Bodennähe.n.1 Nachbarschaft.n.2
+Küstennähe.n.1
+Bodennähe.n.1
+Nachbarschaft.n.2
+Reichweite.n.1 Radius.n.1
+Radius.n.1
+Ferne.n.2 Spurweite.n.1
+Spurweite.n.1 Normalspur.n.1 Meterspur.n.1
+Normalspur.n.1
+Meterspur.n.1
+Einzug.n.4
+Sprung.n.2
+Luftlinie.n.1
+Wellenlänge.n.1
+Mensur.n.2
+Brennweite.n.1
+Spannweite.n.1
+Tragweite.n.2
+Radstand.n.1
+Länge.n.1
+Höhe.n.3
+Parallaxe.n.2
+Stationierung.n.1
+Positionierung.n.1 Stand.n.3 Platzierung.n.2 Stellung.n.3
+Stand.n.3
+Platzierung.n.2
+Stellung.n.3 Aspekt.n.1
+Aspekt.n.1
+Ausrichtung.n.2 Exposition.n.4
+Exposition.n.4
+Gegenrichtung.n.1
+Höhenlage.n.1 Seehöhe.n.1
+Seehöhe.n.1
+Hanglage.n.1
+Randlage.n.1 Stadtrand.n.1 Ortsrand.n.1 Waldrand.n.1 Bildrand.n.1
+Stadtrand.n.1
+Ortsrand.n.1
+Waldrand.n.1
+Bildrand.n.1
+Bahnanschluss.n.1
+Ortslage.n.1
+Region.n.3 Bereich.n.2 Jenseits.n.1 Osten.n.3 Schärfentiefe.n.1 Speicherbereich.n.1 Grenzregion.n.1 Westen.n.2 Namensraum.n.1 Einzugsgebiet.n.1 Diesseits.n.1 Fauna.n.2 Gegend.n.1 Lithosphäre.n.1 Übergangsbereich.n.1 Neuland.n.2 Nordosten.n.1 Südosten.n.1 Norden.n.1 Ionosphäre.n.1 Süden.n.1 Intervall.n.1
+Bereich.n.2 Umgebung.n.4 Stelle.n.4 Definitionsbereich.n.1 Spezialgebiet.n.1 Forum.n.1 Gravitationsfeld.n.1 Reich.n.3 Sektor.n.1 Sparte.n.3 Wirklichkeit.n.1 Terrain.n.1 Spielwelt.n.1 Vorfeld.n.1 Spannungsfeld.n.1 Anwendungsbereich.n.1 Betätigungsfeld.n.1 Parkett.n.1
+Umgebung.n.4 Umwelt.n.1 Milieu.n.1 Szene.n.3 Ambiente.n.1 Außenwelt.n.1
+Umwelt.n.1 Biosphäre.n.1
+Biosphäre.n.1
+Milieu.n.1 Kreis.n.1 Unterwelt.n.2
+Kreis.n.1
+Unterwelt.n.2
+Szene.n.3 Musikszene.n.1 Kunstszene.n.1
+Musikszene.n.1
+Kunstszene.n.1
+Ambiente.n.1
+Außenwelt.n.1
+Stelle.n.4 Amt.n.3 Job.n.1 Pfarrstelle.n.1 Engagement.n.3 Beschäftigung.n.2 Stuhl.n.1
+Amt.n.3 Mandat.n.3 Vorsitz.n.1 Bundeskanzleramt.n.1 Präsidentenamt.n.1
+Mandat.n.3 Direktmandat.n.1 Überhangmandat.n.1
+Direktmandat.n.1
+Überhangmandat.n.1
+Vorsitz.n.1
+Bundeskanzleramt.n.1
+Präsidentenamt.n.1
+Job.n.1 Lohnarbeit.n.1 Erwerb.n.1
+Lohnarbeit.n.1
+Erwerb.n.1
+Pfarrstelle.n.1
+Engagement.n.3
+Beschäftigung.n.2
+Stuhl.n.1
+Definitionsbereich.n.1
+Spezialgebiet.n.1
+Forum.n.1 Podium.n.1
+Podium.n.1
+Gravitationsfeld.n.1
+Reich.n.3
+Sektor.n.1
+Sparte.n.3
+Wirklichkeit.n.1
+Terrain.n.1
+Spielwelt.n.1
+Vorfeld.n.1
+Spannungsfeld.n.1
+Anwendungsbereich.n.1
+Betätigungsfeld.n.1
+Parkett.n.1
+Jenseits.n.1
+Osten.n.3 Levante.n.1
+Levante.n.1
+Schärfentiefe.n.1
+Speicherbereich.n.1
+Grenzregion.n.1 Dreiländereck.n.1
+Dreiländereck.n.1
+Westen.n.2
+Namensraum.n.1
+Einzugsgebiet.n.1
+Diesseits.n.1 Erde.n.1
+Erde.n.1
+Fauna.n.2 Vogelwelt.n.1
+Vogelwelt.n.1
+Gegend.n.1
+Lithosphäre.n.1
+Übergangsbereich.n.1
+Neuland.n.2
+Nordosten.n.1
+Südosten.n.1
+Norden.n.1
+Ionosphäre.n.1
+Süden.n.1
+Intervall.n.1
+Aufenthaltsort.n.1 Unterkunft.n.2 Flughafen.n.1 Haus.n.2 Heim.n.2 Bahnhof.n.1 Wohnort.n.1 Wohnsitz.n.1 Eingangshalle.n.1 Ruhestätte.n.1 Campingplatz.n.1 Lager.n.2 Verbleib.n.1 Praxis.n.4 Badehaus.n.1 Camp.n.2
+Unterkunft.n.2 Zuflucht.n.1 Herberge.n.2 Schlupf.n.2
+Zuflucht.n.1 Schutz.n.1 Hort.n.2 Asyl.n.1
+Schutz.n.1 Deckung.n.5
+Deckung.n.5
+Hort.n.2
+Asyl.n.1
+Herberge.n.2 Jugendherberge.n.1
+Jugendherberge.n.1
+Schlupf.n.2 Nest.n.2
+Nest.n.2
+Flughafen.n.1 Verkehrsflughafen.n.1
+Verkehrsflughafen.n.1
+Haus.n.2 Theater.n.7 Oper.n.3 Gasthof.n.1 Pension.n.2
+Theater.n.7 Festspielhaus.n.1 Nationaltheater.n.1 Schaubühne.n.1 Burgtheater.n.1 Komödie.n.1 Hoftheater.n.1 Landestheater.n.1 Amphitheater.n.1 Stadttheater.n.1 Volkstheater.n.1 Volksbühne.n.1
+Festspielhaus.n.1
+Nationaltheater.n.1
+Schaubühne.n.1
+Burgtheater.n.1
+Komödie.n.1
+Hoftheater.n.1
+Landestheater.n.1
+Amphitheater.n.1 Kolosseum.n.1
+Kolosseum.n.1
+Stadttheater.n.1
+Volkstheater.n.1
+Volksbühne.n.1
+Oper.n.3 Staatsoper.n.1 Hofoper.n.1
+Staatsoper.n.1
+Hofoper.n.1
+Gasthof.n.1
+Pension.n.2
+Heim.n.2 Waisenhaus.n.1 Internat.n.1 Pflegeheim.n.1 Kinderheim.n.1 Anstalt.n.1
+Waisenhaus.n.1
+Internat.n.1
+Pflegeheim.n.1
+Kinderheim.n.1
+Anstalt.n.1
+Bahnhof.n.1 Güterbahnhof.n.1 Endbahnhof.n.1 S-Bahnhof.n.1 Busbahnhof.n.1 Rangierbahnhof.n.1 Hauptbahnhof.n.1 Ostbahnhof.n.1 Westbahnhof.n.1 U-Bahnhof.n.1 Durchgangsbahnhof.n.1 Südbahnhof.n.1
+Güterbahnhof.n.1
+Endbahnhof.n.1
+S-Bahnhof.n.1
+Busbahnhof.n.1
+Rangierbahnhof.n.1
+Hauptbahnhof.n.1
+Ostbahnhof.n.1
+Westbahnhof.n.1
+U-Bahnhof.n.1
+Durchgangsbahnhof.n.1
+Südbahnhof.n.1
+Wohnort.n.1
+Wohnsitz.n.1 Residenz.n.2 Landsitz.n.1 Sommersitz.n.1
+Residenz.n.2 Pfalz.n.1
+Pfalz.n.1
+Landsitz.n.1
+Sommersitz.n.1
+Eingangshalle.n.1
+Ruhestätte.n.1
+Campingplatz.n.1
+Lager.n.2
+Verbleib.n.1
+Praxis.n.4
+Badehaus.n.1
+Camp.n.2
+Seite.n.4 Haben.n.1 Westseite.n.1 Hauptseite.n.1 Rückseite.n.1 Unterseite.n.1 Flanke.n.3 Oberseite.n.1 Innenseite.n.1 Gegenseite.n.1 Ostseite.n.1 Rücken.n.1 Außenseite.n.1 Südseite.n.1 Straßenseite.n.2 Nordseite.n.1 Talseite.n.1
+Haben.n.1 Kredit.n.1
+Kredit.n.1
+Westseite.n.1
+Hauptseite.n.1
+Rückseite.n.1 Revers.n.1
+Revers.n.1
+Unterseite.n.1 Sohle.n.2 Bauchseite.n.1
+Sohle.n.2 Talsohle.n.1
+Talsohle.n.1
+Bauchseite.n.1
+Flanke.n.3 Südflanke.n.1 Nordflanke.n.1
+Südflanke.n.1
+Nordflanke.n.1
+Oberseite.n.1
+Innenseite.n.1
+Gegenseite.n.1
+Ostseite.n.1
+Rücken.n.1
+Außenseite.n.1
+Südseite.n.1
+Straßenseite.n.2
+Nordseite.n.1
+Talseite.n.1
+Gebiet.n.4 Agglomeration.n.1 Ortsbezirk.n.1 Staatsgebiet.n.1 Waldgebiet.n.2 Gazastreifen.n.1 Siebenbürgen.n.1 Stadtgebiet.n.1 Amtsbezirk.n.1 Stammesgebiet.n.1 Mandat.n.1 Kirchenkreis.n.1 Revier.n.2 Gerichtsbezirk.n.1 Distrikt.n.2 Kondominium.n.2 Mittelmeergebiet.n.1 Hofmark.n.1
+Agglomeration.n.1
+Ortsbezirk.n.1
+Staatsgebiet.n.1 Bundesgebiet.n.1 Königtum.n.2 Kaisertum.n.1 Papsttum.n.1 Reichsgebiet.n.1
+Bundesgebiet.n.1
+Königtum.n.2
+Kaisertum.n.1
+Papsttum.n.1
+Reichsgebiet.n.1
+Waldgebiet.n.2
+Gazastreifen.n.1
+Siebenbürgen.n.1
+Stadtgebiet.n.1 Gewerbepark.n.1
+Gewerbepark.n.1 Messegelände.n.1
+Messegelände.n.1
+Amtsbezirk.n.1
+Stammesgebiet.n.1 Homeland.n.1
+Homeland.n.1
+Mandat.n.1
+Kirchenkreis.n.1
+Revier.n.2
+Gerichtsbezirk.n.1
+Distrikt.n.2
+Kondominium.n.2
+Mittelmeergebiet.n.1
+Hofmark.n.1
+Veranstaltungsort.n.1
+Stelle.n.6 Öffnung.n.2 Wirbel.n.2 Ausfluss.n.3 Abbruch.n.2 Beschädigung.n.1 Mündung.n.1 Fuß.n.1 Engstelle.n.1
+Öffnung.n.2 Schlitz.n.2 Loch.n.3 Durchfahrt.n.1 Zugang.n.5 Ausgang.n.4 Dose.n.1 Ausschuss.n.1 Ausschnitt.n.2 Apertur.n.1 Gicht.n.1
+Schlitz.n.2
+Loch.n.3 Hole.n.1 Leck.n.1 Durchbruch.n.2 Auslauf.n.3
+Hole.n.1
+Leck.n.1
+Durchbruch.n.2
+Auslauf.n.3
+Durchfahrt.n.1 Passage.n.3 Enge.n.1 Grenzübergang.n.1
+Passage.n.3 Galerie.n.3
+Galerie.n.3
+Enge.n.1
+Grenzübergang.n.1
+Zugang.n.5 Tür.n.1 Einfahrt.n.2 Einlass.n.1 Einstieg.n.2 Ortseingang.n.1 Eingang.n.2 Zufahrt.n.2 Haupteingang.n.1
+Tür.n.1 Haustür.n.1
+Haustür.n.1
+Einfahrt.n.2
+Einlass.n.1
+Einstieg.n.2
+Ortseingang.n.1
+Eingang.n.2
+Zufahrt.n.2
+Haupteingang.n.1
+Ausgang.n.4 Abgang.n.2 Ausgang.n.5 Ausfahrt.n.2
+Abgang.n.2
+Ausgang.n.5
+Ausfahrt.n.2 Abfahrt.n.2
+Abfahrt.n.2
+Dose.n.1
+Ausschuss.n.1
+Ausschnitt.n.2
+Apertur.n.1
+Gicht.n.1
+Wirbel.n.2
+Ausfluss.n.3
+Abbruch.n.2
+Beschädigung.n.1
+Mündung.n.1 Einmündung.n.1
+Einmündung.n.1
+Fuß.n.1
+Engstelle.n.1
+Platz.n.4 Zwischenraum.n.1 Laderaum.n.1
+Zwischenraum.n.1 Spielraum.n.1 Absatz.n.2 Lücke.n.2 Fuge.n.1 Unterbrechung.n.1
+Spielraum.n.1
+Absatz.n.2
+Lücke.n.2 Foramen.n.1 Leerzeichen.n.1
+Foramen.n.1
+Leerzeichen.n.1
+Fuge.n.1
+Unterbrechung.n.1
+Laderaum.n.1
+Spielstätte.n.1 Heimspielstätte.n.1
+Heimspielstätte.n.1
+Platz.n.2 Flugplatz.n.1 Kessel.n.1 Versteck.n.1 Sitz.n.4 Vorplatz.n.1 Brutgebiet.n.1 Stammplatz.n.1 Wohnplatz.n.1
+Flugplatz.n.1
+Kessel.n.1
+Versteck.n.1 Hinterhalt.n.1
+Hinterhalt.n.1
+Sitz.n.4
+Vorplatz.n.1
+Brutgebiet.n.1
+Stammplatz.n.1
+Wohnplatz.n.1
+Warte.n.3 Sternwarte.n.1 Observatorium.n.1 Vogelwarte.n.1
+Sternwarte.n.1
+Observatorium.n.1
+Vogelwarte.n.1
+Bestimmung.n.1
+Platz.n.3 Arbeitsplatz.n.1
+Arbeitsplatz.n.1 Kuratorium.n.1 Baustelle.n.1 Studio.n.2 Laboratorium.n.1
+Kuratorium.n.1
+Baustelle.n.1 Baugebiet.n.1
+Baugebiet.n.1 Bauabschnitt.n.1
+Bauabschnitt.n.1
+Studio.n.2 Tonstudio.n.1 Atelier.n.2
+Tonstudio.n.1
+Atelier.n.2
+Laboratorium.n.1
+Hauptort.n.1 Bischofssitz.n.1
+Bischofssitz.n.1
+Station.n.2 Poststation.n.1 Haltestelle.n.1 Bergstation.n.1 Talstation.n.1 Zwischenstation.n.1
+Poststation.n.1
+Haltestelle.n.1 Anlegestelle.n.1 U-Bahn-Station.n.1
+Anlegestelle.n.1 Bollwerk.n.1 Pier.n.1 Dock.n.1 Kai.n.1
+Bollwerk.n.1
+Pier.n.1
+Dock.n.1
+Kai.n.1
+U-Bahn-Station.n.1
+Bergstation.n.1
+Talstation.n.1
+Zwischenstation.n.1
+Tatort.n.1
+Einsatzort.n.1
+Fundstätte.n.1 Vorkommen.n.1
+Vorkommen.n.1
+Drehort.n.1
+Pol.n.1 Nordpol.n.1 Südpol.n.1
+Nordpol.n.1
+Südpol.n.1
+Pol.n.3 Gegenpol.n.2
+Gegenpol.n.2
+Paradies.n.2
+Begegnungsstätte.n.1 Treffpunkt.n.2
+Treffpunkt.n.2
+Zusammenfluss.n.1
+Treffpunkt.n.1
+Abbau.n.1
+Grabstelle.n.1
+Gedenkstätte.n.1
+Entität.n.2 Objekt.n.4
+Objekt.n.4 Ding.n.5 Körper.n.1 Teil.n.4 Stoff.n.4 Nahrung.n.1 Hilfe.n.2
+Ding.n.5 Artefakt.n.1 Teil.n.2 Struktur.n.3 Teil.n.3 Stück.n.3 Fund.n.2 Ring.n.6 Kitsch.n.2 Altertümer.n.1
+Artefakt.n.1 Produkt.n.2 Bauwerk.n.1 Kunstwerk.n.1 Vorrichtung.n.1 Brett.n.2 Veröffentlichung.n.2 Bedeckung.n.3 Werkzeug.n.2 Produktion.n.2 Spiel.n.7 Instrument.n.1 Abbildung.n.2 Hindernis.n.2 Möbel.n.1 Ausrüstung.n.1 Behälter.n.1 Transportmittel.n.1 Schutz.n.2 Arbeit.n.3 Ausgrabung.n.1 Geld.n.1 Klotz.n.1 Zeug.n.2 Darstellung.n.4 Gewicht.n.1 Streifen.n.3 Teil.n.5 Seltenheit.n.1 Füllung.n.2 Leihgabe.n.1 Schwimmer.n.1 Sendung.n.1 Kugel.n.2 Ungeheuer.n.1 Andenken.n.2 Scheibe.n.4 Kern.n.5 Werkstück.n.1
+Produkt.n.2 Hardware.n.1 Gerät.n.1 Modell.n.5 Werkstoff.n.1 Schnur.n.1 Gerät.n.2 Lichtquelle.n.1 Zwischenprodukt.n.1
+Hardware.n.1 Computer.n.1 Lüfter.n.2 Bus.n.2 Controller.n.1 Peripherie.n.3 Leuchtdiode.n.1 Device.n.1 Zylinder.n.3 Port.n.2 Hauptplatine.n.1 Schaltkreis.n.1 Prozessor.n.1 Engine.n.1
+Computer.n.1 PC.n.1 Apple.n.1 Server.n.1 Supercomputer.n.1 Gateway.n.1 Workstation.n.1
+PC.n.1
+Apple.n.1
+Server.n.1
+Supercomputer.n.1
+Gateway.n.1
+Workstation.n.1
+Lüfter.n.2
+Bus.n.2 USB.n.1
+USB.n.1
+Controller.n.1
+Peripherie.n.3 Brenner.n.2
+Brenner.n.2
+Leuchtdiode.n.1
+Device.n.1 Ressource.n.3 Modem.n.1 Emulator.n.1 Display.n.1 Laser.n.1
+Ressource.n.3
+Modem.n.1
+Emulator.n.1
+Display.n.1
+Laser.n.1
+Zylinder.n.3
+Port.n.2
+Hauptplatine.n.1
+Schaltkreis.n.1
+Prozessor.n.1 CPU.n.1
+CPU.n.1
+Engine.n.1
+Gerät.n.1 Fluggerät.n.1 Apparat.n.2 Waffe.n.1 Endgerät.n.1 Kondensator.n.1 Detektor.n.1 Strahler.n.2 Sieb.n.1 Zirkel.n.2 Presse.n.2 Filter.n.3 Geber.n.2 Verbraucher.n.1
+Fluggerät.n.1 Drachen.n.2 Fallschirm.n.1
+Drachen.n.2
+Fallschirm.n.1
+Apparat.n.2 Technik.n.3 Maschine.n.2 Automat.n.1 Kompressor.n.1
+Technik.n.3 Sonar.n.1 Neigetechnik.n.1 Tontechnik.n.1
+Sonar.n.1
+Neigetechnik.n.1
+Tontechnik.n.1
+Maschine.n.2 Dampfmaschine.n.1 Rechenmaschine.n.2 Motor.n.1 Schreibmaschine.n.1 Generator.n.2 Triebwerk.n.1 Zeitmaschine.n.1
+Dampfmaschine.n.1
+Rechenmaschine.n.2 Taschenrechner.n.1
+Taschenrechner.n.1
+Motor.n.1
+Schreibmaschine.n.1
+Generator.n.2 Dynamo.n.1
+Dynamo.n.1
+Triebwerk.n.1
+Zeitmaschine.n.1
+Automat.n.1 Roboter.n.1
+Roboter.n.1 Android.n.2
+Android.n.2
+Kompressor.n.1
+Waffe.n.1 Schusswaffe.n.1 Klinge.n.1 Geschoss.n.1
+Schusswaffe.n.1 Armbrust.n.1 Kanone.n.2 Bogen.n.1
+Armbrust.n.1
+Kanone.n.2
+Bogen.n.1
+Klinge.n.1
+Geschoss.n.1 Pfeil.n.2 Torpedo.n.1 Bolzen.n.3 Projektil.n.1
+Pfeil.n.2
+Torpedo.n.1
+Bolzen.n.3
+Projektil.n.1
+Endgerät.n.1
+Kondensator.n.1
+Detektor.n.1
+Strahler.n.2
+Sieb.n.1
+Zirkel.n.2
+Presse.n.2
+Filter.n.3 Filter.n.1
+Filter.n.1
+Geber.n.2
+Verbraucher.n.1
+Modell.n.5 Ausführung.n.1 Nachbildung.n.1 Nachfolgemodell.n.1 Sondermodell.n.1
+Ausführung.n.1 Prototyp.n.1
+Prototyp.n.1
+Nachbildung.n.1 Imitation.n.1
+Imitation.n.1 Plagiat.n.1 Parodie.n.1
+Plagiat.n.1
+Parodie.n.1
+Nachfolgemodell.n.1
+Sondermodell.n.1
+Werkstoff.n.1 Chemikalie.n.1 Garn.n.2 Gewebe.n.2 Keramik.n.2 Leder.n.1 Klebstoff.n.1 Leinwand.n.2 Stahlbeton.n.1 Pelz.n.3 Porzellan.n.1 Elfenbein.n.1 Zellstoff.n.2
+Chemikalie.n.1 Farbe.n.4 Kunststoff.n.1
+Farbe.n.4 Pigment.n.1 Anstrich.n.3 Druckfarbe.n.1
+Pigment.n.1
+Anstrich.n.3
+Druckfarbe.n.1
+Kunststoff.n.1 PE.n.1 PP.n.1 PVC.n.1
+PE.n.1
+PP.n.1
+PVC.n.1
+Garn.n.2 Wolle.n.3
+Wolle.n.3
+Gewebe.n.2 Netz.n.1 Serge.n.1
+Netz.n.1
+Serge.n.1
+Keramik.n.2
+Leder.n.1 Pergament.n.2
+Pergament.n.2
+Klebstoff.n.1 Leim.n.1
+Leim.n.1
+Leinwand.n.2
+Stahlbeton.n.1
+Pelz.n.3 Biber.n.1 Fuchs.n.1
+Biber.n.1
+Fuchs.n.1
+Porzellan.n.1
+Elfenbein.n.1
+Zellstoff.n.2
+Schnur.n.1 Sehne.n.2 Draht.n.2 Leine.n.1 Faden.n.2 Kette.n.2 Strang.n.2 Seil.n.1
+Sehne.n.2
+Draht.n.2 Stacheldraht.n.1
+Stacheldraht.n.1
+Leine.n.1 Zügel.n.1
+Zügel.n.1
+Faden.n.2 Seide.n.1
+Seide.n.1
+Kette.n.2
+Strang.n.2 Saite.n.1 Tau.n.3
+Saite.n.1
+Tau.n.3
+Seil.n.1
+Gerät.n.2 Bock.n.4
+Bock.n.4
+Lichtquelle.n.1 Licht.n.1 Fackel.n.1 Kerze.n.4 Lampe.n.1
+Licht.n.1
+Fackel.n.1
+Kerze.n.4
+Lampe.n.1
+Zwischenprodukt.n.1
+Bauwerk.n.1 Gebäude.n.1 Anlage.n.5 Sendemast.n.1 Tiefbau.n.1 Baudenkmal.n.1 Pyramide.n.1
+Gebäude.n.1 Aufbewahrung.n.1 Institution.n.1 Lokal.n.1 Rohbau.n.1 Neubau.n.2 Schulgebäude.n.1 Scheune.n.1 Schober.n.2 Zentralbau.n.1 Empfangsgebäude.n.1 Regierungsgebäude.n.2 Nebengebäude.n.1 Saalbau.n.1 Monument.n.1 Erweiterungsbau.n.1 Hochbau.n.1 Loggia.n.2 Triumphbogen.n.1 Hütte.n.2 Bollwerk.n.2 Fabrik.n.1 Plattenbau.n.1 Pavillon.n.1 Vorgängerbau.n.1 Überbau.n.2 Belvedere.n.1 Parkhaus.n.1 Umbau.n.1
+Aufbewahrung.n.1 Lager.n.4 Bücherei.n.1 Garage.n.1 Archiv.n.2 Mediathek.n.1 Lokschuppen.n.1
+Lager.n.4 Endlager.n.1 Arsenal.n.1 Außenlager.n.1
+Endlager.n.1
+Arsenal.n.1
+Außenlager.n.1
+Bücherei.n.1 Universitätsbibliothek.n.1 Zentralbibliothek.n.1 Landesbibliothek.n.1 Nationalbibliothek.n.1 Stadtbücherei.n.1
+Universitätsbibliothek.n.1
+Zentralbibliothek.n.1
+Landesbibliothek.n.1
+Nationalbibliothek.n.1
+Stadtbücherei.n.1
+Garage.n.1 Tiefgarage.n.1
+Tiefgarage.n.1
+Archiv.n.2 Bundesarchiv.n.1 Staatsarchiv.n.1 Stadtarchiv.n.1 Landesarchiv.n.1
+Bundesarchiv.n.1
+Staatsarchiv.n.1
+Stadtarchiv.n.1
+Landesarchiv.n.1
+Mediathek.n.1
+Lokschuppen.n.1
+Institution.n.1 Station.n.3 Stelle.n.5 Träger.n.2 Seminar.n.2 Zentrum.n.1 Institut.n.1 Forschungseinrichtung.n.1 Staatsgewalt.n.1
+Station.n.3 Bodenstation.n.1 Wetterstation.n.1 Forschungsstation.n.1
+Bodenstation.n.1
+Wetterstation.n.1
+Forschungsstation.n.1
+Stelle.n.5 Annahme.n.6 Forschungsstelle.n.1 Anlaufstelle.n.1
+Annahme.n.6
+Forschungsstelle.n.1
+Anlaufstelle.n.1
+Träger.n.2
+Seminar.n.2 Priesterseminar.n.1 Lehrerseminar.n.1
+Priesterseminar.n.1
+Lehrerseminar.n.1
+Zentrum.n.1 Sportzentrum.n.1 Verwaltungszentrum.n.1 Besucherzentrum.n.1 Informationszentrum.n.1 Kongresszentrum.n.1 Schulzentrum.n.1 Forschungszentrum.n.1 Gemeindehaus.n.1 Bürgerhaus.n.2 Handelszentrum.n.1 Ausbildungszentrum.n.1 Kulturhaus.n.2 Jugendzentrum.n.2
+Sportzentrum.n.1
+Verwaltungszentrum.n.1
+Besucherzentrum.n.1
+Informationszentrum.n.1
+Kongresszentrum.n.1
+Schulzentrum.n.1
+Forschungszentrum.n.1
+Gemeindehaus.n.1
+Bürgerhaus.n.2
+Handelszentrum.n.1
+Ausbildungszentrum.n.1
+Kulturhaus.n.2
+Jugendzentrum.n.2
+Institut.n.1 Goethe-Institut.n.1 Bundesinstitut.n.1
+Goethe-Institut.n.1
+Bundesinstitut.n.1
+Forschungseinrichtung.n.1
+Staatsgewalt.n.1
+Lokal.n.1 Café.n.1 Gastwirtschaft.n.1 Bar.n.2 Raststätte.n.1 Kneipe.n.1 Schuppen.n.1 Klub.n.1
+Café.n.1 Kaffeehaus.n.1
+Kaffeehaus.n.1
+Gastwirtschaft.n.1
+Bar.n.2 Lounge.n.1
+Lounge.n.1
+Raststätte.n.1
+Kneipe.n.1 Pub.n.1
+Pub.n.1
+Schuppen.n.1
+Klub.n.1
+Rohbau.n.1
+Neubau.n.2
+Schulgebäude.n.1 Dorfschule.n.1 Volksschule.n.2
+Dorfschule.n.1
+Volksschule.n.2
+Scheune.n.1
+Schober.n.2
+Zentralbau.n.1
+Empfangsgebäude.n.1
+Regierungsgebäude.n.2
+Nebengebäude.n.1
+Saalbau.n.1 Palas.n.1
+Palas.n.1
+Monument.n.1
+Erweiterungsbau.n.1
+Hochbau.n.1
+Loggia.n.2
+Triumphbogen.n.1
+Hütte.n.2 Klause.n.2 Kate.n.2
+Klause.n.2 Einsiedelei.n.1
+Einsiedelei.n.1
+Kate.n.2
+Bollwerk.n.2 Bastei.n.1
+Bastei.n.1
+Fabrik.n.1
+Plattenbau.n.1
+Pavillon.n.1
+Vorgängerbau.n.1
+Überbau.n.2
+Belvedere.n.1
+Parkhaus.n.1
+Umbau.n.1
+Anlage.n.5 Sportanlage.n.1 Grünanlage.n.1 Resort.n.1 Schlossanlage.n.1 Klosteranlage.n.1 Arena.n.2 Wohnanlage.n.1 Burganlage.n.1 Tempelanlage.n.1 Grabanlage.n.1 Schlachthof.n.1 Labyrinth.n.2
+Sportanlage.n.1 Rennbahn.n.1 Sportpark.n.1 Laufbahn.n.1
+Rennbahn.n.1 Pferdebahn.n.1
+Pferdebahn.n.1
+Sportpark.n.1
+Laufbahn.n.1
+Grünanlage.n.1 Park.n.1 Volkspark.n.1 Garten.n.1
+Park.n.1 Naturpark.n.1 Wildpark.n.1 Vergnügungspark.n.1 Zoo.n.1 Schlosspark.n.1 Landschaftspark.n.1 Nationalpark.n.1 Freizeitpark.n.1 Stadtpark.n.1 Kurpark.n.1
+Naturpark.n.1
+Wildpark.n.1
+Vergnügungspark.n.1
+Zoo.n.1
+Schlosspark.n.1
+Landschaftspark.n.1
+Nationalpark.n.1
+Freizeitpark.n.1
+Stadtpark.n.1
+Kurpark.n.1
+Volkspark.n.1
+Garten.n.1 Schlossgarten.n.1 Lustgarten.n.1 Arboretum.n.1 Hofgarten.n.1
+Schlossgarten.n.1
+Lustgarten.n.1
+Arboretum.n.1
+Hofgarten.n.1
+Resort.n.1
+Schlossanlage.n.1
+Klosteranlage.n.1
+Arena.n.2 Zirkus.n.1
+Zirkus.n.1
+Wohnanlage.n.1 Pueblo.n.1
+Pueblo.n.1
+Burganlage.n.1 Vorburg.n.1
+Vorburg.n.1
+Tempelanlage.n.1
+Grabanlage.n.1
+Schlachthof.n.1
+Labyrinth.n.2
+Sendemast.n.1
+Tiefbau.n.1
+Baudenkmal.n.1
+Pyramide.n.1
+Kunstwerk.n.1 Musikstück.n.1 Musik.n.1 Bild.n.7 Streifen.n.1 Monument.n.2 Ornament.n.1 Objekt.n.2 Ausschmückung.n.1 Klassiker.n.3 Meisterwerk.n.1 Bemalung.n.2 Fragment.n.2 Original.n.3 Porzellan.n.3 Lyrik.n.1 Ausmalung.n.1 Satire.n.1 Kartusche.n.2 Gesamtwerk.n.1 Jugendarbeit.n.1 Schöpfung.n.1 Hauptwerk.n.2 Frühwerk.n.1 Antike.n.1 Gesamtkunstwerk.n.1 Geschichtswerk.n.1 Akt.n.1 Spätwerk.n.1
+Musikstück.n.1 Walzer.n.2 Überleitung.n.2 Largo.n.1 Lied.n.2 Duett.n.1 Coverversion.n.1 Suite.n.2 Sonate.n.1 Chor.n.1 Ballade.n.2 Kanon.n.4 Konzert.n.1 Passage.n.1 Tutti.n.1 Quartett.n.2 Nocturne.n.1 Fuge.n.2 Trio.n.3 Allegro.n.1 Romanze.n.3 Adagio.n.1 Tanz.n.2 Totentanz.n.1 Quintett.n.1 Air.n.1
+Walzer.n.2
+Überleitung.n.2
+Largo.n.1
+Lied.n.2 Titellied.n.1 Song.n.2 Gesang.n.1 Volkslied.n.1 Hymnus.n.4 Schlager.n.1 Remix.n.1 Track.n.3 Titelsong.n.1
+Titellied.n.1
+Song.n.2
+Gesang.n.1
+Volkslied.n.1
+Hymnus.n.4 Nationalhymne.n.1
+Nationalhymne.n.1
+Schlager.n.1 Nummer-eins-Hit.n.1
+Nummer-eins-Hit.n.1
+Remix.n.1
+Track.n.3
+Titelsong.n.1
+Duett.n.1
+Coverversion.n.1
+Suite.n.2
+Sonate.n.1
+Chor.n.1 Motette.n.1
+Motette.n.1
+Ballade.n.2
+Kanon.n.4
+Konzert.n.1 Klavierkonzert.n.1
+Klavierkonzert.n.1
+Passage.n.1
+Tutti.n.1
+Quartett.n.2 Streichquartett.n.1
+Streichquartett.n.1
+Nocturne.n.1
+Fuge.n.2
+Trio.n.3
+Allegro.n.1
+Romanze.n.3
+Adagio.n.1
+Tanz.n.2
+Totentanz.n.1
+Quintett.n.1
+Air.n.1
+Musik.n.1 Requiem.n.2 Oratorium.n.1 Messe.n.2 Symphonie.n.1 Operette.n.1
+Requiem.n.2
+Oratorium.n.1
+Messe.n.2
+Symphonie.n.1
+Operette.n.1
+Bild.n.7 Grafik.n.2 Miniatur.n.2 Ikone.n.2 Altarbild.n.1 Aquarell.n.1 Stich.n.1 Bühnenbild.n.1 Fries.n.2 Gemälde.n.1 Radierung.n.2 Kreuzigungsgruppe.n.1 Collage.n.1 Montage.n.1 Relief.n.1 Wandbild.n.1 Buchmalerei.n.1 Wappenbild.n.1
+Grafik.n.2 Animation.n.1 Computergrafik.n.1
+Animation.n.1
+Computergrafik.n.1 Plot.n.2
+Plot.n.2
+Miniatur.n.2
+Ikone.n.2 Madonna.n.2 Palladium.n.1
+Madonna.n.2
+Palladium.n.1
+Altarbild.n.1 Triptychon.n.1
+Triptychon.n.1
+Aquarell.n.1
+Stich.n.1 Kupferstich.n.1
+Kupferstich.n.1
+Bühnenbild.n.1 Szenenbild.n.1
+Szenenbild.n.1
+Fries.n.2
+Gemälde.n.1 Wandgemälde.n.1 Deckengemälde.n.1 Ölgemälde.n.1
+Wandgemälde.n.1
+Deckengemälde.n.1
+Ölgemälde.n.1
+Radierung.n.2
+Kreuzigungsgruppe.n.1
+Collage.n.1
+Montage.n.1
+Relief.n.1
+Wandbild.n.1
+Buchmalerei.n.1
+Wappenbild.n.1
+Streifen.n.1 Zeichentrickfilm.n.1 Stummfilm.n.1 Feature.n.3 Tonfilm.n.1 Kurzfilm.n.1 Verfilmung.n.1 Fernsehproduktion.n.1 Kinofilm.n.1 Frame.n.1 Spielfilm.n.1 Filmdrama.n.1 Tragödie.n.1 Filmkomödie.n.1 Fernsehfilm.n.1
+Zeichentrickfilm.n.1 Anime.n.1 Cartoon.n.1
+Anime.n.1
+Cartoon.n.1
+Stummfilm.n.1
+Feature.n.3
+Tonfilm.n.1
+Kurzfilm.n.1
+Verfilmung.n.1 Neuverfilmung.n.1
+Neuverfilmung.n.1 Remake.n.1
+Remake.n.1
+Fernsehproduktion.n.1
+Kinofilm.n.1 Originalfassung.n.1
+Originalfassung.n.1
+Frame.n.1
+Spielfilm.n.1
+Filmdrama.n.1
+Tragödie.n.1
+Filmkomödie.n.1
+Fernsehfilm.n.1
+Monument.n.2 Denkmal.n.2
+Denkmal.n.2 Ehrenmal.n.1 Denkmal.n.1 Naturdenkmal.n.1 Kriegerdenkmal.n.1 Mal.n.1
+Ehrenmal.n.1
+Denkmal.n.1 Bodendenkmal.n.1
+Bodendenkmal.n.1
+Naturdenkmal.n.1
+Kriegerdenkmal.n.1
+Mal.n.1
+Ornament.n.1 Vorschlag.n.1 Mosaik.n.1 Applikation.n.2 Mäander.n.2 Giebel.n.1 Stuck.n.1 Blende.n.1 Rosette.n.1
+Vorschlag.n.1
+Mosaik.n.1
+Applikation.n.2
+Mäander.n.2
+Giebel.n.1
+Stuck.n.1
+Blende.n.1
+Rosette.n.1
+Objekt.n.2 Skulptur.n.2 Statue.n.1 Bronze.n.1 Holzschnitt.n.2
+Skulptur.n.2 Sphinx.n.1
+Sphinx.n.1
+Statue.n.1 Torso.n.3 Büste.n.3
+Torso.n.3
+Büste.n.3
+Bronze.n.1
+Holzschnitt.n.2
+Ausschmückung.n.1 Dekor.n.1 Ornamentik.n.1
+Dekor.n.1
+Ornamentik.n.1
+Klassiker.n.3
+Meisterwerk.n.1
+Bemalung.n.2
+Fragment.n.2
+Original.n.3
+Porzellan.n.3
+Lyrik.n.1 Gedicht.n.1
+Gedicht.n.1 Ballade.n.1 Ode.n.1 Reim.n.2 Limerick.n.1 Elegie.n.2 Sonett.n.1 Carmen.n.1 Hymnus.n.3 Elegie.n.1
+Ballade.n.1
+Ode.n.1
+Reim.n.2
+Limerick.n.1
+Elegie.n.2
+Sonett.n.1
+Carmen.n.1
+Hymnus.n.3
+Elegie.n.1
+Ausmalung.n.1
+Satire.n.1
+Kartusche.n.2
+Gesamtwerk.n.1
+Jugendarbeit.n.1
+Schöpfung.n.1
+Hauptwerk.n.2
+Frühwerk.n.1
+Antike.n.1
+Gesamtkunstwerk.n.1
+Geschichtswerk.n.1
+Akt.n.1
+Spätwerk.n.1
+Vorrichtung.n.1 Abfahrt.n.1 Stab.n.1 Hebel.n.1 Brenner.n.3 Leitung.n.1 Abdichtung.n.2 Stange.n.2 Absatz.n.4 Segel.n.1 Teiler.n.2 Wand.n.2 Plattform.n.2 Gestell.n.2 Reflektor.n.1 Weiche.n.1 Treppe.n.1 Leiste.n.3 Baldachin.n.1 Griff.n.1 Stromabnehmer.n.2 Gerüst.n.2 Sonde.n.1 Walze.n.6 Tastatur.n.1 Stahlkonstruktion.n.1 Haken.n.3 Mechanismus.n.3 Gleisdreieck.n.1 Reaktor.n.1 Schütz.n.1 Antenne.n.2 Sitz.n.6 Zelt.n.1 Schiene.n.3 Dachkonstruktion.n.1 Schanze.n.2 Visier.n.1 Stock.n.6 Dichtung.n.3 Rick.n.1 Ventil.n.1 Sporn.n.3 Blatt.n.2 Rinne.n.1 Ablage.n.3 Klammer.n.3 Federung.n.1 Rahmen.n.4 Flügel.n.6 Mundstück.n.2 Falle.n.2 Pendel.n.1 Düse.n.1 Sucher.n.2 Korn.n.2 Glockenspiel.n.1
+Abfahrt.n.1 Rampe.n.2
+Rampe.n.2
+Stab.n.1 Stift.n.3 Stäbchen.n.1 Zepter.n.2 Zapfen.n.1 Bogen.n.3 Hebel.n.2 Krummstab.n.1 Stiel.n.2
+Stift.n.3
+Stäbchen.n.1 Mine.n.1
+Mine.n.1
+Zepter.n.2
+Zapfen.n.1 Stollen.n.3 Angel.n.1
+Stollen.n.3
+Angel.n.1
+Bogen.n.3
+Hebel.n.2
+Krummstab.n.1
+Stiel.n.2
+Hebel.n.1 Pedal.n.1
+Pedal.n.1 Gas.n.1
+Gas.n.1
+Brenner.n.3
+Leitung.n.1 Rohrleitung.n.1 Wasserleitung.n.1
+Rohrleitung.n.1
+Wasserleitung.n.1 Wasserführung.n.1 Aquädukt.n.1
+Wasserführung.n.1
+Aquädukt.n.1
+Abdichtung.n.2 Wärmedämmung.n.1
+Wärmedämmung.n.1
+Stange.n.2 Zahnstange.n.1 Pfahl.n.1 Spieß.n.3 Kurbel.n.1 Holm.n.4 Mast.n.1
+Zahnstange.n.1
+Pfahl.n.1 Palisade.n.1
+Palisade.n.1
+Spieß.n.3
+Kurbel.n.1 Wirbel.n.1
+Wirbel.n.1
+Holm.n.4
+Mast.n.1
+Absatz.n.4
+Segel.n.1 Fock.n.1
+Fock.n.1
+Teiler.n.2 Schott.n.1
+Schott.n.1
+Wand.n.2 Leinwand.n.3
+Leinwand.n.3
+Plattform.n.2 Bahnsteig.n.1 Bühne.n.2 Tribüne.n.1 Bühne.n.1 Aussichtsplattform.n.1 Podium.n.2
+Bahnsteig.n.1
+Bühne.n.2
+Tribüne.n.1
+Bühne.n.1 Studio.n.1 Weltbühne.n.1
+Studio.n.1
+Weltbühne.n.1
+Aussichtsplattform.n.1
+Podium.n.2
+Gestell.n.2 Chassis.n.1
+Chassis.n.1
+Reflektor.n.1 Spiegel.n.3
+Spiegel.n.3
+Weiche.n.1
+Treppe.n.1 Wendeltreppe.n.1 Freitreppe.n.1 Niedergang.n.1
+Wendeltreppe.n.1
+Freitreppe.n.1
+Niedergang.n.1
+Leiste.n.3 Feder.n.1 Holm.n.2 Riegel.n.3
+Feder.n.1
+Holm.n.2
+Riegel.n.3
+Baldachin.n.1 Tabernakel.n.2
+Tabernakel.n.2
+Griff.n.1 Zug.n.2 Heft.n.1 Bügel.n.5 Henkel.n.1 Knopf.n.1
+Zug.n.2
+Heft.n.1
+Bügel.n.5
+Henkel.n.1
+Knopf.n.1
+Stromabnehmer.n.2 Bügel.n.2
+Bügel.n.2
+Gerüst.n.2 Grundgerüst.n.1 Turm.n.1 Skelett.n.1 Rüstung.n.1 Dachstuhl.n.1
+Grundgerüst.n.1
+Turm.n.1
+Skelett.n.1
+Rüstung.n.1
+Dachstuhl.n.1
+Sonde.n.1
+Walze.n.6
+Tastatur.n.1 Klaviatur.n.1 Manual.n.1
+Klaviatur.n.1 Pedal.n.2
+Pedal.n.2
+Manual.n.1
+Stahlkonstruktion.n.1
+Haken.n.3
+Mechanismus.n.3 ABS.n.1 Werk.n.3 Kupplung.n.1 Ventil.n.2
+ABS.n.1
+Werk.n.3 Laufwerk.n.2 Uhrwerk.n.1
+Laufwerk.n.2
+Uhrwerk.n.1
+Kupplung.n.1
+Ventil.n.2
+Gleisdreieck.n.1
+Reaktor.n.1 Kernreaktor.n.1
+Kernreaktor.n.1
+Schütz.n.1
+Antenne.n.2 Sendeantenne.n.1
+Sendeantenne.n.1
+Sitz.n.6 Sattel.n.1
+Sattel.n.1
+Zelt.n.1
+Schiene.n.3 Stromschiene.n.1
+Stromschiene.n.1
+Dachkonstruktion.n.1
+Schanze.n.2
+Visier.n.1
+Stock.n.6 Rute.n.2
+Rute.n.2
+Dichtung.n.3
+Rick.n.1
+Ventil.n.1
+Sporn.n.3
+Blatt.n.2
+Rinne.n.1
+Ablage.n.3
+Klammer.n.3
+Federung.n.1
+Rahmen.n.4
+Flügel.n.6 Tragfläche.n.1
+Tragfläche.n.1
+Mundstück.n.2
+Falle.n.2
+Pendel.n.1
+Düse.n.1
+Sucher.n.2
+Korn.n.2
+Glockenspiel.n.1
+Brett.n.2 Tafel.n.3 Platte.n.5 Griffbrett.n.1 Schwelle.n.2
+Tafel.n.3 Gedenktafel.n.1 Beschilderung.n.1
+Gedenktafel.n.1 Grabplatte.n.1
+Grabplatte.n.1
+Beschilderung.n.1
+Platte.n.5 Plättchen.n.1 Blatt.n.1 Tafel.n.5 Leiterplatte.n.1 Schwert.n.1
+Plättchen.n.1
+Blatt.n.1
+Tafel.n.5
+Leiterplatte.n.1
+Schwert.n.1
+Griffbrett.n.1
+Schwelle.n.2
+Veröffentlichung.n.2 Erstveröffentlichung.n.1
+Erstveröffentlichung.n.1
+Bedeckung.n.3 Kleid.n.1 Verpackung.n.2 Hülle.n.1 Deckel.n.2 Auflage.n.1 Decke.n.1 Deckel.n.1
+Kleid.n.1 Garderobe.n.2 Toilette.n.1 Trauer.n.2 Kleidungsstück.n.1 Verkleidung.n.2
+Garderobe.n.2 Kopfbedeckung.n.1 Hose.n.1 Oberteil.n.1 Mantel.n.2 Krawatte.n.1 Fliege.n.2 Kleid.n.2 Hemd.n.2 Rock.n.3 Handschuh.n.1 Jacke.n.1 Weste.n.1 Gewand.n.1
+Kopfbedeckung.n.1 Helm.n.2 Hut.n.3 Mitra.n.1 Barett.n.1 Mütze.n.1 Haube.n.1 Kopftuch.n.1
+Helm.n.2 Stahlhelm.n.1 Schaller.n.1
+Stahlhelm.n.1
+Schaller.n.1
+Hut.n.3 Melone.n.2 Filz.n.2
+Melone.n.2
+Filz.n.2
+Mitra.n.1
+Barett.n.1
+Mütze.n.1
+Haube.n.1
+Kopftuch.n.1
+Hose.n.1 Short.n.1
+Short.n.1
+Oberteil.n.1
+Mantel.n.2 Ulster.n.2 Pelz.n.1 Domino.n.1
+Ulster.n.2
+Pelz.n.1
+Domino.n.1
+Krawatte.n.1
+Fliege.n.2
+Kleid.n.2 Robe.n.2
+Robe.n.2
+Hemd.n.2
+Rock.n.3
+Handschuh.n.1
+Jacke.n.1 Rock.n.2
+Rock.n.2
+Weste.n.1
+Gewand.n.1
+Toilette.n.1
+Trauer.n.2
+Kleidungsstück.n.1 Schoß.n.2
+Schoß.n.2
+Verkleidung.n.2
+Verpackung.n.2 Paket.n.4 Umschlag.n.6 Dose.n.3
+Paket.n.4
+Umschlag.n.6
+Dose.n.3
+Hülle.n.1 Überzug.n.1 Umschlag.n.2 Hülse.n.2 Einband.n.1 Folie.n.1
+Überzug.n.1
+Umschlag.n.2
+Hülse.n.2 Scheide.n.2 Kartusche.n.1
+Scheide.n.2
+Kartusche.n.1
+Einband.n.1
+Folie.n.1
+Deckel.n.2 Klappe.n.3
+Klappe.n.3 Querruder.n.2 Laden.n.1
+Querruder.n.2
+Laden.n.1
+Auflage.n.1
+Decke.n.1
+Deckel.n.1
+Werkzeug.n.2 Bohrer.n.1
+Bohrer.n.1
+Produktion.n.2 Fernsehproduktion.n.2 Koproduktion.n.2
+Fernsehproduktion.n.2
+Koproduktion.n.2
+Spiel.n.7 Brettspiel.n.1
+Brettspiel.n.1 Dame.n.4 Schach.n.2
+Dame.n.4
+Schach.n.2
+Instrument.n.1 Taste.n.1 Maß.n.3 Schlüssel.n.4
+Taste.n.1 Schütz.n.2 Relais.n.1
+Schütz.n.2
+Relais.n.1
+Maß.n.3 Uhr.n.1 Kompass.n.1 Monitor.n.2 Pegel.n.1 Mikrometer.n.1 Sensor.n.1 Waage.n.3
+Uhr.n.1 Sonnenuhr.n.1 Wecker.n.1 Timer.n.1
+Sonnenuhr.n.1
+Wecker.n.1
+Timer.n.1
+Kompass.n.1
+Monitor.n.2
+Pegel.n.1
+Mikrometer.n.1
+Sensor.n.1
+Waage.n.3
+Schlüssel.n.4
+Abbildung.n.2 Rekonstruktion.n.1 Bild.n.8 Kopie.n.2 Riss.n.1 Druck.n.3 Illustration.n.2 Karte.n.4 Abdruck.n.4 Figur.n.3 Zeichnung.n.3 Ansicht.n.1 Projektion.n.2
+Rekonstruktion.n.1 Replik.n.1 Phantom.n.2
+Replik.n.1
+Phantom.n.2
+Bild.n.8 Spiegelbild.n.1 Titelbild.n.1 Landschaftsbild.n.2 Porträt.n.1 Aufnahme.n.4
+Spiegelbild.n.1
+Titelbild.n.1
+Landschaftsbild.n.2
+Porträt.n.1 Selbstporträt.n.1
+Selbstporträt.n.1
+Aufnahme.n.4 Negativ.n.1
+Negativ.n.1
+Kopie.n.2 Kopie.n.1 Abzug.n.3 Pause.n.2 Nachahmung.n.1 Verkleinerung.n.1 Fälschung.n.1 Exemplar.n.1 Replikation.n.2 Vergrößerung.n.1 Klon.n.1 Nachbau.n.1 Abschrift.n.1
+Kopie.n.1
+Abzug.n.3
+Pause.n.2
+Nachahmung.n.1
+Verkleinerung.n.1
+Fälschung.n.1
+Exemplar.n.1
+Replikation.n.2
+Vergrößerung.n.1
+Klon.n.1
+Nachbau.n.1
+Abschrift.n.1
+Riss.n.1 Grundriss.n.3
+Grundriss.n.3
+Druck.n.3 Print.n.1 Reprint.n.1 Siebdruck.n.1 Aufdruck.n.1 Abdruck.n.2
+Print.n.1
+Reprint.n.1 Faksimile.n.1
+Faksimile.n.1
+Siebdruck.n.1
+Aufdruck.n.1
+Abdruck.n.2
+Illustration.n.2 Tafel.n.1
+Tafel.n.1
+Karte.n.4 Landkarte.n.1 Übersichtskarte.n.1 Landesaufnahme.n.1 Plan.n.1
+Landkarte.n.1 Weltkarte.n.1 Deutschlandkarte.n.1
+Weltkarte.n.1
+Deutschlandkarte.n.1
+Übersichtskarte.n.1
+Landesaufnahme.n.1
+Plan.n.1
+Abdruck.n.4 Spur.n.6 Abzug.n.2 Siegel.n.1
+Spur.n.6 Eindruck.n.1
+Eindruck.n.1
+Abzug.n.2
+Siegel.n.1
+Figur.n.3
+Zeichnung.n.3 Cartoon.n.2 Karikatur.n.1
+Cartoon.n.2
+Karikatur.n.1 Farce.n.3
+Farce.n.3
+Ansicht.n.1
+Projektion.n.2 Ekliptik.n.1 Grundriss.n.2
+Ekliptik.n.1
+Grundriss.n.2
+Hindernis.n.2 Barriere.n.1 Riegel.n.1 Hürde.n.3
+Barriere.n.1 Schranke.n.2 Gitter.n.2 Mauer.n.1 Burggraben.n.1 Hürde.n.1 Zaun.n.1
+Schranke.n.2
+Gitter.n.2 Rost.n.3 Raster.n.2 Kühlergrill.n.1
+Rost.n.3
+Raster.n.2
+Kühlergrill.n.1
+Mauer.n.1 Stadtmauer.n.1 Wehrmauer.n.1 Ringmauer.n.1 Staumauer.n.1
+Stadtmauer.n.1
+Wehrmauer.n.1
+Ringmauer.n.1
+Staumauer.n.1
+Burggraben.n.1
+Hürde.n.1
+Zaun.n.1
+Riegel.n.1 Lettner.n.1
+Lettner.n.1
+Hürde.n.3
+Möbel.n.1 Tisch.n.2 Schrank.n.1 Garderobe.n.4 Küche.n.2 Lampe.n.2 Bar.n.3 Bett.n.3 Wohnzimmer.n.1 Regal.n.2 Konsole.n.2 Schlafzimmer.n.1
+Tisch.n.2 Stand.n.4 Schreibtisch.n.1 Tafel.n.4 Billard.n.1 Stammtisch.n.1 Back.n.1
+Stand.n.4
+Schreibtisch.n.1 Sekretär.n.4
+Sekretär.n.4
+Tafel.n.4
+Billard.n.1
+Stammtisch.n.1
+Back.n.1
+Schrank.n.1 Schaft.n.2
+Schaft.n.2
+Garderobe.n.4
+Küche.n.2
+Lampe.n.2 Spot.n.1 Scheinwerfer.n.1 Laterne.n.1
+Spot.n.1
+Scheinwerfer.n.1
+Laterne.n.1
+Bar.n.3
+Bett.n.3 Nest.n.1 Klappe.n.1
+Nest.n.1
+Klappe.n.1
+Wohnzimmer.n.1
+Regal.n.2
+Konsole.n.2
+Schlafzimmer.n.1
+Ausrüstung.n.1 Einrichtung.n.5 Gepäck.n.1
+Einrichtung.n.5 Einrichtung.n.4
+Einrichtung.n.4 Innenausstattung.n.1
+Innenausstattung.n.1
+Gepäck.n.1
+Behälter.n.1 Aquarium.n.2 Gefäß.n.1 Eimer.n.2 Wanne.n.2 Becken.n.3 Korb.n.4 Schütte.n.1 Kasten.n.3 Container.n.2 Reservoir.n.2 Tasche.n.3 Gehäuse.n.3 Käfig.n.1 Spender.n.2 Urne.n.2 Tonne.n.5 Tender.n.1 Schrein.n.1 Karton.n.1 Kessel.n.4 Magazin.n.1 Packung.n.3 Sarg.n.1 Becher.n.3 Box.n.3 Tank.n.3 Mulde.n.2 Fass.n.1 Pfeife.n.3 Fach.n.2 Tube.n.2 Trommel.n.1 Kiste.n.4
+Aquarium.n.2
+Gefäß.n.1 Urne.n.1 Schale.n.4 Kolben.n.3 Pokal.n.1 Form.n.3 Topf.n.1 Schüssel.n.3
+Urne.n.1
+Schale.n.4 Gral.n.1 Mörser.n.2
+Gral.n.1
+Mörser.n.2
+Kolben.n.3
+Pokal.n.1
+Form.n.3 Druckform.n.1
+Druckform.n.1
+Topf.n.1
+Schüssel.n.3
+Eimer.n.2
+Wanne.n.2 Badewanne.n.1
+Badewanne.n.1
+Becken.n.3 Schwimmbecken.n.1 Ablauf.n.1 Toilette.n.4
+Schwimmbecken.n.1
+Ablauf.n.1
+Toilette.n.4
+Korb.n.4
+Schütte.n.1
+Kasten.n.3 Kassette.n.1 Kästchen.n.1 Beute.n.1 Wagenkasten.n.1
+Kassette.n.1
+Kästchen.n.1
+Beute.n.1
+Wagenkasten.n.1
+Container.n.2
+Reservoir.n.2
+Tasche.n.3 Beutel.n.3 Börse.n.2 Rucksack.n.1 Sack.n.4 Koffer.n.2
+Beutel.n.3
+Börse.n.2
+Rucksack.n.1
+Sack.n.4
+Koffer.n.2
+Gehäuse.n.3 Kassette.n.2 Gehäuse.n.1
+Kassette.n.2
+Gehäuse.n.1
+Käfig.n.1
+Spender.n.2
+Urne.n.2
+Tonne.n.5
+Tender.n.1
+Schrein.n.1 Tabernakel.n.1
+Tabernakel.n.1
+Karton.n.1 Schachtel.n.2
+Schachtel.n.2
+Kessel.n.4
+Magazin.n.1
+Packung.n.3 Becher.n.4
+Becher.n.4
+Sarg.n.1 Sarkophag.n.1
+Sarkophag.n.1
+Becher.n.3
+Box.n.3
+Tank.n.3 Tank.n.2
+Tank.n.2
+Mulde.n.2
+Fass.n.1 Barrel.n.2
+Barrel.n.2
+Pfeife.n.3
+Fach.n.2
+Tube.n.2
+Trommel.n.1
+Kiste.n.4
+Transportmittel.n.1
+Schutz.n.2 Abschirmung.n.1 Schirm.n.1 Schirm.n.4 Visier.n.2 Tarnung.n.1 Bezug.n.3 Unterlage.n.2
+Abschirmung.n.1
+Schirm.n.1
+Schirm.n.4
+Visier.n.2
+Tarnung.n.1
+Bezug.n.3
+Unterlage.n.2 Matte.n.1
+Matte.n.1
+Arbeit.n.3 Handarbeit.n.1 Heimarbeit.n.1
+Handarbeit.n.1
+Heimarbeit.n.1
+Ausgrabung.n.1 Keller.n.1 Schacht.n.3 Grube.n.1 Gewölbe.n.1 Brunnen.n.1 Bergwerk.n.1 Stollen.n.4
+Keller.n.1
+Schacht.n.3
+Grube.n.1 Bruch.n.2
+Bruch.n.2
+Gewölbe.n.1
+Brunnen.n.1 Born.n.1 Springbrunnen.n.1
+Born.n.1
+Springbrunnen.n.1
+Bergwerk.n.1
+Stollen.n.4
+Geld.n.1 Bargeld.n.1 Papiergeld.n.1
+Bargeld.n.1
+Papiergeld.n.1 Note.n.1
+Note.n.1 Blüte.n.4
+Blüte.n.4
+Klotz.n.1 Poller.n.2 Poller.n.1
+Poller.n.2
+Poller.n.1
+Zeug.n.2
+Darstellung.n.4 Schema.n.1 Chronik.n.2 Porträt.n.2 Überblick.n.2 Diagramm.n.1 Prospekt.n.2 Graph.n.2 Pornografie.n.1
+Schema.n.1
+Chronik.n.2 Biografie.n.2 Stammbaum.n.2
+Biografie.n.2 Kurzbiografie.n.1
+Kurzbiografie.n.1
+Stammbaum.n.2
+Porträt.n.2
+Überblick.n.2 Zeittafel.n.1
+Zeittafel.n.1
+Diagramm.n.1
+Prospekt.n.2
+Graph.n.2
+Pornografie.n.1
+Gewicht.n.1 Last.n.1 Gegengewicht.n.2
+Last.n.1 Ballast.n.2 Härte.n.2 Nutzlast.n.2
+Ballast.n.2
+Härte.n.2
+Nutzlast.n.2
+Gegengewicht.n.2
+Streifen.n.3 Gurt.n.2 Riemen.n.5 Bahn.n.6 Halsband.n.1 Ligamentum.n.1 Spur.n.1 Gummi.n.2 Schulterband.n.1
+Gurt.n.2 Gürtel.n.1 Riemen.n.4
+Gürtel.n.1 Gurt.n.1
+Gurt.n.1
+Riemen.n.4 Riemen.n.1
+Riemen.n.1 Koppel.n.2
+Koppel.n.2
+Riemen.n.5
+Bahn.n.6
+Halsband.n.1
+Ligamentum.n.1 Schulterband.n.2
+Schulterband.n.2
+Spur.n.1
+Gummi.n.2
+Schulterband.n.1
+Teil.n.5 Auszug.n.1 Baustein.n.1 Stufe.n.1 Einsatz.n.1
+Auszug.n.1
+Baustein.n.1
+Stufe.n.1
+Einsatz.n.1
+Seltenheit.n.1
+Füllung.n.2 Einlage.n.4
+Einlage.n.4
+Leihgabe.n.1 Pfand.n.2
+Pfand.n.2
+Schwimmer.n.1 Pose.n.1 Tonne.n.2
+Pose.n.1
+Tonne.n.2
+Sendung.n.1
+Kugel.n.2
+Ungeheuer.n.1
+Andenken.n.2
+Scheibe.n.4 Puck.n.2 Zifferblatt.n.1
+Puck.n.2
+Zifferblatt.n.1
+Kern.n.5
+Werkstück.n.1
+Teil.n.2 Teilmenge.n.2 Bestandteil.n.1 Oberteil.n.2 Glied.n.4 Teilstück.n.1 Aufbau.n.4 Heck.n.1 Schaft.n.1 Track.n.2 Mittelteil.n.1 Ausleger.n.2 Partition.n.1 Sektor.n.3 Flügel.n.2 Kopf.n.8 Arm.n.1 Mitglied.n.2 Fortsetzung.n.1 Modul.n.1 Aufzug.n.2 Teilbereich.n.1 Hals.n.1 Akt.n.3
+Teilmenge.n.2 Gruppe.n.1 Untergruppe.n.1 Sequenz.n.1 Auswahl.n.2 Rest.n.1 Überschuss.n.2
+Gruppe.n.1 Zusammenschluss.n.1 Gemeinschaft.n.2 Formation.n.4 Wählergruppe.n.1 Mehrheit.n.1 Einheit.n.4 Truppe.n.2 Untergruppe.n.2 Spitzengruppe.n.1 Sprachgruppe.n.1 Kollegium.n.1 Expedition.n.1 Ordnung.n.10 Baugruppe.n.2 Geleit.n.1 Einsatzgruppe.n.1 Emigration.n.1 Dienstgradgruppe.n.1 Universität.n.2
+Zusammenschluss.n.1 Organisation.n.5 Zusammentreffen.n.2 Verband.n.3 Körperschaft.n.1 Bewegung.n.4 Entscheidungsträger.n.2 Mannschaft.n.1 Kollektiv.n.1 Bund.n.4 Block.n.1 Loge.n.2 Komintern.n.1 Konzern.n.1 Gespann.n.3 Gegnerschaft.n.1 Verbindung.n.9 Klasse.n.6 Vorstand.n.2 Klan.n.1 Geheimdienst.n.1 Pool.n.1 Koalition.n.1 Kader.n.2 Monopol.n.1
+Organisation.n.5 Vereinigung.n.2 System.n.5 Jugendorganisation.n.1 Hilfsorganisation.n.1 Nachfolgeorganisation.n.1 Nichtregierungsorganisation.n.1 Menschenrechtsorganisation.n.1
+Vereinigung.n.2 Partei.n.3 Klub.n.2 Gesellschaft.n.5 Akademie.n.2 Kombinat.n.1 Zelle.n.1 Fraktion.n.3 Gewerkschaft.n.1 Ring.n.5 Bundesvereinigung.n.1 Genossenschaft.n.1
+Partei.n.3 Bayernpartei.n.1 CSU.n.1 Oppositionspartei.n.1 NPD.n.1 Einheitspartei.n.1 Gegenpartei.n.1 Bauernpartei.n.1 Regierungspartei.n.1 Arbeiterpartei.n.1 Kongresspartei.n.1 Volkspartei.n.1 Piratenpartei.n.1 Linkspartei.n.1 Grüne.n.1 Zentrumspartei.n.1 Fortschrittspartei.n.1
+Bayernpartei.n.1
+CSU.n.1
+Oppositionspartei.n.1
+NPD.n.1
+Einheitspartei.n.1 NSDAP.n.1 SED.n.1
+NSDAP.n.1
+SED.n.1
+Gegenpartei.n.1
+Bauernpartei.n.1
+Regierungspartei.n.1
+Arbeiterpartei.n.1
+Kongresspartei.n.1
+Volkspartei.n.1
+Piratenpartei.n.1
+Linkspartei.n.1
+Grüne.n.1
+Zentrumspartei.n.1
+Fortschrittspartei.n.1
+Klub.n.2 TÜV.n.1 Kulturverein.n.1 Zollverein.n.1 Förderverein.n.1 Musikverein.n.1 Kunstverein.n.1
+TÜV.n.1
+Kulturverein.n.1
+Zollverein.n.1
+Förderverein.n.1
+Musikverein.n.1
+Kunstverein.n.1
+Gesellschaft.n.5 Tochter.n.1 Verlagsgesellschaft.n.1 Handelsgesellschaft.n.1 Airline.n.1 Aktiengesellschaft.n.1 Muttergesellschaft.n.1 DLRG.n.1 Beteiligungsgesellschaft.n.1 Verkehrsgesellschaft.n.1 Kapitalgesellschaft.n.1 Eisenbahngesellschaft.n.1 Betreibergesellschaft.n.1
+Tochter.n.1
+Verlagsgesellschaft.n.1
+Handelsgesellschaft.n.1 Co.n.1
+Co.n.1 Ostindien-Kompanie.n.1
+Ostindien-Kompanie.n.1
+Airline.n.1 Lufthansa.n.1 Aeroflot.n.1
+Lufthansa.n.1
+Aeroflot.n.1
+Aktiengesellschaft.n.1
+Muttergesellschaft.n.1
+DLRG.n.1
+Beteiligungsgesellschaft.n.1
+Verkehrsgesellschaft.n.1
+Kapitalgesellschaft.n.1
+Eisenbahngesellschaft.n.1
+Betreibergesellschaft.n.1
+Akademie.n.2
+Kombinat.n.1
+Zelle.n.1
+Fraktion.n.3 CDU-Fraktion.n.1 SPD-Fraktion.n.1 Bundestagsfraktion.n.1
+CDU-Fraktion.n.1
+SPD-Fraktion.n.1
+Bundestagsfraktion.n.1
+Gewerkschaft.n.1
+Ring.n.5
+Bundesvereinigung.n.1
+Genossenschaft.n.1 Berufsgenossenschaft.n.1 Konsum.n.1 Eidgenossenschaft.n.1
+Berufsgenossenschaft.n.1
+Konsum.n.1
+Eidgenossenschaft.n.1
+System.n.5 Staatsform.n.1 Nation.n.1 Republik.n.1 Regierungssystem.n.1 Föderalismus.n.1
+Staatsform.n.1 Kommunismus.n.1 Königsherrschaft.n.1 Kalifat.n.2 Demokratie.n.2 Diktatur.n.1 Regime.n.1 Parlamentarismus.n.1 Tyrannis.n.1 Aristokratie.n.2
+Kommunismus.n.1 Stalinismus.n.1 Marxismus-Leninismus.n.1 Marxismus.n.1 Sozialismus.n.1
+Stalinismus.n.1
+Marxismus-Leninismus.n.1
+Marxismus.n.1
+Sozialismus.n.1
+Königsherrschaft.n.1
+Kalifat.n.2
+Demokratie.n.2 Sozialdemokratie.n.1
+Sozialdemokratie.n.1
+Diktatur.n.1 Totalitarismus.n.1 Militärdiktatur.n.1
+Totalitarismus.n.1
+Militärdiktatur.n.1
+Regime.n.1
+Parlamentarismus.n.1
+Tyrannis.n.1
+Aristokratie.n.2
+Nation.n.1 Nationalstaat.n.1 Nationalität.n.1
+Nationalstaat.n.1
+Nationalität.n.1
+Republik.n.1 Sowjetrepublik.n.1 Bundesrepublik.n.1 Volksrepublik.n.1 Räterepublik.n.1
+Sowjetrepublik.n.1
+Bundesrepublik.n.1
+Volksrepublik.n.1
+Räterepublik.n.1
+Regierungssystem.n.1
+Föderalismus.n.1
+Jugendorganisation.n.1 FDJ.n.1 Hitlerjugend.n.1
+FDJ.n.1
+Hitlerjugend.n.1
+Hilfsorganisation.n.1 THW.n.1 Arbeiterwohlfahrt.n.1 Hilfswerk.n.1
+THW.n.1
+Arbeiterwohlfahrt.n.1
+Hilfswerk.n.1
+Nachfolgeorganisation.n.1
+Nichtregierungsorganisation.n.1 Zivilgesellschaft.n.2
+Zivilgesellschaft.n.2
+Menschenrechtsorganisation.n.1
+Zusammentreffen.n.2 Versammlung.n.1 Salon.n.1 Begegnung.n.2 Hoftag.n.1 Konvent.n.2 Meeting.n.1 Aufeinandertreffen.n.1 Stammtisch.n.3
+Versammlung.n.1 Stadtverordnetenversammlung.n.1 Tagung.n.1 Mitgliederversammlung.n.1 Kongress.n.1 Volksversammlung.n.1 Reichstag.n.2 Ständeversammlung.n.1 Landesversammlung.n.1 Konzil.n.1 Konferenz.n.1 Gründungsversammlung.n.1 Bundesversammlung.n.1 Gemeindeversammlung.n.1 Vollversammlung.n.1 Generalversammlung.n.1 Konklave.n.1 Hauptversammlung.n.1
+Stadtverordnetenversammlung.n.1
+Tagung.n.1 Klausur.n.3
+Klausur.n.3
+Mitgliederversammlung.n.1 Konvent.n.3 Bot.n.1
+Konvent.n.3 Nationalkonvent.n.1
+Nationalkonvent.n.1
+Bot.n.1
+Kongress.n.1 Symposium.n.1 US-Kongress.n.1
+Symposium.n.1
+US-Kongress.n.1
+Volksversammlung.n.1 Thing.n.1
+Thing.n.1
+Reichstag.n.2
+Ständeversammlung.n.1
+Landesversammlung.n.1
+Konzil.n.1
+Konferenz.n.1 Friedenskonferenz.n.1 Plenum.n.1 Pressekonferenz.n.2 Bischofskonferenz.n.1
+Friedenskonferenz.n.1
+Plenum.n.1
+Pressekonferenz.n.2
+Bischofskonferenz.n.1
+Gründungsversammlung.n.1
+Bundesversammlung.n.1
+Gemeindeversammlung.n.1 Landsgemeinde.n.1
+Landsgemeinde.n.1
+Vollversammlung.n.1
+Generalversammlung.n.1
+Konklave.n.1
+Hauptversammlung.n.1
+Salon.n.1
+Begegnung.n.2 Wiedersehen.n.1
+Wiedersehen.n.1
+Hoftag.n.1
+Konvent.n.2
+Meeting.n.1
+Aufeinandertreffen.n.1
+Stammtisch.n.3
+Verband.n.3 Front.n.2 Geschwader.n.1 Bundesverband.n.1 Landesverband.n.1 Jugendverband.n.1 Dachverband.n.1 Landschaftsverband.n.1 Regionalverband.n.1 Gemeindeverwaltungsverband.n.1 Weltverband.n.1 Zweckverband.n.1
+Front.n.2 Phalanx.n.2
+Phalanx.n.2
+Geschwader.n.1 Flotte.n.1
+Flotte.n.1
+Bundesverband.n.1
+Landesverband.n.1
+Jugendverband.n.1
+Dachverband.n.1 Großloge.n.1
+Großloge.n.1
+Landschaftsverband.n.1
+Regionalverband.n.1
+Gemeindeverwaltungsverband.n.1
+Weltverband.n.1
+Zweckverband.n.1
+Körperschaft.n.1 Rat.n.2 Kurie.n.2 Kammer.n.2 Kapitel.n.1 Ritterschaft.n.2
+Rat.n.2 Stadtrat.n.1 Beirat.n.1 Kontrollrat.n.1 Sicherheitsrat.n.1 Zentralrat.n.1 Regierungsrat.n.1 Soldatenrat.n.1 Gemeinderat.n.1 Verwaltungsrat.n.1 Aufsichtsrat.n.1 Staatsrat.n.1 Betriebsrat.n.1
+Stadtrat.n.1
+Beirat.n.1 Ortsbeirat.n.1
+Ortsbeirat.n.1
+Kontrollrat.n.1
+Sicherheitsrat.n.1
+Zentralrat.n.1
+Regierungsrat.n.1
+Soldatenrat.n.1
+Gemeinderat.n.1 Verbandsgemeinderat.n.1
+Verbandsgemeinderat.n.1
+Verwaltungsrat.n.1
+Aufsichtsrat.n.1
+Staatsrat.n.1
+Betriebsrat.n.1
+Kurie.n.2
+Kammer.n.2 Handelskammer.n.1 Handwerkskammer.n.1 Volkskammer.n.1 Abgeordnetenkammer.n.1 Wirtschaftskammer.n.1
+Handelskammer.n.1 IHK.n.1
+IHK.n.1
+Handwerkskammer.n.1
+Volkskammer.n.1
+Abgeordnetenkammer.n.1
+Wirtschaftskammer.n.1
+Kapitel.n.1
+Ritterschaft.n.2
+Bewegung.n.4 Initiative.n.4 Ökumene.n.2 Reformbewegung.n.1 Volksfront.n.1 Erweckungsbewegung.n.1 Jugendbewegung.n.1 Friedensbewegung.n.1 Nationalbewegung.n.1 Studentenbewegung.n.1 Arbeiterbewegung.n.1 Bürgerrechtsbewegung.n.1 Muslimbruderschaft.n.1
+Initiative.n.4 Bürgerinitiative.n.1
+Bürgerinitiative.n.1
+Ökumene.n.2
+Reformbewegung.n.1
+Volksfront.n.1
+Erweckungsbewegung.n.1 Pfingstbewegung.n.1
+Pfingstbewegung.n.1
+Jugendbewegung.n.1 Wandervogel.n.2
+Wandervogel.n.2
+Friedensbewegung.n.1
+Nationalbewegung.n.1
+Studentenbewegung.n.1
+Arbeiterbewegung.n.1
+Bürgerrechtsbewegung.n.1
+Muslimbruderschaft.n.1
+Entscheidungsträger.n.2 Konsortium.n.1 Ausschuss.n.2 Gremium.n.1 Komitee.n.1 Jury.n.1
+Konsortium.n.1
+Ausschuss.n.2 Untersuchungskommission.n.1 Generalstab.n.1 EU-Kommission.n.1 Vermittlungsausschuss.n.1
+Untersuchungskommission.n.1
+Generalstab.n.1
+EU-Kommission.n.1
+Vermittlungsausschuss.n.1
+Gremium.n.1 Präsidium.n.2 Kuratorium.n.2 Senat.n.1 Domkapitel.n.1
+Präsidium.n.2
+Kuratorium.n.2
+Senat.n.1
+Domkapitel.n.1
+Komitee.n.1 Zentralkomitee.n.1 Organisationskomitee.n.1 NOK.n.1
+Zentralkomitee.n.1
+Organisationskomitee.n.1
+NOK.n.1
+Jury.n.1
+Mannschaft.n.1 Stall.n.1
+Stall.n.1
+Kollektiv.n.1
+Bund.n.4 Städtebund.n.1 Bündnis.n.2 Gewerkschaftsbund.n.1 Föderation.n.1 Staatenbund.n.1 Völkerbund.n.1 Sportbund.n.1 Verbund.n.1 Liga.n.1 Allianz.n.2 DFB.n.1
+Städtebund.n.1
+Bündnis.n.2 Entente.n.1 Triumvirat.n.1
+Entente.n.1
+Triumvirat.n.1
+Gewerkschaftsbund.n.1 DGB.n.1
+DGB.n.1
+Föderation.n.1
+Staatenbund.n.1 Commonwealth.n.1
+Commonwealth.n.1
+Völkerbund.n.1 Irokesen.n.1
+Irokesen.n.1
+Sportbund.n.1 Fußballverband.n.1
+Fußballverband.n.1 UEFA.n.1
+UEFA.n.1
+Verbund.n.1 Verkehrsverbund.n.1 Tarifverbund.n.1
+Verkehrsverbund.n.1
+Tarifverbund.n.1
+Liga.n.1
+Allianz.n.2
+DFB.n.1
+Block.n.1
+Loge.n.2 Freimaurerei.n.1
+Freimaurerei.n.1
+Komintern.n.1
+Konzern.n.1 IBM.n.1 Verlagsgruppe.n.1
+IBM.n.1
+Verlagsgruppe.n.1
+Gespann.n.3 Vorspann.n.1
+Vorspann.n.1
+Gegnerschaft.n.1 Partei.n.1 Konkurrenz.n.2 Kriegsgegner.n.2
+Partei.n.1 Kläger.n.1
+Kläger.n.1
+Konkurrenz.n.2
+Kriegsgegner.n.2
+Verbindung.n.9 Verbindung.n.1
+Verbindung.n.1 Burschenschaft.n.1 Landsmannschaft.n.2 Corps.n.1
+Burschenschaft.n.1
+Landsmannschaft.n.2
+Corps.n.1
+Klasse.n.6 Oberklasse.n.2 Altersklasse.n.1 Mineralklasse.n.1
+Oberklasse.n.2
+Altersklasse.n.1
+Mineralklasse.n.1
+Vorstand.n.2 Bundesvorstand.n.1 Parteivorstand.n.1 Gemeindevorstand.n.2 Landesvorstand.n.1
+Bundesvorstand.n.1
+Parteivorstand.n.1
+Gemeindevorstand.n.2
+Landesvorstand.n.1
+Klan.n.1
+Geheimdienst.n.1 KGB.n.1 Nachrichtendienst.n.1 BND.n.1 Staatssicherheit.n.1
+KGB.n.1
+Nachrichtendienst.n.1
+BND.n.1
+Staatssicherheit.n.1
+Pool.n.1
+Koalition.n.1 Regierungskoalition.n.1
+Regierungskoalition.n.1
+Kader.n.2 Kader.n.3
+Kader.n.3
+Monopol.n.1
+Gemeinschaft.n.2 AG.n.1 Interessengemeinschaft.n.1 Familie.n.2 Kulturkreis.n.1 Kloster.n.1 Kirchengemeinde.n.1 Kongregation.n.1 Verwaltungsgemeinschaft.n.1 WG.n.1 Studentenschaft.n.1 Priesterschaft.n.1 Volksgemeinschaft.n.1 Verkehrsgemeinschaft.n.1 Team.n.1 Forschungsgemeinschaft.n.1 Spielgemeinschaft.n.1 Wirtschaftsgemeinschaft.n.1 Sippe.n.3 Pantheon.n.1 Lebensgemeinschaft.n.1 Dorf.n.1 Haus.n.1 Wählergemeinschaft.n.1
+AG.n.1 Fachgruppe.n.1 Brigade.n.1 Aktiv.n.1 Arbeitskreis.n.1
+Fachgruppe.n.1
+Brigade.n.1
+Aktiv.n.1
+Arbeitskreis.n.1
+Interessengemeinschaft.n.1
+Familie.n.2 Haus.n.5 Haushalt.n.2 Kaufmannsfamilie.n.1 Adelsfamilie.n.1 Leute.n.1
+Haus.n.5 Ming-Dynastie.n.1 Han-Dynastie.n.1 Fürstenhaus.n.1 Qing-Dynastie.n.1 Adelsgeschlecht.n.1 Seldschuken.n.1 Tang-Dynastie.n.1 Song-Dynastie.n.1
+Ming-Dynastie.n.1
+Han-Dynastie.n.1
+Fürstenhaus.n.1
+Qing-Dynastie.n.1
+Adelsgeschlecht.n.1 Hochadel.n.1
+Hochadel.n.1
+Seldschuken.n.1
+Tang-Dynastie.n.1
+Song-Dynastie.n.1
+Haushalt.n.2
+Kaufmannsfamilie.n.1
+Adelsfamilie.n.1
+Leute.n.1
+Kulturkreis.n.1
+Kloster.n.1
+Kirchengemeinde.n.1 Urgemeinde.n.1 Pfarrgemeinde.n.1
+Urgemeinde.n.1
+Pfarrgemeinde.n.1
+Kongregation.n.1
+Verwaltungsgemeinschaft.n.1
+WG.n.1 Kommune.n.1
+Kommune.n.1
+Studentenschaft.n.1
+Priesterschaft.n.1
+Volksgemeinschaft.n.1
+Verkehrsgemeinschaft.n.1
+Team.n.1
+Forschungsgemeinschaft.n.1
+Spielgemeinschaft.n.1
+Wirtschaftsgemeinschaft.n.1
+Sippe.n.3
+Pantheon.n.1
+Lebensgemeinschaft.n.1
+Dorf.n.1 Kibbuz.n.1
+Kibbuz.n.1
+Haus.n.1
+Wählergemeinschaft.n.1
+Formation.n.4 Skala.n.2 Klasse.n.8 Tabelle.n.1 Verteidigung.n.4 Zug.n.8 Zusammenstellung.n.1 Besetzung.n.3 Verband.n.1 Feld.n.1 Array.n.1 Flügel.n.1 Sturm.n.3 Aufstellung.n.4
+Skala.n.2 Zeitskala.n.1 Richterskala.n.1
+Zeitskala.n.1
+Richterskala.n.1
+Klasse.n.8 Mittelklasse.n.2 Spektralklasse.n.1 Sortierung.n.2
+Mittelklasse.n.2
+Spektralklasse.n.1
+Sortierung.n.2
+Tabelle.n.1 Verzeichnis.n.2 Periodensystem.n.1 Statistik.n.2 Matrix.n.3
+Verzeichnis.n.2 Kalender.n.2 Index.n.1 Katalog.n.2 Kursbuch.n.1 Grundbuch.n.1 Nomenklatur.n.1 Vereinsregister.n.1 Denkmalliste.n.1 Manifest.n.2 Handelsregister.n.1 Inventar.n.1 Diskografie.n.1
+Kalender.n.2 Agenda.n.1
+Agenda.n.1
+Index.n.1
+Katalog.n.2
+Kursbuch.n.1
+Grundbuch.n.1
+Nomenklatur.n.1
+Vereinsregister.n.1
+Denkmalliste.n.1
+Manifest.n.2
+Handelsregister.n.1
+Inventar.n.1
+Diskografie.n.1
+Periodensystem.n.1
+Statistik.n.2
+Matrix.n.3
+Verteidigung.n.4 Deckung.n.2
+Deckung.n.2
+Zug.n.8
+Zusammenstellung.n.1 Mix.n.1 Apparat.n.1 Paket.n.3 Bündelung.n.2 Kompilation.n.2
+Mix.n.1
+Apparat.n.1
+Paket.n.3
+Bündelung.n.2
+Kompilation.n.2
+Besetzung.n.3
+Verband.n.1
+Feld.n.1
+Array.n.1
+Flügel.n.1
+Sturm.n.3
+Aufstellung.n.4
+Wählergruppe.n.1
+Mehrheit.n.1 Mehr.n.1 Zweidrittelmehrheit.n.1 Bevölkerungsmehrheit.n.1 Aktienmehrheit.n.1
+Mehr.n.1
+Zweidrittelmehrheit.n.1
+Bevölkerungsmehrheit.n.1 Masse.n.1
+Masse.n.1
+Aktienmehrheit.n.1
+Einheit.n.4 Verwaltungseinheit.n.1 Bereitschaft.n.1 Trias.n.2 Unit.n.2 Polizei.n.2
+Verwaltungseinheit.n.1 Präfektur.n.1 Abteilung.n.3 Korps.n.2 Kommission.n.1 Rechenzentrum.n.1 Sekretariat.n.2 Vertretung.n.5
+Präfektur.n.1
+Abteilung.n.3 Versand.n.2 Buchhaltung.n.1 Direktion.n.2 Sparte.n.1 Hauptabteilung.n.1 Referat.n.2 Arbeitsstelle.n.1 Jugendabteilung.n.1 Unterabteilung.n.1 Fußballabteilung.n.2 Werbung.n.1
+Versand.n.2
+Buchhaltung.n.1
+Direktion.n.2
+Sparte.n.1
+Hauptabteilung.n.1
+Referat.n.2
+Arbeitsstelle.n.1
+Jugendabteilung.n.1
+Unterabteilung.n.1
+Fußballabteilung.n.2
+Werbung.n.1
+Korps.n.2
+Kommission.n.1
+Rechenzentrum.n.1
+Sekretariat.n.2
+Vertretung.n.5
+Bereitschaft.n.1
+Trias.n.2
+Unit.n.2
+Polizei.n.2
+Truppe.n.2 Patrouille.n.2 Garde.n.1
+Patrouille.n.2
+Garde.n.1 Nationalgarde.n.1
+Nationalgarde.n.1
+Untergruppe.n.2
+Spitzengruppe.n.1
+Sprachgruppe.n.1
+Kollegium.n.1 Personal.n.1 Büro.n.1 Kardinalskollegium.n.1
+Personal.n.1 Verstärkung.n.1
+Verstärkung.n.1
+Büro.n.1
+Kardinalskollegium.n.1
+Expedition.n.1 Strafexpedition.n.1
+Strafexpedition.n.1
+Ordnung.n.10 Raumplanung.n.1 Staffel.n.4 Rangordnung.n.1
+Raumplanung.n.1
+Staffel.n.4 Tarif.n.1
+Tarif.n.1
+Rangordnung.n.1
+Baugruppe.n.2
+Geleit.n.1
+Einsatzgruppe.n.1
+Emigration.n.1
+Dienstgradgruppe.n.1
+Universität.n.2
+Untergruppe.n.1
+Sequenz.n.1 Kurs.n.2 Filmreihe.n.1 TV-Serie.n.1 Buchreihe.n.1 Formation.n.3 Schriftenreihe.n.1 Wechsel.n.3 Paradigma.n.2 Generation.n.1 Modellreihe.n.1 Zyklus.n.1 Konvoi.n.2 Atmungskette.n.1 Zeichenfolge.n.1 Hauptreihe.n.1
+Kurs.n.2
+Filmreihe.n.1
+TV-Serie.n.1 Staffel.n.1
+Staffel.n.1 Zeichentrickserie.n.1
+Zeichentrickserie.n.1
+Buchreihe.n.1
+Formation.n.3
+Schriftenreihe.n.1
+Wechsel.n.3
+Paradigma.n.2
+Generation.n.1
+Modellreihe.n.1
+Zyklus.n.1
+Konvoi.n.2
+Atmungskette.n.1
+Zeichenfolge.n.1
+Hauptreihe.n.1
+Auswahl.n.2 Kanon.n.2
+Kanon.n.2
+Rest.n.1 Ruine.n.1 Reserve.n.3 Hinterlassenschaft.n.1
+Ruine.n.1 Burgruine.n.1
+Burgruine.n.1
+Reserve.n.3
+Hinterlassenschaft.n.1
+Überschuss.n.2
+Bestandteil.n.1 Komponente.n.1 Faktor.n.3 Namensbestandteil.n.1 Kopf.n.3 Reprise.n.2 Comes.n.2 Trio.n.1
+Komponente.n.1 Bauelement.n.1 Supplement.n.1 Sendeanlage.n.1 Zutat.n.2
+Bauelement.n.1
+Supplement.n.1 Einfügung.n.1 Namenszusatz.n.1 Zugang.n.6
+Einfügung.n.1
+Namenszusatz.n.1
+Zugang.n.6
+Sendeanlage.n.1 Fernsehsender.n.1
+Fernsehsender.n.1
+Zutat.n.2 Einlage.n.3
+Einlage.n.3
+Faktor.n.3 Verstärker.n.1
+Verstärker.n.1
+Namensbestandteil.n.1
+Kopf.n.3
+Reprise.n.2
+Comes.n.2
+Trio.n.1
+Oberteil.n.2 Haube.n.2 Schildhaupt.n.1
+Haube.n.2 Motorhaube.n.1
+Motorhaube.n.1
+Schildhaupt.n.1
+Glied.n.4 Bindeglied.n.1
+Bindeglied.n.1
+Teilstück.n.1 Abbruch.n.3 Landesteil.n.1 Stumpf.n.2 Stelle.n.1 Reichsteil.n.1
+Abbruch.n.3
+Landesteil.n.1 Südgeorgien.n.1 Westschweiz.n.1 Süddeutschland.n.1 Westdeutschland.n.2 Nordfriesland.n.1 Nordvietnam.n.1 Unterägypten.n.1 Süditalien.n.1 Nordindien.n.1 Südfrankreich.n.1 Südwestdeutschland.n.1 Ostschweiz.n.1 Oberitalien.n.1 Nordwestdeutschland.n.1 Südchina.n.1 Oberägypten.n.1 Südindien.n.1 Mitteldeutschland.n.1 Ostdeutschland.n.2 Norddeutschland.n.1 Nordfrankreich.n.1
+Südgeorgien.n.1
+Westschweiz.n.1
+Süddeutschland.n.1
+Westdeutschland.n.2
+Nordfriesland.n.1
+Nordvietnam.n.1
+Unterägypten.n.1
+Süditalien.n.1
+Nordindien.n.1
+Südfrankreich.n.1
+Südwestdeutschland.n.1
+Ostschweiz.n.1
+Oberitalien.n.1
+Nordwestdeutschland.n.1
+Südchina.n.1
+Oberägypten.n.1
+Südindien.n.1
+Mitteldeutschland.n.1
+Ostdeutschland.n.2
+Norddeutschland.n.1
+Nordfrankreich.n.1
+Stumpf.n.2
+Stelle.n.1
+Reichsteil.n.1
+Aufbau.n.4 Back.n.2 Kappe.n.1 Dachreiter.n.1 Zinne.n.1 Krone.n.8
+Back.n.2
+Kappe.n.1
+Dachreiter.n.1
+Zinne.n.1
+Krone.n.8
+Heck.n.1
+Schaft.n.1
+Track.n.2
+Mittelteil.n.1
+Ausleger.n.2
+Partition.n.1
+Sektor.n.3
+Flügel.n.2
+Kopf.n.8 Zylinderkopf.n.1
+Zylinderkopf.n.1
+Arm.n.1
+Mitglied.n.2
+Fortsetzung.n.1
+Modul.n.1
+Aufzug.n.2
+Teilbereich.n.1 Zweig.n.1
+Zweig.n.1
+Hals.n.1
+Akt.n.3
+Struktur.n.3 Datenstruktur.n.1 Ordnung.n.7 Ganzes.n.2 Gesellschaftsform.n.1 Netzwerk.n.1 Konfiguration.n.1 Anatomie.n.3 Chronologie.n.1 Umriss.n.1 Profil.n.5 Grundform.n.2 Gänze.n.1 Kristallstruktur.n.1 Infrastruktur.n.2 Erwerbsstruktur.n.1 Bau.n.1 Organisation.n.3 Konstitution.n.1 Verwaltungsstruktur.n.1 Unordnung.n.1 Infrastruktur.n.1 Gefüge.n.1 Sozialstruktur.n.1 Wirtschaftsstruktur.n.1 Gitter.n.1
+Datenstruktur.n.1 Dokument.n.1 Array.n.2 Character.n.1 Modul.n.3 Datei.n.1 Index.n.5 Zeichenkette.n.1
+Dokument.n.1 Registry.n.1
+Registry.n.1
+Array.n.2 Matrix.n.2
+Matrix.n.2
+Character.n.1 Vorzeichen.n.1
+Vorzeichen.n.1
+Modul.n.3 Knoten.n.5 Ressource.n.2 Kernel.n.1
+Knoten.n.5
+Ressource.n.2
+Kernel.n.1
+Datei.n.1 Core.n.1 Archiv.n.3 PDF.n.2
+Core.n.1
+Archiv.n.3
+PDF.n.2
+Index.n.5
+Zeichenkette.n.1
+Ordnung.n.7 Anordnung.n.2 Zuordnung.n.2 Wirtschaftsordnung.n.1 Typologie.n.2 Gesellschaftsordnung.n.1 Weltordnung.n.1 Komposition.n.3
+Anordnung.n.2 Organisation.n.1 Arrangement.n.3 Lagerung.n.1 Keil.n.4 Achsfolge.n.1 Dipol.n.1
+Organisation.n.1 Verteilung.n.2 Untergliederung.n.1 Zweiteilung.n.1
+Verteilung.n.2 Wahrscheinlichkeitsverteilung.n.1 Distribution.n.2 Vierung.n.2 Fragmentierung.n.1 Streuung.n.2
+Wahrscheinlichkeitsverteilung.n.1 Normalverteilung.n.1
+Normalverteilung.n.1
+Distribution.n.2
+Vierung.n.2
+Fragmentierung.n.1
+Streuung.n.2 Dispersion.n.1
+Dispersion.n.1
+Untergliederung.n.1
+Zweiteilung.n.1
+Arrangement.n.3 Installation.n.3
+Installation.n.3
+Lagerung.n.1
+Keil.n.4
+Achsfolge.n.1
+Dipol.n.1
+Zuordnung.n.2 Paarung.n.3
+Paarung.n.3
+Wirtschaftsordnung.n.1
+Typologie.n.2
+Gesellschaftsordnung.n.1
+Weltordnung.n.1
+Komposition.n.3
+Ganzes.n.2 System.n.3
+System.n.3 Regelstrecke.n.1 Koordinatensystem.n.1 Gesamtsystem.n.1 Programm.n.4 Rechtschreibung.n.2 Mechanismus.n.2 Kodex.n.1 Regelkreis.n.1 Struktur.n.1 Ökosystem.n.1 Symbolik.n.2 Informationssystem.n.1 Steuersystem.n.2
+Regelstrecke.n.1
+Koordinatensystem.n.1
+Gesamtsystem.n.1
+Programm.n.4 Parteiprogramm.n.1
+Parteiprogramm.n.1
+Rechtschreibung.n.2 Schreibweise.n.1 Kleinschreibung.n.1
+Schreibweise.n.1
+Kleinschreibung.n.1
+Mechanismus.n.2
+Kodex.n.1
+Regelkreis.n.1
+Struktur.n.1
+Ökosystem.n.1
+Symbolik.n.2
+Informationssystem.n.1
+Steuersystem.n.2
+Gesellschaftsform.n.1 Pluralismus.n.1
+Pluralismus.n.1
+Netzwerk.n.1 Verkehrsnetz.n.1 Telefonnetz.n.1 Streckennetz.n.1 Stromnetz.n.1 Kabelnetz.n.1
+Verkehrsnetz.n.1 Autobahnnetz.n.1 S-Bahn.n.2 U-Bahn.n.2 Bahnnetz.n.1 Straßenbahnnetz.n.1
+Autobahnnetz.n.1
+S-Bahn.n.2
+U-Bahn.n.2
+Bahnnetz.n.1
+Straßenbahnnetz.n.1
+Telefonnetz.n.1 Festnetz.n.1
+Festnetz.n.1
+Streckennetz.n.1
+Stromnetz.n.1
+Kabelnetz.n.1
+Konfiguration.n.1 Konstellation.n.1 Architektur.n.3 Opposition.n.5
+Konstellation.n.1 Konjunktion.n.1 Opposition.n.3
+Konjunktion.n.1
+Opposition.n.3
+Architektur.n.3 Pipeline.n.2
+Pipeline.n.2
+Opposition.n.5
+Anatomie.n.3 Region.n.2 Röhre.n.2
+Region.n.2 Pfanne.n.2 Segment.n.1 Scheitel.n.1 Taille.n.1 Schoß.n.1 Flanke.n.1 Brust.n.1 Gesicht.n.4 Leiste.n.2 Hüfte.n.1 Bauch.n.2 Wade.n.1 Hinterleib.n.1 Kreuz.n.3 Thorax.n.1 Unterschenkel.n.2 Ferse.n.1 Damm.n.1 Sohle.n.1 Gesäß.n.1
+Pfanne.n.2
+Segment.n.1
+Scheitel.n.1
+Taille.n.1
+Schoß.n.1
+Flanke.n.1
+Brust.n.1
+Gesicht.n.4 Angesicht.n.1 Face.n.1
+Angesicht.n.1
+Face.n.1
+Leiste.n.2
+Hüfte.n.1
+Bauch.n.2
+Wade.n.1
+Hinterleib.n.1
+Kreuz.n.3
+Thorax.n.1
+Unterschenkel.n.2
+Ferse.n.1
+Damm.n.1
+Sohle.n.1
+Gesäß.n.1
+Röhre.n.2 Gefäß.n.2 Eileiter.n.1
+Gefäß.n.2 Blutgefäß.n.1
+Blutgefäß.n.1 Vene.n.1
+Vene.n.1
+Eileiter.n.1
+Chronologie.n.1 Abfolge.n.1 Sukzession.n.1
+Abfolge.n.1
+Sukzession.n.1 Erbfolge.n.1 Nachfolger.n.1
+Erbfolge.n.1
+Nachfolger.n.1 Nachwuchs.n.1 Rechtsnachfolger.n.1
+Nachwuchs.n.1
+Rechtsnachfolger.n.1
+Umriss.n.1 Kontur.n.2
+Kontur.n.2
+Profil.n.5
+Grundform.n.2 Blutgruppe.n.1 Wurzel.n.3
+Blutgruppe.n.1
+Wurzel.n.3
+Gänze.n.1 Komplex.n.2 Vollständigkeit.n.1 Gesamtheit.n.1
+Komplex.n.2
+Vollständigkeit.n.1
+Gesamtheit.n.1 Terminologie.n.1 Zucht.n.1 Grundgesamtheit.n.1
+Terminologie.n.1
+Zucht.n.1
+Grundgesamtheit.n.1
+Kristallstruktur.n.1
+Infrastruktur.n.2 Verkehrsinfrastruktur.n.1
+Verkehrsinfrastruktur.n.1
+Erwerbsstruktur.n.1
+Bau.n.1
+Organisation.n.3
+Konstitution.n.1
+Verwaltungsstruktur.n.1
+Unordnung.n.1 Chaos.n.1
+Chaos.n.1
+Infrastruktur.n.1
+Gefüge.n.1
+Sozialstruktur.n.1
+Wirtschaftsstruktur.n.1
+Gitter.n.1
+Teil.n.3 Ladungsträger.n.1 Atom.n.1 Teilchen.n.2 Molekül.n.1 Elementarteilchen.n.1 Kern.n.1
+Ladungsträger.n.1
+Atom.n.1 Ion.n.1 Radikal.n.1 Kohlenstoffatom.n.1 Wasserstoffatom.n.1
+Ion.n.1 Kation.n.1 Anion.n.1
+Kation.n.1
+Anion.n.1
+Radikal.n.1
+Kohlenstoffatom.n.1
+Wasserstoffatom.n.1
+Teilchen.n.2 Fremdkörper.n.2 Funke.n.2
+Fremdkörper.n.2
+Funke.n.2
+Molekül.n.1 Ion.n.2 Polymer.n.1
+Ion.n.2
+Polymer.n.1
+Elementarteilchen.n.1 Elektron.n.1 Neutrino.n.1
+Elektron.n.1
+Neutrino.n.1
+Kern.n.1
+Stück.n.3 Gold.n.2
+Gold.n.2
+Fund.n.2 Entdeckung.n.1
+Entdeckung.n.1
+Ring.n.6 Reifen.n.1
+Reifen.n.1
+Kitsch.n.2
+Altertümer.n.1
+Körper.n.1 Leichnam.n.1 Mumie.n.1 Kadaver.n.1 Leib.n.1
+Leichnam.n.1
+Mumie.n.1
+Kadaver.n.1
+Leib.n.1
+Teil.n.4 Einbau.n.2
+Einbau.n.2
+Stoff.n.4 Verbindung.n.4 Harnstoff.n.1 Toxin.n.1 Masse.n.3 Flüssigkeit.n.1 Baustoff.n.1 Faser.n.1 Farbstoff.n.1 Medium.n.1 Lösungsmittel.n.1 Schwarzpulver.n.1 Energieträger.n.1 Feststoff.n.1 Treibstoff.n.1 Ausgangsstoff.n.1 Dampf.n.1 Zeug.n.1 Beimischung.n.2 Brennstoff.n.1 Material.n.3 Impfstoff.n.1 Bausubstanz.n.1 Substrat.n.1 Glas.n.2 Festkörper.n.1 Verdünnung.n.1 Äther.n.1
+Verbindung.n.4 Verbindung.n.5 Kristall.n.3 Salz.n.3 Oxid.n.1 Abkömmling.n.2 Ether.n.1 Wasserstoffperoxid.n.1 Schwefelwasserstoff.n.2 Ammoniak.n.1 Base.n.2
+Verbindung.n.5 Enzym.n.1 Saccharose.n.1 Alkohol.n.2 Aminosäure.n.1 Dopamin.n.1 Ester.n.1
+Enzym.n.1 Lab.n.1
+Lab.n.1
+Saccharose.n.1
+Alkohol.n.2 Methanol.n.1 Spiritus.n.1
+Methanol.n.1
+Spiritus.n.1
+Aminosäure.n.1
+Dopamin.n.1
+Ester.n.1
+Kristall.n.3 Eis.n.1
+Eis.n.1 Poleis.n.1 Packeis.n.1
+Poleis.n.1
+Packeis.n.1
+Salz.n.3 Phosphat.n.1 Kalk.n.1 Nitrat.n.1 Kochsalz.n.2
+Phosphat.n.1 Türkis.n.2
+Türkis.n.2
+Kalk.n.1
+Nitrat.n.1 Salpeter.n.1
+Salpeter.n.1
+Kochsalz.n.2
+Oxid.n.1 Quarz.n.1 Rost.n.2 Aluminiumoxid.n.1
+Quarz.n.1
+Rost.n.2
+Aluminiumoxid.n.1
+Abkömmling.n.2
+Ether.n.1
+Wasserstoffperoxid.n.1
+Schwefelwasserstoff.n.2
+Ammoniak.n.1
+Base.n.2
+Harnstoff.n.1
+Toxin.n.1 Giftgas.n.1
+Giftgas.n.1 Blausäure.n.1
+Blausäure.n.1
+Masse.n.3 Schicht.n.2 Gel.n.1 Guss.n.4 Glut.n.2 Wachs.n.1 Paste.n.1 Trockenmasse.n.1
+Schicht.n.2 Belag.n.1 Haut.n.2 Ozonschicht.n.1 Belag.n.2 Unterlage.n.1 Auftrag.n.2 Rinde.n.1 Film.n.2 Rinde.n.2 Emulsion.n.1 Kruste.n.1 Ansatz.n.7 Substrat.n.2 Untermalung.n.1 Media.n.2 Unterschicht.n.1 Grenzschicht.n.1
+Belag.n.1 Email.n.1
+Email.n.1
+Haut.n.2
+Ozonschicht.n.1
+Belag.n.2
+Unterlage.n.1 Unterbau.n.3 Stapel.n.1
+Unterbau.n.3
+Stapel.n.1
+Auftrag.n.2
+Rinde.n.1
+Film.n.2
+Rinde.n.2
+Emulsion.n.1
+Kruste.n.1
+Ansatz.n.7
+Substrat.n.2
+Untermalung.n.1
+Media.n.2
+Unterschicht.n.1
+Grenzschicht.n.1
+Gel.n.1
+Guss.n.4
+Glut.n.2
+Wachs.n.1
+Paste.n.1
+Trockenmasse.n.1
+Flüssigkeit.n.1 Wasser.n.4 Elektrolyt.n.1 Öl.n.4 Lösung.n.4 Säure.n.1 Bad.n.2 Strahl.n.1 Schmelze.n.1
+Wasser.n.4 Süßwasser.n.1 Regenwasser.n.1 Salzwasser.n.1 Abwasser.n.1 Schmelzwasser.n.1 Oberflächenwasser.n.1 Quellwasser.n.1 Brackwasser.n.1
+Süßwasser.n.1
+Regenwasser.n.1
+Salzwasser.n.1
+Abwasser.n.1
+Schmelzwasser.n.1
+Oberflächenwasser.n.1
+Quellwasser.n.1
+Brackwasser.n.1
+Elektrolyt.n.1
+Öl.n.4 Pflanzenöl.n.1 Rohöl.n.1
+Pflanzenöl.n.1 Öl.n.1
+Öl.n.1 Olivenöl.n.1 Palmöl.n.1
+Olivenöl.n.1
+Palmöl.n.1
+Rohöl.n.1
+Lösung.n.4 Lake.n.1 Entwickler.n.2 Essenz.n.1
+Lake.n.1
+Entwickler.n.2
+Essenz.n.1
+Säure.n.1 Schwefelsäure.n.1 Milchsäure.n.1 Salpetersäure.n.1 Salzsäure.n.1 Kohlensäure.n.1 Essigsäure.n.1 Carbonsäure.n.1
+Schwefelsäure.n.1
+Milchsäure.n.1
+Salpetersäure.n.1
+Salzsäure.n.1
+Kohlensäure.n.1
+Essigsäure.n.1
+Carbonsäure.n.1 Fettsäure.n.1
+Fettsäure.n.1
+Bad.n.2
+Strahl.n.1
+Schmelze.n.1 Magma.n.1
+Magma.n.1 Lava.n.1
+Lava.n.1
+Baustoff.n.1 Zement.n.1 Pfanne.n.1 Isolator.n.1 Mauerwerk.n.1 Mörtel.n.1 Stuck.n.2 Putz.n.2 Beton.n.1
+Zement.n.1
+Pfanne.n.1 Adobe.n.1
+Adobe.n.1
+Isolator.n.1
+Mauerwerk.n.1
+Mörtel.n.1
+Stuck.n.2
+Putz.n.2
+Beton.n.1
+Faser.n.1 Glasfaser.n.1
+Glasfaser.n.1
+Farbstoff.n.1 Purpur.n.2 Chlorophyll.n.1 Indigo.n.1
+Purpur.n.2
+Chlorophyll.n.1
+Indigo.n.1
+Medium.n.1
+Lösungsmittel.n.1 Aceton.n.1
+Aceton.n.1
+Schwarzpulver.n.1
+Energieträger.n.1
+Feststoff.n.1 Gummi.n.1
+Gummi.n.1
+Treibstoff.n.1
+Ausgangsstoff.n.1
+Dampf.n.1
+Zeug.n.1
+Beimischung.n.2
+Brennstoff.n.1
+Material.n.3 Bitumen.n.1 Rohmaterial.n.1
+Bitumen.n.1
+Rohmaterial.n.1
+Impfstoff.n.1 Serum.n.1
+Serum.n.1
+Bausubstanz.n.1
+Substrat.n.1
+Glas.n.2
+Festkörper.n.1
+Verdünnung.n.1
+Äther.n.1
+Nahrung.n.1 Mahl.n.1 Fressen.n.2 Fressen.n.3 Ernährung.n.2 Füllung.n.1 Aroma.n.2 Stärkung.n.1 Verpflegung.n.1 Spezialität.n.3
+Mahl.n.1 Pizza.n.1 Suppe.n.1 Pie.n.1 Beilage.n.1 Salat.n.2
+Pizza.n.1
+Suppe.n.1 Brühe.n.1
+Brühe.n.1
+Pie.n.1
+Beilage.n.1
+Salat.n.2
+Fressen.n.2
+Fressen.n.3
+Ernährung.n.2
+Füllung.n.1
+Aroma.n.2
+Stärkung.n.1
+Verpflegung.n.1
+Spezialität.n.3
+Hilfe.n.2 Mittel.n.3 Datenträger.n.1 Support.n.1 Medium.n.4 Produktionsmittel.n.1 Arbeitsmittel.n.1 Reduktionsmittel.n.1
+Mittel.n.3 Pestizid.n.1 Bindemittel.n.2 Kühlmittel.n.1 Kältemittel.n.1
+Pestizid.n.1 Zyklon.n.1
+Zyklon.n.1
+Bindemittel.n.2
+Kühlmittel.n.1 Kühlwasser.n.1
+Kühlwasser.n.1
+Kältemittel.n.1
+Datenträger.n.1 Tonträger.n.1 Disc.n.1 DVD.n.2 CD-ROM.n.1 Karte.n.1
+Tonträger.n.1 Album.n.1 Tonband.n.1 Tonspur.n.1
+Album.n.1 Doppelalbum.n.1
+Doppelalbum.n.1
+Tonband.n.1
+Tonspur.n.1
+Disc.n.1
+DVD.n.2
+CD-ROM.n.1
+Karte.n.1
+Support.n.1
+Medium.n.4
+Produktionsmittel.n.1 Privateigentum.n.1
+Privateigentum.n.1
+Arbeitsmittel.n.1
+Reduktionsmittel.n.1
+machen.v.7 ändern.v.3 lokalisieren.v.3 schaffen.v.6 verknüpfen.v.1 erhalten.v.2 retten.v.2 versuchen.v.2 halten.v.6 zusammenfassen.v.1 vornehmen.v.3 tun.v.6 erneuern.v.1 verbreiten.v.3 tun.v.5 vorbereiten.v.2
+ändern.v.3 entfernen.v.3 trennen.v.6 schließen.v.8 trennen.v.9 bearbeiten.v.5 aufnehmen.v.17 verbrauchen.v.2 verlegen.v.6 ausweichen.v.2 öffnen.v.4 mischen.v.3 wechseln.v.8 bremsen.v.2 verstecken.v.2 ziehen.v.12 reformieren.v.1 modifizieren.v.1 umschreiben.v.2 umsteigen.v.2 trennen.v.8 überschreiten.v.3 abhängen.v.6 verbinden.v.12 füllen.v.2 verschleiern.v.2 stellen.v.6 stabilisieren.v.1 kürzen.v.2 verwandeln.v.3 schmelzen.v.3 verschieben.v.5 abschaffen.v.1 unterbringen.v.4 hemmen.v.2 weichen.v.1 übersetzen.v.4 ausstellen.v.1 umstellen.v.6 frischen.v.1 wechseln.v.2 machen.v.2 verlangsamen.v.1 erwecken.v.3 verzehren.v.1 öffnen.v.5 übertragen.v.9
+entfernen.v.3 abziehen.v.11 beseitigen.v.1 entschärfen.v.2 entlassen.v.2 entladen.v.5 entladen.v.2 leeren.v.2 waschen.v.2 abbauen.v.3 beschneiden.v.2 ausbauen.v.4 räumen.v.3 entlasten.v.3 absetzen.v.10 kehren.v.2 befreien.v.4 klären.v.4
+abziehen.v.11
+beseitigen.v.1 ausgleichen.v.3 überdecken.v.3
+ausgleichen.v.3 einbringen.v.2 aufheben.v.4 kompensieren.v.1 neutralisieren.v.3
+einbringen.v.2
+aufheben.v.4 ausgleichen.v.4
+ausgleichen.v.4 ergänzen.v.3
+ergänzen.v.3
+kompensieren.v.1
+neutralisieren.v.3
+überdecken.v.3
+entschärfen.v.2
+entlassen.v.2 freigeben.v.4
+freigeben.v.4
+entladen.v.5
+entladen.v.2
+leeren.v.2 räumen.v.2
+räumen.v.2
+waschen.v.2
+abbauen.v.3
+beschneiden.v.2
+ausbauen.v.4
+räumen.v.3 einräumen.v.3
+einräumen.v.3 einordnen.v.4
+einordnen.v.4
+entlasten.v.3
+absetzen.v.10
+kehren.v.2
+befreien.v.4
+klären.v.4
+trennen.v.6 spalten.v.1 freisetzen.v.1
+spalten.v.1
+freisetzen.v.1
+schließen.v.8 abschließen.v.6 blockieren.v.2
+abschließen.v.6
+blockieren.v.2 sperren.v.2
+sperren.v.2
+trennen.v.9 teilen.v.4 durchziehen.v.2
+teilen.v.4 aufteilen.v.2 sortieren.v.2 einteilen.v.4 verteilen.v.3 spalten.v.2 beteiligen.v.3 zerlegen.v.2 unterteilen.v.1
+aufteilen.v.2
+sortieren.v.2
+einteilen.v.4
+verteilen.v.3
+spalten.v.2
+beteiligen.v.3
+zerlegen.v.2
+unterteilen.v.1
+durchziehen.v.2
+bearbeiten.v.5 schneiden.v.2 behandeln.v.3 graben.v.4 verarbeiten.v.3 bewirtschaften.v.1 schrägen.v.1 pressen.v.1 profilieren.v.2
+schneiden.v.2
+behandeln.v.3 stärken.v.2 entwickeln.v.10
+stärken.v.2
+entwickeln.v.10
+graben.v.4 untergraben.v.2
+untergraben.v.2
+verarbeiten.v.3
+bewirtschaften.v.1
+schrägen.v.1
+pressen.v.1
+profilieren.v.2
+aufnehmen.v.17 absorbieren.v.2 einziehen.v.1 annehmen.v.10 anziehen.v.6
+absorbieren.v.2
+einziehen.v.1
+annehmen.v.10
+anziehen.v.6
+verbrauchen.v.2 konsumieren.v.1 fressen.v.4
+konsumieren.v.1 verzehren.v.2 leben.v.1
+verzehren.v.2 essen.v.1 trinken.v.1 nehmen.v.12 fressen.v.3
+essen.v.1 aufnehmen.v.18 vorlegen.v.10 stärken.v.4 genießen.v.3
+aufnehmen.v.18
+vorlegen.v.10
+stärken.v.4
+genießen.v.3
+trinken.v.1 saugen.v.4
+saugen.v.4
+nehmen.v.12
+fressen.v.3
+leben.v.1
+fressen.v.4
+verlegen.v.6 verlagern.v.1
+verlagern.v.1
+ausweichen.v.2
+öffnen.v.4
+mischen.v.3 neutralisieren.v.1 auflösen.v.6 kombinieren.v.1
+neutralisieren.v.1
+auflösen.v.6 lösen.v.7
+lösen.v.7
+kombinieren.v.1
+wechseln.v.8 wechseln.v.4 übergehen.v.3 erneuern.v.5 konvertieren.v.2 waschen.v.1 abwechseln.v.1
+wechseln.v.4
+übergehen.v.3 überspringen.v.4
+überspringen.v.4
+erneuern.v.5 reparieren.v.1 austauschen.v.3 überholen.v.4
+reparieren.v.1
+austauschen.v.3 ersetzen.v.3 wechseln.v.3
+ersetzen.v.3
+wechseln.v.3
+überholen.v.4
+konvertieren.v.2
+waschen.v.1
+abwechseln.v.1 ablösen.v.1
+ablösen.v.1
+bremsen.v.2 mäßigen.v.1
+mäßigen.v.1
+verstecken.v.2
+ziehen.v.12 umziehen.v.3 beziehen.v.9 zurückziehen.v.2 einziehen.v.8
+umziehen.v.3 wandern.v.6
+wandern.v.6
+beziehen.v.9
+zurückziehen.v.2
+einziehen.v.8
+reformieren.v.1
+modifizieren.v.1 beugen.v.6
+beugen.v.6
+umschreiben.v.2
+umsteigen.v.2
+trennen.v.8 unterscheiden.v.5
+unterscheiden.v.5
+überschreiten.v.3 hinausgehen.v.1 steigern.v.2 übertreffen.v.2
+hinausgehen.v.1
+steigern.v.2
+übertreffen.v.2
+abhängen.v.6
+verbinden.v.12 verschmelzen.v.3 vereinigen.v.3
+verschmelzen.v.3
+vereinigen.v.3
+füllen.v.2 erfüllen.v.5
+erfüllen.v.5 durchdringen.v.3 durchziehen.v.5
+durchdringen.v.3 durchfahren.v.2
+durchfahren.v.2
+durchziehen.v.5
+verschleiern.v.2
+stellen.v.6
+stabilisieren.v.1 befestigen.v.2
+befestigen.v.2
+kürzen.v.2 schneiden.v.6
+schneiden.v.6
+verwandeln.v.3
+schmelzen.v.3
+verschieben.v.5 verzögern.v.2
+verzögern.v.2
+abschaffen.v.1 auflösen.v.7 aufheben.v.5
+auflösen.v.7 zerschlagen.v.1
+zerschlagen.v.1
+aufheben.v.5
+unterbringen.v.4
+hemmen.v.2
+weichen.v.1
+übersetzen.v.4
+ausstellen.v.1
+umstellen.v.6
+frischen.v.1
+wechseln.v.2
+machen.v.2
+verlangsamen.v.1
+erwecken.v.3
+verzehren.v.1
+öffnen.v.5
+übertragen.v.9
+lokalisieren.v.3 bewegen.v.6 bleiben.v.3
+bewegen.v.6 fortbewegen.v.2 fortbewegen.v.1 transportieren.v.1 versetzen.v.9 werfen.v.2 führen.v.10 schlagen.v.12 fahren.v.7 bewegen.v.1 bewegen.v.7 regen.v.1
+fortbewegen.v.2 begeben.v.2 bewegen.v.8 zurücklegen.v.4 befahren.v.3 springen.v.2
+begeben.v.2 fahren.v.4 bemühen.v.5 verfügen.v.5
+fahren.v.4 durchfahren.v.1 umfahren.v.1 verfahren.v.1 umfahren.v.2
+durchfahren.v.1
+umfahren.v.1
+verfahren.v.1
+umfahren.v.2
+bemühen.v.5
+verfügen.v.5
+bewegen.v.8
+zurücklegen.v.4
+befahren.v.3
+springen.v.2 überspringen.v.2
+überspringen.v.2
+fortbewegen.v.1 mitführen.v.1 fördern.v.4
+mitführen.v.1
+fördern.v.4
+transportieren.v.1 fahren.v.3 überholen.v.1 schaffen.v.5 überführen.v.1 packen.v.4 praktizieren.v.2 tun.v.3 einfahren.v.1
+fahren.v.3 einfahren.v.2
+einfahren.v.2
+überholen.v.1
+schaffen.v.5
+überführen.v.1
+packen.v.4
+praktizieren.v.2
+tun.v.3
+einfahren.v.1
+versetzen.v.9
+werfen.v.2
+führen.v.10
+schlagen.v.12
+fahren.v.7
+bewegen.v.1
+bewegen.v.7
+regen.v.1
+bleiben.v.3 aufhalten.v.3 verbringen.v.3 verharren.v.1 halten.v.4
+aufhalten.v.3 verbleiben.v.2
+verbleiben.v.2
+verbringen.v.3 ausfüllen.v.4 überwintern.v.2
+ausfüllen.v.4
+überwintern.v.2
+verharren.v.1
+halten.v.4
+schaffen.v.6 herstellen.v.4 verursachen.v.1 gestalten.v.1 planen.v.3 festhalten.v.4 schreiben.v.4 herstellen.v.3 unterlaufen.v.1 spielen.v.6 vermehren.v.1 gründen.v.4 umfassen.v.5 fassen.v.12 zusammensetzen.v.2 komponieren.v.1
+herstellen.v.4 bauen.v.2 anrichten.v.2 darstellen.v.8 schaffen.v.7 gewinnen.v.5 setzen.v.13 verarbeiten.v.2 modellieren.v.2 bauen.v.3
+bauen.v.2 aufführen.v.3 aufbauen.v.5 entwickeln.v.3 errichten.v.1 ausführen.v.6 einrichten.v.7 anlegen.v.8 erbauen.v.2 unterlegen.v.4 umbauen.v.2 unterziehen.v.4 erstellen.v.1
+aufführen.v.3
+aufbauen.v.5 rekonstruieren.v.2
+rekonstruieren.v.2
+entwickeln.v.3 erfinden.v.2
+erfinden.v.2 kreieren.v.1
+kreieren.v.1
+errichten.v.1 setzen.v.1
+setzen.v.1 pflanzen.v.1
+pflanzen.v.1
+ausführen.v.6
+einrichten.v.7
+anlegen.v.8
+erbauen.v.2
+unterlegen.v.4
+umbauen.v.2
+unterziehen.v.4
+erstellen.v.1
+anrichten.v.2 quellen.v.2 kochen.v.3 ansetzen.v.9 sieben.v.2
+quellen.v.2
+kochen.v.3 binden.v.2 kochen.v.4 dämpfen.v.4
+binden.v.2
+kochen.v.4
+dämpfen.v.4
+ansetzen.v.9
+sieben.v.2
+darstellen.v.8 zeichnen.v.3 zeichnen.v.2 reproduzieren.v.1 zeichnen.v.4 modellieren.v.1 abbilden.v.1
+zeichnen.v.3 malen.v.3 konstruieren.v.2 verzeichnen.v.2 aufzeichnen.v.1
+malen.v.3
+konstruieren.v.2
+verzeichnen.v.2
+aufzeichnen.v.1
+zeichnen.v.2
+reproduzieren.v.1 abspielen.v.1
+abspielen.v.1
+zeichnen.v.4 illustrieren.v.2 malen.v.4
+illustrieren.v.2
+malen.v.4
+modellieren.v.1
+abbilden.v.1
+schaffen.v.7 ermöglichen.v.2
+ermöglichen.v.2
+gewinnen.v.5 abbauen.v.4
+abbauen.v.4
+setzen.v.13
+verarbeiten.v.2 verbrauchen.v.1 verwenden.v.2 verwerten.v.1
+verbrauchen.v.1
+verwenden.v.2 investieren.v.2
+investieren.v.2
+verwerten.v.1
+modellieren.v.2
+bauen.v.3
+verursachen.v.1 bedingen.v.2 stiften.v.2 führen.v.12 herbeiführen.v.1 anrichten.v.1 wecken.v.1 erklären.v.4 provozieren.v.1 erwecken.v.1 geben.v.11 provozieren.v.2 inszenieren.v.2
+bedingen.v.2 rächen.v.2
+rächen.v.2
+stiften.v.2
+führen.v.12
+herbeiführen.v.1 bewirken.v.1 setzen.v.7 vermitteln.v.1
+bewirken.v.1 bewegen.v.2 interessieren.v.2 erzeugen.v.1 hinterlassen.v.4 ergreifen.v.3
+bewegen.v.2
+interessieren.v.2 beeindrucken.v.1
+beeindrucken.v.1
+erzeugen.v.1
+hinterlassen.v.4
+ergreifen.v.3 treffen.v.2
+treffen.v.2 betreffen.v.1
+betreffen.v.1
+setzen.v.7
+vermitteln.v.1
+anrichten.v.1 tun.v.7
+tun.v.7
+wecken.v.1
+erklären.v.4 begründen.v.1
+begründen.v.1
+provozieren.v.1
+erwecken.v.1
+geben.v.11
+provozieren.v.2
+inszenieren.v.2
+gestalten.v.1 inszenieren.v.1 komponieren.v.2 beleben.v.2
+inszenieren.v.1
+komponieren.v.2
+beleben.v.2
+planen.v.3 einteilen.v.3 aufstellen.v.7 entwerfen.v.2
+einteilen.v.3
+aufstellen.v.7
+entwerfen.v.2 erstellen.v.2 programmieren.v.1
+erstellen.v.2 erarbeiten.v.1
+erarbeiten.v.1
+programmieren.v.1
+festhalten.v.4 dokumentieren.v.2 eintragen.v.2 aufzeichnen.v.2 verzeichnen.v.1 registrieren.v.2 setzen.v.2 registrieren.v.3 sichern.v.3 aufführen.v.4
+dokumentieren.v.2
+eintragen.v.2 ausfüllen.v.2
+ausfüllen.v.2
+aufzeichnen.v.2 aufnehmen.v.13 filmen.v.2
+aufnehmen.v.13
+filmen.v.2 aufnehmen.v.11 schneiden.v.8 drehen.v.7
+aufnehmen.v.11
+schneiden.v.8
+drehen.v.7
+verzeichnen.v.1
+registrieren.v.2
+setzen.v.2
+registrieren.v.3
+sichern.v.3
+aufführen.v.4
+schreiben.v.4 verfassen.v.1 beschreiben.v.3 notieren.v.2 formulieren.v.1 ausstellen.v.4 unterstreichen.v.2 malen.v.1
+verfassen.v.1 dichten.v.1
+dichten.v.1
+beschreiben.v.3
+notieren.v.2
+formulieren.v.1
+ausstellen.v.4
+unterstreichen.v.2
+malen.v.1
+herstellen.v.3 knüpfen.v.2 werfen.v.3
+knüpfen.v.2
+werfen.v.3
+unterlaufen.v.1
+spielen.v.6 ausüben.v.4 schlagen.v.3 abspielen.v.2 begleiten.v.1
+ausüben.v.4
+schlagen.v.3
+abspielen.v.2
+begleiten.v.1
+vermehren.v.1 empfangen.v.4
+empfangen.v.4
+gründen.v.4 errichten.v.2 einrichten.v.8 etablieren.v.2 aufbauen.v.6 begründen.v.3 eröffnen.v.5
+errichten.v.2
+einrichten.v.8
+etablieren.v.2
+aufbauen.v.6
+begründen.v.3 stiften.v.3
+stiften.v.3
+eröffnen.v.5
+umfassen.v.5
+fassen.v.12
+zusammensetzen.v.2
+komponieren.v.1
+verknüpfen.v.1 knüpfen.v.1
+knüpfen.v.1
+erhalten.v.2 schützen.v.2 bewahren.v.2 retten.v.1
+schützen.v.2 bewahren.v.3 sichern.v.2 decken.v.1 isolieren.v.1 wahren.v.2 überwintern.v.1
+bewahren.v.3
+sichern.v.2 absichern.v.1 versichern.v.3 untermauern.v.1 festigen.v.2
+absichern.v.1
+versichern.v.3
+untermauern.v.1
+festigen.v.2
+decken.v.1
+isolieren.v.1
+wahren.v.2
+überwintern.v.1
+bewahren.v.2 behalten.v.2
+behalten.v.2
+retten.v.1
+retten.v.2 retten.v.3 befreien.v.3 bergen.v.3
+retten.v.3
+befreien.v.3
+bergen.v.3
+versuchen.v.2
+halten.v.6 zurücklegen.v.2
+zurücklegen.v.2
+zusammenfassen.v.1
+vornehmen.v.3
+tun.v.6
+erneuern.v.1
+verbreiten.v.3
+tun.v.5 fehlen.v.1
+fehlen.v.1
+vorbereiten.v.2 einrichten.v.4
+einrichten.v.4
+wahrnehmen.v.3 aufnehmen.v.5 hören.v.5 erkennen.v.3 sehen.v.8 merken.v.2 schmecken.v.1 feststellen.v.4 achten.v.3 fühlen.v.5 unterscheiden.v.4 fühlen.v.3 fernsehen.v.1 fühlen.v.4 aufnehmen.v.9
+aufnehmen.v.5 übernehmen.v.6 verstehen.v.8 erleben.v.3 lernen.v.1 ergreifen.v.4 informieren.v.2 lesen.v.4 einfallen.v.6 empfangen.v.1
+übernehmen.v.6 annehmen.v.7
+annehmen.v.7 bekehren.v.2
+bekehren.v.2 übergehen.v.1
+übergehen.v.1
+verstehen.v.8 auffassen.v.2 erkennen.v.2 lösen.v.2 begreifen.v.1 einsehen.v.3 realisieren.v.2 fressen.v.1 erschließen.v.1
+auffassen.v.2 auffassen.v.1 nehmen.v.7
+auffassen.v.1 achten.v.5 achten.v.1 ansprechen.v.4 halten.v.16
+achten.v.5 respektieren.v.1 heiligen.v.3
+respektieren.v.1 akzeptieren.v.3 anerkennen.v.2
+akzeptieren.v.3
+anerkennen.v.2
+heiligen.v.3
+achten.v.1 befinden.v.3
+befinden.v.3
+ansprechen.v.4
+halten.v.16
+nehmen.v.7
+erkennen.v.2 treffen.v.5 ersehen.v.1 sehen.v.3 sehen.v.4 schauen.v.4 ersehen.v.2 übersehen.v.2 aufgehen.v.5 ablesen.v.3
+treffen.v.5
+ersehen.v.1
+sehen.v.3
+sehen.v.4
+schauen.v.4
+ersehen.v.2
+übersehen.v.2
+aufgehen.v.5
+ablesen.v.3
+lösen.v.2 aufklären.v.1
+aufklären.v.1
+begreifen.v.1 fassen.v.6 nachvollziehen.v.2 vorstellen.v.7
+fassen.v.6 erfassen.v.2
+erfassen.v.2
+nachvollziehen.v.2
+vorstellen.v.7
+einsehen.v.3 überzeugen.v.2
+überzeugen.v.2
+realisieren.v.2
+fressen.v.1
+erschließen.v.1
+erleben.v.3 erfahren.v.3 erfahren.v.4 kosten.v.1
+erfahren.v.3 erleben.v.4 begegnen.v.3 erleiden.v.3
+erleben.v.4 stellen.v.3 unterziehen.v.1
+stellen.v.3
+unterziehen.v.1
+begegnen.v.3 auftauchen.v.1
+auftauchen.v.1
+erleiden.v.3
+erfahren.v.4 hören.v.3
+hören.v.3
+kosten.v.1
+lernen.v.1 aneignen.v.2 bilden.v.3 schulen.v.2 erwerben.v.4 studieren.v.1 erlernen.v.1 erarbeiten.v.3
+aneignen.v.2
+bilden.v.3
+schulen.v.2
+erwerben.v.4
+studieren.v.1
+erlernen.v.1
+erarbeiten.v.3
+ergreifen.v.4
+informieren.v.2
+lesen.v.4 verlesen.v.2 studieren.v.2 lesen.v.2
+verlesen.v.2
+studieren.v.2
+lesen.v.2
+einfallen.v.6
+empfangen.v.1
+hören.v.5 verstehen.v.9 hören.v.2 hören.v.6 hören.v.7
+verstehen.v.9
+hören.v.2
+hören.v.6
+hören.v.7
+erkennen.v.3 erkennen.v.4
+erkennen.v.4 identifizieren.v.3 entnehmen.v.2
+identifizieren.v.3
+entnehmen.v.2
+sehen.v.8 ansehen.v.3 schauen.v.5 zeigen.v.11 übersehen.v.1 blicken.v.2 übersehen.v.4 sehen.v.11 einsehen.v.1 übersehen.v.5 versehen.v.3
+ansehen.v.3 beobachten.v.3 messen.v.4 betrachten.v.3 fixieren.v.2 ansehen.v.5 besichtigen.v.1 blicken.v.3
+beobachten.v.3 verfolgen.v.6
+verfolgen.v.6 zurückverfolgen.v.1
+zurückverfolgen.v.1
+messen.v.4
+betrachten.v.3 spiegeln.v.5 sehen.v.10 studieren.v.3
+spiegeln.v.5
+sehen.v.10
+studieren.v.3
+fixieren.v.2
+ansehen.v.5 ansehen.v.4
+ansehen.v.4
+besichtigen.v.1
+blicken.v.3 sehen.v.12
+sehen.v.12
+schauen.v.5 anschauen.v.1
+anschauen.v.1
+zeigen.v.11 weisen.v.2 deuten.v.3 vorweisen.v.2
+weisen.v.2 verweisen.v.6 aufweisen.v.3 gehen.v.1
+verweisen.v.6
+aufweisen.v.3
+gehen.v.1
+deuten.v.3 hindeuten.v.2
+hindeuten.v.2
+vorweisen.v.2
+übersehen.v.1
+blicken.v.2
+übersehen.v.4
+sehen.v.11
+einsehen.v.1
+übersehen.v.5
+versehen.v.3
+merken.v.2 bemerken.v.2
+bemerken.v.2 sehen.v.9 begegnen.v.5 ansehen.v.2 registrieren.v.1 beobachten.v.2
+sehen.v.9 ausmachen.v.7
+ausmachen.v.7
+begegnen.v.5 treffen.v.9
+treffen.v.9
+ansehen.v.2
+registrieren.v.1
+beobachten.v.2
+schmecken.v.1 kosten.v.4 versuchen.v.4
+kosten.v.4
+versuchen.v.4
+feststellen.v.4
+achten.v.3
+fühlen.v.5
+unterscheiden.v.4
+fühlen.v.3 empfinden.v.2
+empfinden.v.2
+fernsehen.v.1
+fühlen.v.4
+aufnehmen.v.9
+denken.v.5 glauben.v.2 verarbeiten.v.1 produzieren.v.2 arbeiten.v.3 aufgeben.v.2 verbinden.v.6
+glauben.v.2 vermuten.v.1 denken.v.1 wiegen.v.7 abnehmen.v.6
+vermuten.v.1 befürchten.v.1 raten.v.1 erahnen.v.1 schließen.v.2 unterstellen.v.3 ahnen.v.1
+befürchten.v.1 fürchten.v.2
+fürchten.v.2
+raten.v.1
+erahnen.v.1
+schließen.v.2
+unterstellen.v.3
+ahnen.v.1
+denken.v.1 finden.v.1
+finden.v.1
+wiegen.v.7
+abnehmen.v.6
+verarbeiten.v.1 urteilen.v.2 analysieren.v.1 denken.v.8 ordnen.v.2 nachdenken.v.1 forschen.v.1 interpretieren.v.1 beschäftigen.v.3 denken.v.7 kombinieren.v.2
+urteilen.v.2 schließen.v.3 urteilen.v.1 bestimmen.v.6 beurteilen.v.1 entscheiden.v.1
+schließen.v.3 annehmen.v.9 zurückführen.v.1 folgern.v.1
+annehmen.v.9 voraussetzen.v.1
+voraussetzen.v.1 ausgehen.v.4 bedingen.v.1 anknüpfen.v.1
+ausgehen.v.4
+bedingen.v.1
+anknüpfen.v.1
+zurückführen.v.1
+folgern.v.1
+urteilen.v.1 erkennen.v.1 richten.v.6 richten.v.5
+erkennen.v.1 anerkennen.v.1
+anerkennen.v.1 bestätigen.v.1
+bestätigen.v.1 legitimieren.v.1
+legitimieren.v.1
+richten.v.6
+richten.v.5
+bestimmen.v.6 festlegen.v.3 beeinflussen.v.1 markieren.v.2 entscheiden.v.4 entscheiden.v.3 definieren.v.1 vorsehen.v.5 charakterisieren.v.2 unterscheiden.v.3 verfügen.v.3 benennen.v.3 entscheiden.v.2 beschließen.v.1 befinden.v.2
+festlegen.v.3 begrenzen.v.2 abgrenzen.v.2 vereinbaren.v.2 festsetzen.v.2 stehen.v.7 vereinheitlichen.v.1 fixieren.v.3 setzen.v.4 vorgeben.v.3
+begrenzen.v.2 markieren.v.4
+markieren.v.4
+abgrenzen.v.2
+vereinbaren.v.2 übereinstimmen.v.1 abschließen.v.1 ausmachen.v.5
+übereinstimmen.v.1 einigen.v.2 verbleiben.v.1
+einigen.v.2 vergleichen.v.3 verständigen.v.2
+vergleichen.v.3
+verständigen.v.2
+verbleiben.v.1
+abschließen.v.1
+ausmachen.v.5
+festsetzen.v.2 notieren.v.1
+notieren.v.1
+stehen.v.7
+vereinheitlichen.v.1
+fixieren.v.3
+setzen.v.4
+vorgeben.v.3
+beeinflussen.v.1 kontrollieren.v.3 einwirken.v.1 stimmen.v.3 prägen.v.1 steuern.v.3
+kontrollieren.v.3 unterdrücken.v.2 trainieren.v.4
+unterdrücken.v.2 verdrängen.v.1
+verdrängen.v.1
+trainieren.v.4
+einwirken.v.1
+stimmen.v.3
+prägen.v.1 zeichnen.v.1 bestimmen.v.3
+zeichnen.v.1
+bestimmen.v.3
+steuern.v.3
+markieren.v.2
+entscheiden.v.4 auswählen.v.1
+auswählen.v.1 aussuchen.v.1 einschlagen.v.3
+aussuchen.v.1
+einschlagen.v.3
+entscheiden.v.3
+definieren.v.1
+vorsehen.v.5 ausweisen.v.1
+ausweisen.v.1
+charakterisieren.v.2
+unterscheiden.v.3 trennen.v.4
+trennen.v.4
+verfügen.v.3
+benennen.v.3
+entscheiden.v.2
+beschließen.v.1 verabschieden.v.3
+verabschieden.v.3
+befinden.v.2
+beurteilen.v.1 bewerten.v.1 festhalten.v.1 billigen.v.1 einschätzen.v.1 verurteilen.v.2 anerkennen.v.3 zugeben.v.2 sehen.v.6 ändern.v.1 besprechen.v.1 ablehnen.v.4 zählen.v.5 vergleichen.v.1 bestätigen.v.2 denken.v.9 geben.v.10
+bewerten.v.1 schätzen.v.3 wiegen.v.1
+schätzen.v.3 ansetzen.v.2
+ansetzen.v.2 rechnen.v.6
+rechnen.v.6
+wiegen.v.1
+festhalten.v.1 beibehalten.v.1 bleiben.v.2
+beibehalten.v.1 verbleiben.v.4
+verbleiben.v.4
+bleiben.v.2
+billigen.v.1 zustimmen.v.1 annehmen.v.8 anschließen.v.5 begrüßen.v.1
+zustimmen.v.1
+annehmen.v.8
+anschließen.v.5
+begrüßen.v.1
+einschätzen.v.1 abschätzen.v.1
+abschätzen.v.1
+verurteilen.v.2
+anerkennen.v.3
+zugeben.v.2
+sehen.v.6
+ändern.v.1 reformieren.v.2
+reformieren.v.2
+besprechen.v.1
+ablehnen.v.4
+zählen.v.5
+vergleichen.v.1 identifizieren.v.1
+identifizieren.v.1
+bestätigen.v.2 verifizieren.v.1
+verifizieren.v.1
+denken.v.9
+geben.v.10
+entscheiden.v.1 austragen.v.5
+austragen.v.5
+analysieren.v.1 zeigen.v.8 lösen.v.9 datieren.v.3
+zeigen.v.8 beweisen.v.1 aufzeigen.v.2 ausweisen.v.2
+beweisen.v.1 nachweisen.v.1 belegen.v.4 erweisen.v.2
+nachweisen.v.1 überführen.v.3 verifizieren.v.2
+überführen.v.3
+verifizieren.v.2
+belegen.v.4 unterlegen.v.2
+unterlegen.v.2
+erweisen.v.2
+aufzeigen.v.2
+ausweisen.v.2
+lösen.v.9 klären.v.2
+klären.v.2 klären.v.3 aufklären.v.2 auflösen.v.3
+klären.v.3
+aufklären.v.2
+auflösen.v.3
+datieren.v.3
+denken.v.8
+ordnen.v.2 organisieren.v.5 rechnen.v.4 einordnen.v.2 regeln.v.1 synchronisieren.v.2 sortieren.v.1 unterstellen.v.4 zusammenfassen.v.2 gruppieren.v.1 strukturieren.v.1
+organisieren.v.5 planen.v.2
+planen.v.2 einteilen.v.2
+einteilen.v.2 verteilen.v.2
+verteilen.v.2
+rechnen.v.4
+einordnen.v.2 datieren.v.2 qualifizieren.v.1 lokalisieren.v.1 kategorisieren.v.1
+datieren.v.2
+qualifizieren.v.1
+lokalisieren.v.1
+kategorisieren.v.1
+regeln.v.1
+synchronisieren.v.2
+sortieren.v.1 verlesen.v.3
+verlesen.v.3
+unterstellen.v.4
+zusammenfassen.v.2
+gruppieren.v.1
+strukturieren.v.1
+nachdenken.v.1 denken.v.6 fragen.v.1 überlegen.v.3 reflektieren.v.3 betrachten.v.1
+denken.v.6 halten.v.18 berücksichtigen.v.1 beachten.v.2 achten.v.4
+halten.v.18
+berücksichtigen.v.1 aufnehmen.v.6
+aufnehmen.v.6
+beachten.v.2
+achten.v.4
+fragen.v.1
+überlegen.v.3 bedenken.v.3 berechnen.v.1
+bedenken.v.3
+berechnen.v.1
+reflektieren.v.3
+betrachten.v.1
+forschen.v.1 untersuchen.v.2 vertiefen.v.3
+untersuchen.v.2 prüfen.v.2 beleuchten.v.1
+prüfen.v.2 unterwerfen.v.2
+unterwerfen.v.2
+beleuchten.v.1
+vertiefen.v.3
+interpretieren.v.1 deuten.v.2 sehen.v.7
+deuten.v.2 erklären.v.1 verstehen.v.3
+erklären.v.1 zurückführen.v.2 darstellen.v.5
+zurückführen.v.2
+darstellen.v.5
+verstehen.v.3
+sehen.v.7
+beschäftigen.v.3 nachgehen.v.3 umgehen.v.1 erfüllen.v.4
+nachgehen.v.3
+umgehen.v.1
+erfüllen.v.4
+denken.v.7
+kombinieren.v.2
+produzieren.v.2 entwickeln.v.1 herstellen.v.2 entwerfen.v.1 generieren.v.1
+entwickeln.v.1 bilden.v.4 fassen.v.7
+bilden.v.4 ausbilden.v.2
+ausbilden.v.2
+fassen.v.7
+herstellen.v.2 konstruieren.v.1 konstruieren.v.3
+konstruieren.v.1
+konstruieren.v.3
+entwerfen.v.1 anlegen.v.1
+anlegen.v.1
+generieren.v.1
+arbeiten.v.3 beschäftigen.v.4 bearbeiten.v.3 agieren.v.3 konzentrieren.v.1
+beschäftigen.v.4 bearbeiten.v.2 befassen.v.1 zuwenden.v.1 vornehmen.v.4 vorbereiten.v.3 pflegen.v.4
+bearbeiten.v.2
+befassen.v.1 kümmern.v.1 auseinandersetzen.v.1 behandeln.v.2 legen.v.1 aufgehen.v.6 tragen.v.9 verlegen.v.3 vergraben.v.3 aufhalten.v.5
+kümmern.v.1
+auseinandersetzen.v.1
+behandeln.v.2 haben.v.9
+haben.v.9
+legen.v.1
+aufgehen.v.6 verlieren.v.3
+verlieren.v.3
+tragen.v.9
+verlegen.v.3
+vergraben.v.3
+aufhalten.v.5
+zuwenden.v.1
+vornehmen.v.4
+vorbereiten.v.3 einrichten.v.5
+einrichten.v.5 einstellen.v.4
+einstellen.v.4
+pflegen.v.4
+bearbeiten.v.3 korrigieren.v.1 verschlechtern.v.2 kürzen.v.1 ergänzen.v.1
+korrigieren.v.1 verbessern.v.2
+verbessern.v.2 verstärken.v.1
+verstärken.v.1 erhöhen.v.1
+erhöhen.v.1
+verschlechtern.v.2
+kürzen.v.1
+ergänzen.v.1 hinzufügen.v.2
+hinzufügen.v.2
+agieren.v.3 begegnen.v.4
+begegnen.v.4 entgegenwirken.v.1 gegenüberstehen.v.1
+entgegenwirken.v.1 verhindern.v.1 wehren.v.4
+verhindern.v.1 hindern.v.1 verbieten.v.1 ausschließen.v.4 unterbinden.v.1 verbergen.v.1 blockieren.v.1 ausschalten.v.2 aufhalten.v.4 ausschalten.v.1
+hindern.v.1
+verbieten.v.1 ablehnen.v.3
+ablehnen.v.3
+ausschließen.v.4
+unterbinden.v.1 abschneiden.v.2
+abschneiden.v.2
+verbergen.v.1 verbergen.v.4 abschließen.v.3 vergraben.v.1 ausschließen.v.5
+verbergen.v.4
+abschließen.v.3
+vergraben.v.1
+ausschließen.v.5
+blockieren.v.1
+ausschalten.v.2
+aufhalten.v.4
+ausschalten.v.1
+wehren.v.4
+gegenüberstehen.v.1
+konzentrieren.v.1 lenken.v.2
+lenken.v.2 ausrichten.v.3 wenden.v.8
+ausrichten.v.3 orientieren.v.2
+orientieren.v.2
+wenden.v.8
+aufgeben.v.2 aufgeben.v.1 zurücktreten.v.5 wechseln.v.1 opfern.v.1 enthalten.v.2 kapitulieren.v.1 absagen.v.1
+aufgeben.v.1
+zurücktreten.v.5
+wechseln.v.1
+opfern.v.1
+enthalten.v.2
+kapitulieren.v.1
+absagen.v.1
+verbinden.v.6 beziehen.v.5 koordinieren.v.1
+beziehen.v.5 anwenden.v.2
+anwenden.v.2 praktizieren.v.1
+praktizieren.v.1
+koordinieren.v.1
+handeln.v.5 interagieren.v.1 arbeiten.v.2 verhalten.v.3 unterstützen.v.2 organisieren.v.4 bieten.v.3 bewältigen.v.1 spielen.v.5 benennen.v.1 durchführen.v.1 begehen.v.2 wagen.v.2 reagieren.v.1 aufnehmen.v.4 stören.v.2 unterrichten.v.1 zeichnen.v.5 behandeln.v.1 spielen.v.7 entlassen.v.1 belasten.v.1 versuchen.v.3 suchen.v.3 kontrollieren.v.2 holen.v.3 sperren.v.5 schaden.v.1 kontrollieren.v.1 beziehen.v.6 drohen.v.3 verteidigen.v.3 veröffentlichen.v.1 verpflichten.v.2 verändern.v.1 spielen.v.9 auftreten.v.3 betreiben.v.2 nutzen.v.1 verfahren.v.4 betätigen.v.2 verhandeln.v.3 vorstellen.v.6 erlauben.v.1 nennen.v.1 nehmen.v.14 spielen.v.8
+interagieren.v.1 kommunizieren.v.1 treffen.v.3 konkurrieren.v.1 besuchen.v.1 binden.v.3 annehmen.v.2 versammeln.v.1 einladen.v.1 trennen.v.2 versammeln.v.2 feiern.v.1 ausdrücken.v.3 hinterlassen.v.2 vorgehen.v.7 ablehnen.v.1 zusammenkommen.v.2
+kommunizieren.v.1
+treffen.v.3 stoßen.v.3 begegnen.v.6 kreuzen.v.2 aufeinandertreffen.v.1 kennenlernen.v.2
+stoßen.v.3
+begegnen.v.6 unterlaufen.v.3
+unterlaufen.v.3
+kreuzen.v.2
+aufeinandertreffen.v.1
+kennenlernen.v.2
+konkurrieren.v.1 verlieren.v.6 streiten.v.2 führen.v.7 angreifen.v.4 gewinnen.v.4 spielen.v.11 angeben.v.4 reißen.v.8
+verlieren.v.6
+streiten.v.2 kämpfen.v.3 anlegen.v.5 auseinandersetzen.v.3
+kämpfen.v.3 bekämpfen.v.1 schießen.v.2 schlagen.v.6 halten.v.1 spielen.v.10 messen.v.3 schießen.v.3 angreifen.v.5 bekämpfen.v.2 austragen.v.2 verteidigen.v.4
+bekämpfen.v.1
+schießen.v.2 anlegen.v.6 abgeben.v.10 beschießen.v.1
+anlegen.v.6
+abgeben.v.10
+beschießen.v.1
+schlagen.v.6 niederschlagen.v.3
+niederschlagen.v.3
+halten.v.1
+spielen.v.10 abspielen.v.3 decken.v.3
+abspielen.v.3 bedienen.v.1 vorbereiten.v.4
+bedienen.v.1
+vorbereiten.v.4
+decken.v.3 abdecken.v.1
+abdecken.v.1
+messen.v.3
+schießen.v.3
+angreifen.v.5
+bekämpfen.v.2
+austragen.v.2
+verteidigen.v.4
+anlegen.v.5
+auseinandersetzen.v.3
+führen.v.7 anführen.v.2
+anführen.v.2
+angreifen.v.4 stürzen.v.2 attackieren.v.2 überfallen.v.4 anfallen.v.2 einfallen.v.7
+stürzen.v.2
+attackieren.v.2
+überfallen.v.4
+anfallen.v.2
+einfallen.v.7
+gewinnen.v.4 siegen.v.1 aufsteigen.v.1 durchsetzen.v.3 abhängen.v.4 überragen.v.2 holen.v.2
+siegen.v.1 besiegen.v.1
+besiegen.v.1 zurückerobern.v.1 niederschlagen.v.5 vernichten.v.1 einnehmen.v.5 nehmen.v.9 bezwingen.v.1
+zurückerobern.v.1
+niederschlagen.v.5
+vernichten.v.1
+einnehmen.v.5 besetzen.v.1
+besetzen.v.1
+nehmen.v.9
+bezwingen.v.1
+aufsteigen.v.1
+durchsetzen.v.3 durchschlagen.v.4 durchdringen.v.1 ankommen.v.6
+durchschlagen.v.4
+durchdringen.v.1
+ankommen.v.6
+abhängen.v.4
+überragen.v.2 überholen.v.3
+überholen.v.3
+holen.v.2
+spielen.v.11 losen.v.1
+losen.v.1
+angeben.v.4
+reißen.v.8
+besuchen.v.1 verkehren.v.1 aufsuchen.v.4
+verkehren.v.1
+aufsuchen.v.4
+binden.v.3 verheiraten.v.1 heiraten.v.1 vereinigen.v.2 nehmen.v.4 gehen.v.2 verbinden.v.4
+verheiraten.v.1
+heiraten.v.1 freien.v.2
+freien.v.2
+vereinigen.v.2
+nehmen.v.4
+gehen.v.2
+verbinden.v.4
+annehmen.v.2 eingehen.v.1
+eingehen.v.1
+versammeln.v.1 treffen.v.11 zusammenschließen.v.2
+treffen.v.11 zusammensetzen.v.1
+zusammensetzen.v.1
+zusammenschließen.v.2 formieren.v.1 organisieren.v.2
+formieren.v.1
+organisieren.v.2
+einladen.v.1 nehmen.v.5
+nehmen.v.5 beherbergen.v.1
+beherbergen.v.1
+trennen.v.2 verlassen.v.1 empfehlen.v.1 verabschieden.v.1 scheiden.v.1
+verlassen.v.1
+empfehlen.v.1
+verabschieden.v.1
+scheiden.v.1
+versammeln.v.2
+feiern.v.1 begehen.v.1
+begehen.v.1
+ausdrücken.v.3
+hinterlassen.v.2
+vorgehen.v.7 operieren.v.1
+operieren.v.1
+ablehnen.v.1
+zusammenkommen.v.2
+arbeiten.v.2 wirken.v.3 ausüben.v.3 dienen.v.2 praktizieren.v.3 dienen.v.1 ausgeben.v.1 zusammenarbeiten.v.1 verfahren.v.5 ausarbeiten.v.1
+wirken.v.3
+ausüben.v.3 versehen.v.1 betreiben.v.1
+versehen.v.1
+betreiben.v.1
+dienen.v.2
+praktizieren.v.3
+dienen.v.1
+ausgeben.v.1
+zusammenarbeiten.v.1
+verfahren.v.5
+ausarbeiten.v.1
+verhalten.v.3 richten.v.4 tun.v.8 halten.v.15 führen.v.13
+richten.v.4 befolgen.v.1 einstellen.v.3
+befolgen.v.1 halten.v.12 gehorchen.v.1 einhalten.v.2 halten.v.17 nachkommen.v.4 hören.v.4 nachkommen.v.3 hören.v.1 beachten.v.1
+halten.v.12
+gehorchen.v.1
+einhalten.v.2
+halten.v.17
+nachkommen.v.4
+hören.v.4
+nachkommen.v.3
+hören.v.1
+beachten.v.1 beobachten.v.1
+beobachten.v.1
+einstellen.v.3 abstimmen.v.1
+abstimmen.v.1
+tun.v.8
+halten.v.15
+führen.v.13
+unterstützen.v.2 betreuen.v.2 entlasten.v.2 helfen.v.4 akzeptieren.v.2
+betreuen.v.2 sorgen.v.2 erziehen.v.1 warten.v.3
+sorgen.v.2 pflegen.v.2 besorgen.v.1 annehmen.v.3 versorgen.v.1 schützen.v.1 bemühen.v.2 ernähren.v.1
+pflegen.v.2 sehen.v.2
+sehen.v.2
+besorgen.v.1
+annehmen.v.3
+versorgen.v.1
+schützen.v.1 schonen.v.1
+schonen.v.1
+bemühen.v.2
+ernähren.v.1
+erziehen.v.1
+warten.v.3
+entlasten.v.2 helfen.v.2
+helfen.v.2 fördern.v.1 abnehmen.v.3 vertreten.v.2
+fördern.v.1 einsetzen.v.3 befürworten.v.1 aufbauen.v.3 herausstellen.v.3 begünstigen.v.2
+einsetzen.v.3 verwenden.v.1 opfern.v.3
+verwenden.v.1
+opfern.v.3
+befürworten.v.1
+aufbauen.v.3
+herausstellen.v.3
+begünstigen.v.2
+abnehmen.v.3
+vertreten.v.2 ersetzen.v.2 verteidigen.v.1
+ersetzen.v.2
+verteidigen.v.1
+helfen.v.4 übernehmen.v.5 verhelfen.v.1
+übernehmen.v.5 tragen.v.1 wahrnehmen.v.1
+tragen.v.1
+wahrnehmen.v.1
+verhelfen.v.1
+akzeptieren.v.2
+organisieren.v.4 veranstalten.v.1 fahren.v.1 sanieren.v.2 durchführen.v.3
+veranstalten.v.1 geben.v.2 unternehmen.v.2 halten.v.11 austragen.v.4 durchführen.v.2 arrangieren.v.2 abhalten.v.3 ausrichten.v.2
+geben.v.2
+unternehmen.v.2 bewegen.v.4 starten.v.2 beginnen.v.1
+bewegen.v.4
+starten.v.2
+beginnen.v.1
+halten.v.11
+austragen.v.4 ausspielen.v.1
+ausspielen.v.1
+durchführen.v.2 führen.v.6 bestreiten.v.1
+führen.v.6
+bestreiten.v.1
+arrangieren.v.2
+abhalten.v.3
+ausrichten.v.2
+fahren.v.1
+sanieren.v.2
+durchführen.v.3
+bieten.v.3 bereitstellen.v.1 anbieten.v.1 anbieten.v.2
+bereitstellen.v.1 mobilisieren.v.2 bereiten.v.2
+mobilisieren.v.2 rekrutieren.v.1 aktivieren.v.2
+rekrutieren.v.1
+aktivieren.v.2
+bereiten.v.2
+anbieten.v.1 vorschlagen.v.2
+vorschlagen.v.2
+anbieten.v.2 verkaufen.v.3
+verkaufen.v.3
+bewältigen.v.1 überwinden.v.3 bewerkstelligen.v.1 zwingen.v.1 absolvieren.v.1 bezwingen.v.2 bringen.v.5 leisten.v.3 bestehen.v.4 lösen.v.1 ablegen.v.2
+überwinden.v.3 erholen.v.1 befreien.v.1 brechen.v.1
+erholen.v.1
+befreien.v.1
+brechen.v.1
+bewerkstelligen.v.1 bringen.v.4 tätigen.v.1 realisieren.v.1 einleiten.v.2 verwirklichen.v.2 handhaben.v.2 durchziehen.v.3 einrichten.v.3 drehen.v.1 arrangieren.v.3 verrichten.v.1 anfangen.v.2 vollziehen.v.2
+bringen.v.4 bewegen.v.3 unterbringen.v.1 zwingen.v.2 bekommen.v.5
+bewegen.v.3 lassen.v.2 beugen.v.1 eingeben.v.3 schicken.v.3 bestimmen.v.2 starten.v.6
+lassen.v.2
+beugen.v.1
+eingeben.v.3
+schicken.v.3 weisen.v.1 ansiedeln.v.1 entsenden.v.1
+weisen.v.1 ausschließen.v.2 ausschließen.v.1
+ausschließen.v.2 sperren.v.1 verstoßen.v.1 verbannen.v.1
+sperren.v.1
+verstoßen.v.1
+verbannen.v.1
+ausschließen.v.1
+ansiedeln.v.1
+entsenden.v.1
+bestimmen.v.2
+starten.v.6
+unterbringen.v.1
+zwingen.v.2 nötigen.v.1 überwinden.v.2
+nötigen.v.1
+überwinden.v.2
+bekommen.v.5
+tätigen.v.1
+realisieren.v.1 umsetzen.v.3
+umsetzen.v.3
+einleiten.v.2
+verwirklichen.v.2
+handhaben.v.2
+durchziehen.v.3
+einrichten.v.3
+drehen.v.1
+arrangieren.v.3
+verrichten.v.1
+anfangen.v.2
+vollziehen.v.2
+zwingen.v.1 bestehen.v.5 bewähren.v.1
+bestehen.v.5 erreichen.v.1 versetzen.v.2 halten.v.13 auskommen.v.1
+erreichen.v.1 erzielen.v.2 erwirtschaften.v.1 gelangen.v.1 erwirken.v.1 einstellen.v.1 belegen.v.2 erzwingen.v.1 vermögen.v.1
+erzielen.v.2 vorlegen.v.9
+vorlegen.v.9
+erwirtschaften.v.1
+gelangen.v.1 finden.v.6
+finden.v.6
+erwirken.v.1
+einstellen.v.1
+belegen.v.2
+erzwingen.v.1
+vermögen.v.1
+versetzen.v.2
+halten.v.13
+auskommen.v.1 fahren.v.8
+fahren.v.8
+bewähren.v.1 bestehen.v.2 behalten.v.1 standhalten.v.1
+bestehen.v.2
+behalten.v.1
+standhalten.v.1
+absolvieren.v.1
+bezwingen.v.2
+bringen.v.5
+leisten.v.3
+bestehen.v.4
+lösen.v.1
+ablegen.v.2
+spielen.v.5 bedienen.v.4
+bedienen.v.4
+benennen.v.1
+durchführen.v.1 ausführen.v.4 erledigen.v.1 ermitteln.v.3
+ausführen.v.4
+erledigen.v.1 verschaffen.v.1 besorgen.v.2
+verschaffen.v.1 bereichern.v.1 sichern.v.1
+bereichern.v.1
+sichern.v.1
+besorgen.v.2
+ermitteln.v.3
+begehen.v.2 töten.v.1 verraten.v.1
+töten.v.1 erschießen.v.1 erschlagen.v.1 erledigen.v.2 ermorden.v.1 vernichten.v.3 erlegen.v.1 reißen.v.7
+erschießen.v.1
+erschlagen.v.1
+erledigen.v.2
+ermorden.v.1
+vernichten.v.3
+erlegen.v.1
+reißen.v.7
+verraten.v.1
+wagen.v.2 erlauben.v.3 trauen.v.2 unterstehen.v.2 leisten.v.2
+erlauben.v.3
+trauen.v.2
+unterstehen.v.2
+leisten.v.2
+reagieren.v.1 einnehmen.v.3 ansprechen.v.3 beantworten.v.2
+einnehmen.v.3 zurückziehen.v.4
+zurückziehen.v.4
+ansprechen.v.3
+beantworten.v.2
+aufnehmen.v.4 einstellen.v.2 kommen.v.11 annehmen.v.4
+einstellen.v.2 engagieren.v.1 berufen.v.3 verpflichten.v.1 rekrutieren.v.2 einsetzen.v.2 beschäftigen.v.1
+engagieren.v.1
+berufen.v.3 ernennen.v.1 wählen.v.1 benennen.v.2 weihen.v.2 krönen.v.3
+ernennen.v.1 aufstellen.v.1
+aufstellen.v.1 vorschlagen.v.1 kandidieren.v.1
+vorschlagen.v.1
+kandidieren.v.1
+wählen.v.1 bestimmen.v.4 stimmen.v.2 abstimmen.v.3
+bestimmen.v.4 vorsehen.v.1 weihen.v.5 bestellen.v.3 widmen.v.2
+vorsehen.v.1
+weihen.v.5
+bestellen.v.3
+widmen.v.2
+stimmen.v.2
+abstimmen.v.3
+benennen.v.2
+weihen.v.2
+krönen.v.3
+verpflichten.v.1
+rekrutieren.v.2
+einsetzen.v.2
+beschäftigen.v.1
+kommen.v.11
+annehmen.v.4
+stören.v.2 behindern.v.1 ausmachen.v.6 ablenken.v.2
+behindern.v.1 beeinträchtigen.v.1 aufhalten.v.7
+beeinträchtigen.v.1
+aufhalten.v.7
+ausmachen.v.6
+ablenken.v.2 abziehen.v.1
+abziehen.v.1
+unterrichten.v.1 ausbilden.v.1 schulen.v.1
+ausbilden.v.1
+schulen.v.1 trainieren.v.2
+trainieren.v.2
+zeichnen.v.5 auszeichnen.v.5 kennzeichnen.v.2 unterschreiben.v.1 bezeichnen.v.5
+auszeichnen.v.5
+kennzeichnen.v.2
+unterschreiben.v.1
+bezeichnen.v.5
+behandeln.v.1 ausnutzen.v.1 umgehen.v.3 versetzen.v.3 auszeichnen.v.3 begünstigen.v.1 halten.v.9 missbrauchen.v.2 spielen.v.4
+ausnutzen.v.1 benutzen.v.1
+benutzen.v.1
+umgehen.v.3 vernachlässigen.v.2
+vernachlässigen.v.2
+versetzen.v.3
+auszeichnen.v.3
+begünstigen.v.1
+halten.v.9
+missbrauchen.v.2
+spielen.v.4
+spielen.v.7 auftreten.v.2 verkörpern.v.1 tanzen.v.3 mitwirken.v.1 ausspielen.v.2
+auftreten.v.2 filmen.v.1
+filmen.v.1
+verkörpern.v.1
+tanzen.v.3
+mitwirken.v.1
+ausspielen.v.2
+entlassen.v.1 ablösen.v.3 freisetzen.v.3 abbauen.v.1 abberufen.v.1 verabschieden.v.2 stürzen.v.9 absetzen.v.5 kündigen.v.2
+ablösen.v.3
+freisetzen.v.3
+abbauen.v.1
+abberufen.v.1
+verabschieden.v.2
+stürzen.v.9
+absetzen.v.5
+kündigen.v.2
+belasten.v.1
+versuchen.v.3 experimentieren.v.1 suchen.v.2
+experimentieren.v.1
+suchen.v.2
+suchen.v.3 ablaufen.v.6 graben.v.1 aussehen.v.1 durchsuchen.v.1 aufsuchen.v.2
+ablaufen.v.6
+graben.v.1
+aussehen.v.1
+durchsuchen.v.1
+aufsuchen.v.2
+kontrollieren.v.2 prüfen.v.1 beobachten.v.4 überwachen.v.1 nachschlagen.v.1 überzeugen.v.1
+prüfen.v.1
+beobachten.v.4 überwachen.v.2
+überwachen.v.2
+überwachen.v.1
+nachschlagen.v.1
+überzeugen.v.1
+holen.v.3 wiederholen.v.1 besorgen.v.3
+wiederholen.v.1
+besorgen.v.3 unterbringen.v.3 einholen.v.3 vermitteln.v.2
+unterbringen.v.3
+einholen.v.3
+vermitteln.v.2
+sperren.v.5 festsetzen.v.3
+festsetzen.v.3
+schaden.v.1 vergeben.v.5 treffen.v.4 abziehen.v.5
+vergeben.v.5
+treffen.v.4
+abziehen.v.5
+kontrollieren.v.1 bestimmen.v.1 fordern.v.1 beherrschen.v.3 ordnen.v.3 fordern.v.2
+bestimmen.v.1
+fordern.v.1 verlangen.v.1
+verlangen.v.1 abnehmen.v.2
+abnehmen.v.2
+beherrschen.v.3 mäßigen.v.2 meistern.v.1
+mäßigen.v.2
+meistern.v.1
+ordnen.v.3 gliedern.v.1 richten.v.12
+gliedern.v.1 anordnen.v.1 zerfallen.v.4 aufbauen.v.2 aufteilen.v.1 differenzieren.v.2 einteilen.v.1
+anordnen.v.1 formieren.v.2
+formieren.v.2
+zerfallen.v.4
+aufbauen.v.2
+aufteilen.v.1
+differenzieren.v.2
+einteilen.v.1
+richten.v.12
+fordern.v.2 übernehmen.v.4
+übernehmen.v.4
+beziehen.v.6 berufen.v.4 anknüpfen.v.2
+berufen.v.4 stützen.v.2
+stützen.v.2
+anknüpfen.v.2
+drohen.v.3 bedrohen.v.2
+bedrohen.v.2 gefährden.v.1
+gefährden.v.1 aussetzen.v.4 wagen.v.1
+aussetzen.v.4
+wagen.v.1 riskieren.v.1
+riskieren.v.1
+verteidigen.v.3 halten.v.20 abwehren.v.4 wehren.v.3
+halten.v.20
+abwehren.v.4
+wehren.v.3
+veröffentlichen.v.1 freigeben.v.3 drucken.v.1 verlegen.v.4 schalten.v.3 erscheinen.v.4
+freigeben.v.3 übergeben.v.2
+übergeben.v.2
+drucken.v.1
+verlegen.v.4
+schalten.v.3
+erscheinen.v.4
+verpflichten.v.2
+verändern.v.1 versetzen.v.5 versetzen.v.6
+versetzen.v.5
+versetzen.v.6
+spielen.v.9 zeigen.v.3
+zeigen.v.3
+auftreten.v.3 fungieren.v.1 vertreten.v.3
+fungieren.v.1
+vertreten.v.3 repräsentieren.v.3
+repräsentieren.v.3
+betreiben.v.2 führen.v.1 speisen.v.1
+führen.v.1 betätigen.v.1 handhaben.v.1 regulieren.v.1
+betätigen.v.1
+handhaben.v.1
+regulieren.v.1
+speisen.v.1
+nutzen.v.1 auswerten.v.1 dienen.v.3 anwenden.v.1
+auswerten.v.1
+dienen.v.3
+anwenden.v.1
+verfahren.v.4
+betätigen.v.2 spielen.v.1
+spielen.v.1
+verhandeln.v.3
+vorstellen.v.6 einführen.v.3
+einführen.v.3
+erlauben.v.1
+nennen.v.1
+nehmen.v.14 bedienen.v.8
+bedienen.v.8 zugreifen.v.5
+zugreifen.v.5
+spielen.v.8
+sein.v.2 gehören.v.2 stattfinden.v.1 befinden.v.1 empfinden.v.1 wohnen.v.1 gelten.v.5 brauchen.v.3 ragen.v.1 unterscheiden.v.1 nennen.v.3 gehen.v.11 gehen.v.5 gelten.v.2 zusammenhängen.v.1 kosten.v.2 gelten.v.3 betragen.v.1 dienen.v.4 wirken.v.1 ausreichen.v.1 bilden.v.2 gehen.v.4 bleiben.v.1 gelten.v.4 leben.v.4 aussehen.v.2
+gehören.v.2 verbinden.v.2 angehören.v.1 fallen.v.4 kommen.v.3 sitzen.v.3
+verbinden.v.2 einigen.v.1 paaren.v.2
+einigen.v.1 vereinbaren.v.1
+vereinbaren.v.1
+paaren.v.2
+angehören.v.1 rechnen.v.1 zählen.v.3
+rechnen.v.1 verstehen.v.4
+verstehen.v.4
+zählen.v.3
+fallen.v.4
+kommen.v.3
+sitzen.v.3
+stattfinden.v.1 geschehen.v.1 passieren.v.1 eintreffen.v.1 tun.v.1 sein.v.7
+geschehen.v.1 wandeln.v.3 abspielen.v.4 sein.v.6 vorgehen.v.3 begeben.v.1 vollziehen.v.1 erfolgen.v.1
+wandeln.v.3 auftreten.v.8 kommen.v.17 öffnen.v.2 steigen.v.3 verringern.v.1 wechseln.v.7 füllen.v.4 verwandeln.v.2 verbessern.v.1 brennen.v.4 verschlechtern.v.1 verfallen.v.4 leeren.v.1 entwickeln.v.5 schließen.v.10 umwandeln.v.3 schließen.v.7 wenden.v.10 umsteigen.v.1 regeln.v.3 brechen.v.8 verschieben.v.4 wiederholen.v.5 schließen.v.12 bremsen.v.1 umkehren.v.3 schließen.v.11 teilen.v.2 verschwinden.v.1 leiden.v.2 verlangsamen.v.2 trennen.v.7 verlagern.v.2 beschleunigen.v.1 belaufen.v.1
+auftreten.v.8 entwickeln.v.6 entstehen.v.1 zeigen.v.15 anfallen.v.3 durchschlagen.v.2 ausbreiten.v.8 kommen.v.16
+entwickeln.v.6 reifen.v.1 gedeihen.v.2 blühen.v.2 gestalten.v.2 runden.v.3 aufleben.v.1 aufgehen.v.1 blühen.v.3 aufwachsen.v.3 wachsen.v.3 arten.v.1 nähern.v.4
+reifen.v.1
+gedeihen.v.2
+blühen.v.2
+gestalten.v.2
+runden.v.3
+aufleben.v.1
+aufgehen.v.1 spitzen.v.1
+spitzen.v.1
+blühen.v.3
+aufwachsen.v.3
+wachsen.v.3
+arten.v.1
+nähern.v.4
+entstehen.v.1 bieten.v.4 aufkommen.v.6 melden.v.5 entwickeln.v.8 ausbilden.v.3 ansetzen.v.8 bieten.v.6 formen.v.1 bilden.v.7 entwickeln.v.7 erwachsen.v.1 werden.v.2 auftauchen.v.5 regen.v.2 ansetzen.v.7 vorbereiten.v.1 erheben.v.8 entzünden.v.2
+bieten.v.4 eröffnen.v.2 anbieten.v.3 erschließen.v.2 herausstellen.v.2
+eröffnen.v.2 fügen.v.4
+fügen.v.4
+anbieten.v.3
+erschließen.v.2
+herausstellen.v.2
+aufkommen.v.6 aufbrechen.v.2
+aufbrechen.v.2
+melden.v.5
+entwickeln.v.8
+ausbilden.v.3
+ansetzen.v.8
+bieten.v.6
+formen.v.1
+bilden.v.7 werfen.v.4
+werfen.v.4
+entwickeln.v.7
+erwachsen.v.1
+werden.v.2
+auftauchen.v.5
+regen.v.2
+ansetzen.v.7
+vorbereiten.v.1
+erheben.v.8
+entzünden.v.2
+zeigen.v.15
+anfallen.v.3
+durchschlagen.v.2
+ausbreiten.v.8 verbreiten.v.2 wandern.v.2
+verbreiten.v.2 besiedeln.v.1
+besiedeln.v.1
+wandern.v.2
+kommen.v.16
+kommen.v.17 scheitern.v.1 geraten.v.3 geraten.v.4 geraten.v.6 fangen.v.1
+scheitern.v.1 zerschlagen.v.3 versagen.v.3 schwimmen.v.2
+zerschlagen.v.3
+versagen.v.3
+schwimmen.v.2
+geraten.v.3 ausfallen.v.4 verfallen.v.3
+ausfallen.v.4
+verfallen.v.3
+geraten.v.4 gelingen.v.1
+gelingen.v.1
+geraten.v.6 fallen.v.10
+fallen.v.10
+fangen.v.1
+öffnen.v.2 aufbrechen.v.1 entfalten.v.3 aufgehen.v.3
+aufbrechen.v.1
+entfalten.v.3
+aufgehen.v.3
+steigen.v.3 anziehen.v.2 erhöhen.v.4
+anziehen.v.2
+erhöhen.v.4
+verringern.v.1 weichen.v.2 abnehmen.v.8 reduzieren.v.3 fallen.v.9 abbauen.v.5 minimieren.v.1
+weichen.v.2
+abnehmen.v.8 verlieren.v.1 zurücktreten.v.3 abfallen.v.4
+verlieren.v.1
+zurücktreten.v.3
+abfallen.v.4
+reduzieren.v.3
+fallen.v.9 sinken.v.6
+sinken.v.6
+abbauen.v.5
+minimieren.v.1
+wechseln.v.7 springen.v.1
+springen.v.1
+füllen.v.4 saugen.v.2
+saugen.v.2
+verwandeln.v.2 übergehen.v.4 auflösen.v.1 verkehren.v.3
+übergehen.v.4 münden.v.1
+münden.v.1
+auflösen.v.1
+verkehren.v.3
+verbessern.v.1 bringen.v.7
+bringen.v.7
+brennen.v.4 entzünden.v.4 verbrennen.v.2
+entzünden.v.4
+verbrennen.v.2
+verschlechtern.v.1 absteigen.v.2
+absteigen.v.2
+verfallen.v.4
+leeren.v.1 ablaufen.v.2
+ablaufen.v.2
+entwickeln.v.5 beleben.v.1 weiterentwickeln.v.1
+beleben.v.1
+weiterentwickeln.v.1
+schließen.v.10
+umwandeln.v.3
+schließen.v.7
+wenden.v.10
+umsteigen.v.1
+regeln.v.3
+brechen.v.8
+verschieben.v.4 verzögern.v.1
+verzögern.v.1
+wiederholen.v.5
+schließen.v.12
+bremsen.v.1
+umkehren.v.3
+schließen.v.11
+teilen.v.2 ausgehen.v.9
+ausgehen.v.9
+verschwinden.v.1
+leiden.v.2
+verlangsamen.v.2
+trennen.v.7
+verlagern.v.2
+beschleunigen.v.1
+belaufen.v.1
+abspielen.v.4
+sein.v.6
+vorgehen.v.3
+begeben.v.1
+vollziehen.v.1
+erfolgen.v.1
+passieren.v.1 spielen.v.2 auffallen.v.2 funktionieren.v.2 drohen.v.1 verlaufen.v.1 zusammentreffen.v.1 ablaufen.v.5 kommen.v.1 vorkommen.v.3
+spielen.v.2
+auffallen.v.2 auszeichnen.v.2
+auszeichnen.v.2
+funktionieren.v.2 vorgehen.v.1 nachgehen.v.1
+vorgehen.v.1
+nachgehen.v.1
+drohen.v.1 drohen.v.2 bedrohen.v.1
+drohen.v.2
+bedrohen.v.1
+verlaufen.v.1
+zusammentreffen.v.1
+ablaufen.v.5 funktionieren.v.1
+funktionieren.v.1
+kommen.v.1 nahen.v.1 aufkommen.v.3
+nahen.v.1
+aufkommen.v.3
+vorkommen.v.3
+eintreffen.v.1 erfüllen.v.1 verwirklichen.v.1
+erfüllen.v.1
+verwirklichen.v.1
+tun.v.1 wandeln.v.1
+wandeln.v.1 treten.v.1
+treten.v.1
+sein.v.7
+befinden.v.1 stehen.v.5 stecken.v.4 sitzen.v.4
+stehen.v.5
+stecken.v.4 stecken.v.5
+stecken.v.5
+sitzen.v.4
+empfinden.v.1 sein.v.11 nehmen.v.3 sorgen.v.1 zweifeln.v.1 spüren.v.2 freuen.v.1 begnügen.v.1 interessieren.v.1 lieben.v.1 gehen.v.9 fühlen.v.2 nachvollziehen.v.1 fürchten.v.1 leiden.v.4 beruhigen.v.1 spüren.v.1 bewundern.v.1 ankommen.v.2 hängen.v.1 glauben.v.3 widerstehen.v.3 vergehen.v.1 abfinden.v.2 locken.v.2 sein.v.12
+sein.v.11 meinen.v.3
+meinen.v.3
+nehmen.v.3 verkraften.v.1 ertragen.v.1 abhängen.v.1 tragen.v.6
+verkraften.v.1
+ertragen.v.1 aushalten.v.2 fügen.v.1 einstecken.v.2
+aushalten.v.2
+fügen.v.1
+einstecken.v.2
+abhängen.v.1 ankommen.v.3 verfallen.v.5 richten.v.1
+ankommen.v.3 abhängen.v.2 gelten.v.1
+abhängen.v.2 liegen.v.5 hängen.v.7
+liegen.v.5
+hängen.v.7
+gelten.v.1
+verfallen.v.5
+richten.v.1
+tragen.v.6
+sorgen.v.1 fürchten.v.3
+fürchten.v.3
+zweifeln.v.1 bezweifeln.v.1 kämpfen.v.2
+bezweifeln.v.1
+kämpfen.v.2
+spüren.v.2 haben.v.3
+haben.v.3
+freuen.v.1 erfreuen.v.2 ehren.v.2 erfreuen.v.1
+erfreuen.v.2 erbauen.v.1
+erbauen.v.1
+ehren.v.2
+erfreuen.v.1
+begnügen.v.1 beschränken.v.1
+beschränken.v.1
+interessieren.v.1 begeistern.v.1
+begeistern.v.1 erwärmen.v.1
+erwärmen.v.1
+lieben.v.1 mögen.v.5
+mögen.v.5
+gehen.v.9 sein.v.10
+sein.v.10
+fühlen.v.2
+nachvollziehen.v.1 verstehen.v.1
+verstehen.v.1
+fürchten.v.1 grauen.v.2
+grauen.v.2
+leiden.v.4 erleiden.v.2
+erleiden.v.2
+beruhigen.v.1 legen.v.3 fangen.v.2 fassen.v.4
+legen.v.3
+fangen.v.2
+fassen.v.4
+spüren.v.1
+bewundern.v.1 stehen.v.6
+stehen.v.6
+ankommen.v.2
+hängen.v.1
+glauben.v.3
+widerstehen.v.3
+vergehen.v.1
+abfinden.v.2
+locken.v.2
+sein.v.12
+wohnen.v.1 bewohnen.v.1 siedeln.v.1 wohnen.v.2 beleben.v.3
+bewohnen.v.1
+siedeln.v.1 ansiedeln.v.2
+ansiedeln.v.2 etablieren.v.1
+etablieren.v.1
+wohnen.v.2 aufhalten.v.2 absteigen.v.3 schlafen.v.1
+aufhalten.v.2
+absteigen.v.3
+schlafen.v.1
+beleben.v.3
+gelten.v.5 betreffen.v.2 laufen.v.4
+betreffen.v.2 beziehen.v.3 zusammenhängen.v.2 fallen.v.3 drehen.v.2 kümmern.v.2 gehen.v.18
+beziehen.v.3
+zusammenhängen.v.2
+fallen.v.3
+drehen.v.2 ranken.v.2
+ranken.v.2
+kümmern.v.2
+gehen.v.18
+laufen.v.4
+brauchen.v.3 kosten.v.3 benötigen.v.2
+kosten.v.3 beanspruchen.v.1
+beanspruchen.v.1 absorbieren.v.1 belasten.v.2
+absorbieren.v.1
+belasten.v.2
+benötigen.v.2 brauchen.v.2 verlangen.v.2
+brauchen.v.2
+verlangen.v.2 gehören.v.4
+gehören.v.4
+ragen.v.1 überragen.v.1 erheben.v.1 überragen.v.3 überstehen.v.1
+überragen.v.1 stechen.v.1
+stechen.v.1
+erheben.v.1 ansteigen.v.1
+ansteigen.v.1
+überragen.v.3
+überstehen.v.1
+unterscheiden.v.1 abweichen.v.2 unterscheiden.v.2 abheben.v.3
+abweichen.v.2 auffallen.v.1 entgegenstehen.v.1 widersprechen.v.1 variieren.v.2
+auffallen.v.1 hervorheben.v.1 betonen.v.1
+hervorheben.v.1
+betonen.v.1
+entgegenstehen.v.1
+widersprechen.v.1
+variieren.v.2
+unterscheiden.v.2 abheben.v.4
+abheben.v.4
+abheben.v.3
+nennen.v.3 bezeichnen.v.2
+bezeichnen.v.2
+gehen.v.11 ermöglichen.v.1
+ermöglichen.v.1 zulassen.v.2 gestatten.v.3 zulassen.v.3
+zulassen.v.2 leiden.v.1
+leiden.v.1
+gestatten.v.3
+zulassen.v.3
+gehen.v.5
+gelten.v.2 zählen.v.1
+zählen.v.1
+zusammenhängen.v.1
+kosten.v.2 kommen.v.9
+kommen.v.9
+gelten.v.3
+betragen.v.1 messen.v.1 belaufen.v.3 umfassen.v.1 ausmachen.v.3
+messen.v.1 wiegen.v.3
+wiegen.v.3
+belaufen.v.3
+umfassen.v.1
+ausmachen.v.3
+dienen.v.4
+wirken.v.1
+ausreichen.v.1 reichen.v.4
+reichen.v.4
+bilden.v.2 darstellen.v.1
+darstellen.v.1 sein.v.4
+sein.v.4 abgeben.v.1
+abgeben.v.1
+gehen.v.4
+bleiben.v.1 abfallen.v.3
+abfallen.v.3
+gelten.v.4
+leben.v.4
+aussehen.v.2
+Menge.n.2 Anzahl.n.1 Maßeinheit.n.1 Stapel.n.2 Anstieg.n.3 Ausstoß.n.1 Menge.n.1 Abnahme.n.2 Inventar.n.2 Stoffmenge.n.1 Dosis.n.1 Ladung.n.3 Reihe.n.1 Ansammlung.n.1 Wassermenge.n.1
+Anzahl.n.1 Stand.n.2 Stückzahl.n.1 Quorum.n.1 Galerie.n.4 Punktzahl.n.1 Jahreszahl.n.1 Drehzahl.n.1 Stärke.n.3 Abschuss.n.1 Ordnung.n.1
+Stand.n.2 Höchststand.n.1 Wissensstand.n.2 Wasserspiegel.n.1 Sonnenstand.n.1
+Höchststand.n.1
+Wissensstand.n.2
+Wasserspiegel.n.1 Meereshöhe.n.1
+Meereshöhe.n.1
+Sonnenstand.n.1
+Stückzahl.n.1
+Quorum.n.1
+Galerie.n.4
+Punktzahl.n.1
+Jahreszahl.n.1
+Drehzahl.n.1
+Stärke.n.3
+Abschuss.n.1
+Ordnung.n.1
+Maßeinheit.n.1 Dekade.n.1 Gradient.n.1 Durchschnitt.n.3 Karat.n.1 Brennwert.n.1 Punkt.n.5 Zeiteinheit.n.1 pH-Wert.n.1 Ohm.n.1 Beaufort.n.1 Durchschnitt.n.1 Lautstärke.n.1 Potenzial.n.1 Ries.n.1 Gauß.n.1 Grad.n.5
+Dekade.n.1
+Gradient.n.1
+Durchschnitt.n.3 Norm.n.3 Mittel.n.2 Schnitt.n.8
+Norm.n.3 DIN.n.1
+DIN.n.1
+Mittel.n.2
+Schnitt.n.8
+Karat.n.1
+Brennwert.n.1 Joule.n.2
+Joule.n.2
+Punkt.n.5
+Zeiteinheit.n.1 Takt.n.2 Takt.n.1
+Takt.n.2 Auftakt.n.1
+Auftakt.n.1
+Takt.n.1 Halbstundentakt.n.1
+Halbstundentakt.n.1
+pH-Wert.n.1
+Ohm.n.1
+Beaufort.n.1
+Durchschnitt.n.1
+Lautstärke.n.1 Bel.n.2
+Bel.n.2
+Potenzial.n.1
+Ries.n.1
+Gauß.n.1
+Grad.n.5
+Stapel.n.2 Miete.n.2 Stoß.n.4
+Miete.n.2
+Stoß.n.4
+Anstieg.n.3 Beschleunigung.n.1 Steigung.n.1 Erholung.n.1 Zuwachs.n.1 Wachstum.n.2 Bevölkerungszunahme.n.1 Explosion.n.1
+Beschleunigung.n.1
+Steigung.n.1
+Erholung.n.1
+Zuwachs.n.1 Bevölkerungszuwachs.n.1 Zugang.n.2
+Bevölkerungszuwachs.n.1
+Zugang.n.2
+Wachstum.n.2 Kultur.n.3
+Kultur.n.3
+Bevölkerungszunahme.n.1
+Explosion.n.1
+Ausstoß.n.1
+Menge.n.1 Teilmenge.n.1 Raum.n.1 Vektorraum.n.1 Tupel.n.1 Grundmenge.n.1
+Teilmenge.n.1 Umgebung.n.2
+Umgebung.n.2
+Raum.n.1
+Vektorraum.n.1
+Tupel.n.1
+Grundmenge.n.1
+Abnahme.n.2 Rückgang.n.1 Einbruch.n.3
+Rückgang.n.1 Regression.n.1 Rezession.n.1 Bevölkerungsrückgang.n.1
+Regression.n.1
+Rezession.n.1
+Bevölkerungsrückgang.n.1
+Einbruch.n.3
+Inventar.n.2 Bestand.n.1
+Bestand.n.1 Angebot.n.2 Ressource.n.1 Baumbestand.n.1 Grundstock.n.1 Rennstall.n.1 Kern.n.2
+Angebot.n.2
+Ressource.n.1
+Baumbestand.n.1
+Grundstock.n.1 Substanz.n.1
+Substanz.n.1
+Rennstall.n.1
+Kern.n.2 Substanz.n.2
+Substanz.n.2
+Stoffmenge.n.1
+Dosis.n.1 Überdosis.n.1
+Überdosis.n.1
+Ladung.n.3
+Reihe.n.1
+Ansammlung.n.1 Nest.n.4
+Nest.n.4
+Wassermenge.n.1
+wünschen.v.1 wünschen.v.3 wollen.v.3 hoffen.v.1 verlangen.v.4 möchten.v.1 bevorzugen.v.2 wünschen.v.4
+wünschen.v.3
+wollen.v.3 streben.v.1 erwarten.v.5 vorbehalten.v.1 berechnen.v.3 nehmen.v.2
+streben.v.1 bemühen.v.3 verfolgen.v.1 anstreben.v.1 zielen.v.1
+bemühen.v.3 suchen.v.1 betreiben.v.4 kämpfen.v.1 sorgen.v.3 schauen.v.3
+suchen.v.1
+betreiben.v.4
+kämpfen.v.1
+sorgen.v.3
+schauen.v.3
+verfolgen.v.1
+anstreben.v.1
+zielen.v.1
+erwarten.v.5
+vorbehalten.v.1
+berechnen.v.3
+nehmen.v.2
+hoffen.v.1 wünschen.v.7 erwarten.v.4
+wünschen.v.7 erwarten.v.3 versprechen.v.1
+erwarten.v.3
+versprechen.v.1
+erwarten.v.4 rechnen.v.2 reflektieren.v.2 annehmen.v.6
+rechnen.v.2
+reflektieren.v.2
+annehmen.v.6
+verlangen.v.4
+möchten.v.1 wünschen.v.2
+wünschen.v.2
+bevorzugen.v.2
+wünschen.v.4
+nehmen.v.1 greifen.v.1 akzeptieren.v.1 übernehmen.v.2 entnehmen.v.1 hinnehmen.v.3
+greifen.v.1 zugreifen.v.1 reißen.v.1 langen.v.2 ergreifen.v.2 angreifen.v.1
+zugreifen.v.1
+reißen.v.1
+langen.v.2
+ergreifen.v.2
+angreifen.v.1
+akzeptieren.v.1 fassen.v.3
+fassen.v.3
+übernehmen.v.2 abnehmen.v.10
+abnehmen.v.10
+entnehmen.v.1
+hinnehmen.v.3
+bekommen.v.4 gewinnen.v.1 erwerben.v.2 einnehmen.v.1 verdienen.v.1 erlangen.v.2 erben.v.2 zukommen.v.2 beziehen.v.1 empfangen.v.3
+gewinnen.v.1 kommen.v.7
+kommen.v.7
+erwerben.v.2 einführen.v.1 beschaffen.v.1 kaufen.v.1 sammeln.v.2 sammeln.v.3
+einführen.v.1
+beschaffen.v.1 bestellen.v.2 sammeln.v.1 leisten.v.1 mitnehmen.v.3 erbringen.v.2 versorgen.v.2 organisieren.v.3 organisieren.v.1
+bestellen.v.2
+sammeln.v.1
+leisten.v.1 genehmigen.v.1 erlauben.v.2
+genehmigen.v.1
+erlauben.v.2
+mitnehmen.v.3
+erbringen.v.2
+versorgen.v.2
+organisieren.v.3
+organisieren.v.1
+kaufen.v.1 lösen.v.8 verkaufen.v.1
+lösen.v.8
+verkaufen.v.1
+sammeln.v.2
+sammeln.v.3
+einnehmen.v.1 erzielen.v.1 verdienen.v.2 umsetzen.v.2
+erzielen.v.1
+verdienen.v.2 zukommen.v.1 erwerben.v.3 erarbeiten.v.2
+zukommen.v.1
+erwerben.v.3
+erarbeiten.v.2
+umsetzen.v.2
+verdienen.v.1 zustehen.v.2
+zustehen.v.2
+erlangen.v.2 verbuchen.v.2
+verbuchen.v.2
+erben.v.2
+zukommen.v.2 gewinnen.v.2 verfallen.v.10 entfallen.v.2
+gewinnen.v.2
+verfallen.v.10
+entfallen.v.2
+beziehen.v.1
+empfangen.v.3
+sein.v.3 neigen.v.2 aussehen.v.3 ähneln.v.1 bleiben.v.4 bedeuten.v.1 erweisen.v.1 neigen.v.1 lassen.v.4 liegen.v.6
+neigen.v.2 spielen.v.3
+spielen.v.3
+aussehen.v.3 schauen.v.1 wirken.v.8
+schauen.v.1
+wirken.v.8 wirken.v.2 beeindrucken.v.2
+wirken.v.2
+beeindrucken.v.2
+ähneln.v.1 übereinstimmen.v.2 geraten.v.1 schlagen.v.2 grenzen.v.2 erinnern.v.1 decken.v.4 entsprechen.v.1
+übereinstimmen.v.2 identifizieren.v.2 überlappen.v.1
+identifizieren.v.2
+überlappen.v.1
+geraten.v.1
+schlagen.v.2
+grenzen.v.2
+erinnern.v.1
+decken.v.4
+entsprechen.v.1
+bleiben.v.4 halten.v.25 halten.v.14
+halten.v.25
+halten.v.14
+bedeuten.v.1 darstellen.v.3 aussagen.v.1 lauten.v.2 charakterisieren.v.1 kennzeichnen.v.1 ausmachen.v.4 vorstellen.v.4 äußern.v.1 sein.v.8
+darstellen.v.3 symbolisieren.v.1
+symbolisieren.v.1
+aussagen.v.1
+lauten.v.2 heißen.v.3
+heißen.v.3
+charakterisieren.v.1 bezeichnen.v.1 beherrschen.v.1
+bezeichnen.v.1
+beherrschen.v.1
+kennzeichnen.v.1
+ausmachen.v.4
+vorstellen.v.4
+äußern.v.1
+sein.v.8
+erweisen.v.1 darstellen.v.2 bestätigen.v.3
+darstellen.v.2 erscheinen.v.2
+erscheinen.v.2 vorkommen.v.4
+vorkommen.v.4 einhergehen.v.1 täuschen.v.3
+einhergehen.v.1 begleiten.v.2
+begleiten.v.2
+täuschen.v.3
+bestätigen.v.3
+neigen.v.1
+lassen.v.4
+liegen.v.6 verhalten.v.2
+verhalten.v.2
+geben.v.4 zahlen.v.1 überbringen.v.1 ausstatten.v.1 erteilen.v.1 versorgen.v.4 schenken.v.3 herausgeben.v.3 investieren.v.1 vergeben.v.2 tauschen.v.1 bieten.v.7 bezahlen.v.1 beitragen.v.1 spenden.v.1 vergeben.v.3 unterstützen.v.1 entrichten.v.1 verteilen.v.1 weitergeben.v.3 teilen.v.1 bezahlen.v.3 vorgeben.v.4
+zahlen.v.1 finanzieren.v.1 erstatten.v.2 begleichen.v.1 aufkommen.v.4 bezahlen.v.2 ausgeben.v.5 anlegen.v.2 ersetzen.v.1
+finanzieren.v.1
+erstatten.v.2
+begleichen.v.1 entlasten.v.1
+entlasten.v.1
+aufkommen.v.4 decken.v.2 haften.v.1
+decken.v.2
+haften.v.1
+bezahlen.v.2 abführen.v.2
+abführen.v.2
+ausgeben.v.5
+anlegen.v.2
+ersetzen.v.1
+überbringen.v.1 einreichen.v.1 bringen.v.1 zuwenden.v.2 aufgeben.v.6 austauschen.v.1 herausgeben.v.1
+einreichen.v.1 eingeben.v.2 beantragen.v.2 präsentieren.v.1 abgeben.v.3
+eingeben.v.2
+beantragen.v.2
+präsentieren.v.1 vorlegen.v.2 vorweisen.v.1
+vorlegen.v.2
+vorweisen.v.1
+abgeben.v.3
+bringen.v.1 mitbringen.v.1
+mitbringen.v.1
+zuwenden.v.2 würdigen.v.1
+würdigen.v.1
+aufgeben.v.6
+austauschen.v.1
+herausgeben.v.1
+ausstatten.v.1 schmücken.v.1 füllen.v.1 füttern.v.2 decken.v.5 befestigen.v.1 einrichten.v.2 einräumen.v.1
+schmücken.v.1 zieren.v.2 anlegen.v.9 besetzen.v.5
+zieren.v.2
+anlegen.v.9
+besetzen.v.5
+füllen.v.1
+füttern.v.2
+decken.v.5
+befestigen.v.1
+einrichten.v.2
+einräumen.v.1
+erteilen.v.1 geben.v.1
+geben.v.1
+versorgen.v.4 ernähren.v.3 eingeben.v.1
+ernähren.v.3 füttern.v.1 speisen.v.3 unterhalten.v.6 erhalten.v.1
+füttern.v.1 vorlegen.v.11 stillen.v.1
+vorlegen.v.11
+stillen.v.1
+speisen.v.3
+unterhalten.v.6
+erhalten.v.1
+eingeben.v.1
+schenken.v.3 übergeben.v.3 bedenken.v.1 verehren.v.2 bescheiden.v.1
+übergeben.v.3
+bedenken.v.1
+verehren.v.2
+bescheiden.v.1
+herausgeben.v.3
+investieren.v.1 setzen.v.3 festlegen.v.1 stecken.v.2
+setzen.v.3 bieten.v.2
+bieten.v.2
+festlegen.v.1
+stecken.v.2
+vergeben.v.2
+tauschen.v.1 wechseln.v.6 handeln.v.2
+wechseln.v.6
+handeln.v.2
+bieten.v.7
+bezahlen.v.1 abfinden.v.1
+abfinden.v.1
+beitragen.v.1 beteiligen.v.1 helfen.v.1
+beteiligen.v.1
+helfen.v.1
+spenden.v.1 stiften.v.1
+stiften.v.1
+vergeben.v.3 besetzen.v.3
+besetzen.v.3
+unterstützen.v.1
+entrichten.v.1
+verteilen.v.1 austragen.v.3
+austragen.v.3
+weitergeben.v.3 weiterleiten.v.2
+weiterleiten.v.2
+teilen.v.1
+bezahlen.v.3
+vorgeben.v.4
+gehen.v.7 fassen.v.2 passen.v.3
+fassen.v.2 aufnehmen.v.1
+aufnehmen.v.1
+passen.v.3 sitzen.v.5
+sitzen.v.5
+lassen.v.5 aufhalten.v.1 behalten.v.3 zulassen.v.1
+aufhalten.v.1
+behalten.v.3
+zulassen.v.1
+wissen.v.2 beherrschen.v.5 erinnern.v.2 glauben.v.1 kennen.v.2 kennen.v.3 kennen.v.4 kennen.v.1
+beherrschen.v.5 meistern.v.3 verstehen.v.6 können.v.4 sitzen.v.2 überblicken.v.1
+meistern.v.3
+verstehen.v.6
+können.v.4
+sitzen.v.2
+überblicken.v.1
+erinnern.v.2 gedenken.v.1
+gedenken.v.1
+glauben.v.1 denken.v.2 trauen.v.3 vertrauen.v.1 verlassen.v.2 schwören.v.1
+denken.v.2
+trauen.v.3
+vertrauen.v.1
+verlassen.v.2 bauen.v.1 rechnen.v.3
+bauen.v.1
+rechnen.v.3
+schwören.v.1
+kennen.v.2 verstehen.v.2
+verstehen.v.2
+kennen.v.3
+kennen.v.4
+kennen.v.1
+haben.v.1 führen.v.2 enthalten.v.1 aufweisen.v.1 integrieren.v.1 führen.v.3 zählen.v.2
+führen.v.2 tragen.v.11
+tragen.v.11
+enthalten.v.1 einschließen.v.2 halten.v.2 bergen.v.2 schließen.v.1 lauten.v.1 liegen.v.2
+einschließen.v.2 erstrecken.v.2 umfassen.v.2
+erstrecken.v.2
+umfassen.v.2
+halten.v.2
+bergen.v.2
+schließen.v.1
+lauten.v.1
+liegen.v.2
+aufweisen.v.1 zeigen.v.1 stehen.v.4
+zeigen.v.1
+stehen.v.4
+integrieren.v.1 einbinden.v.1
+einbinden.v.1
+führen.v.3
+zählen.v.2
+führen.v.5 betreiben.v.3 unterhalten.v.4 regieren.v.1 betreuen.v.1 leiten.v.1 verwalten.v.1
+betreiben.v.3 bedienen.v.2
+bedienen.v.2
+unterhalten.v.4 bewirtschaften.v.3
+bewirtschaften.v.3
+regieren.v.1 dominieren.v.1 gebieten.v.2 herrschen.v.2 beherrschen.v.4
+dominieren.v.1 beherrschen.v.2 vorherrschen.v.1
+beherrschen.v.2
+vorherrschen.v.1
+gebieten.v.2
+herrschen.v.2
+beherrschen.v.4
+betreuen.v.1
+leiten.v.1
+verwalten.v.1
+können.v.2 mögen.v.1
+mögen.v.1
+haben.v.6 bewahren.v.1 mitführen.v.2 verfügen.v.1 halten.v.7 unterhalten.v.1 gehören.v.3
+bewahren.v.1 behalten.v.6 aufheben.v.1 speichern.v.1 lagern.v.5
+behalten.v.6 sparen.v.2
+sparen.v.2 ersparen.v.1 zurücklegen.v.5
+ersparen.v.1
+zurücklegen.v.5
+aufheben.v.1
+speichern.v.1
+lagern.v.5
+mitführen.v.2
+verfügen.v.1
+halten.v.7
+unterhalten.v.1
+gehören.v.3
+stammen.v.1 herrühren.v.1 beruhen.v.1 herleiten.v.1 ergeben.v.2 zurückgehen.v.2 ausgehen.v.1 resultieren.v.1
+herrühren.v.1 datieren.v.1
+datieren.v.1
+beruhen.v.1 gründen.v.2 basieren.v.1 stützen.v.1
+gründen.v.2
+basieren.v.1 aufbauen.v.1
+aufbauen.v.1
+stützen.v.1
+herleiten.v.1
+ergeben.v.2
+zurückgehen.v.2
+ausgehen.v.1
+resultieren.v.1
+fehlen.v.5 fehlen.v.2 fehlen.v.3
+fehlen.v.2
+fehlen.v.3
+kommen.v.2 kommen.v.6 gehören.v.1
+kommen.v.6
+gehören.v.1
+bedeuten.v.2 vorgehen.v.2 wiegen.v.2
+vorgehen.v.2
+wiegen.v.2
+anschließen.v.3
+gefallen.v.1 ankommen.v.1 ansprechen.v.2 passen.v.4
+ankommen.v.1 einschlagen.v.4
+einschlagen.v.4
+ansprechen.v.2
+passen.v.4
+haben.v.8 innehaben.v.1
+innehaben.v.1 einnehmen.v.2
+einnehmen.v.2
+bekommen.v.2 genießen.v.2 empfangen.v.2 finden.v.4
+genießen.v.2
+empfangen.v.2
+finden.v.4
+müssen.v.2 müssen.v.3 unterstehen.v.1 müssen.v.1 unterliegen.v.1 haben.v.2
+müssen.v.3
+unterstehen.v.1
+müssen.v.1
+unterliegen.v.1
+haben.v.2
+sollen.v.1
+sein.v.5
+können.v.1 vermögen.v.2 liegen.v.7 wissen.v.1
+vermögen.v.2
+liegen.v.7
+wissen.v.1
+haben.v.7 aufweisen.v.2
+aufweisen.v.2
+sollen.v.3
+folgen.v.1
+sollen.v.2
+folgen.v.5 resultieren.v.2
+resultieren.v.2 ergeben.v.6
+ergeben.v.6
+haben.v.5
+halten.v.5
+können.v.3

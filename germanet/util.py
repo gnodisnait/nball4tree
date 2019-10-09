@@ -9,23 +9,25 @@ class GermaNetUtil:
 
 	__source = ''
 	__w2vec_file = ''
+	__ignore_duplicates = True
 	
 
-	def __init__(self, sourcefolder, wordvec_file):
-		'''
+	def __init__(self, sourcefolder, wordvec_file, ignore_duplicates=True):
+		"""
 		:param sourcefolder: folder containing all xml files from GermaNet
 		:param wordvec_file: file containing german word-embeddings
-		'''
+		"""
 
 		self.__source = sourcefolder
 		self.__w2vec_file = wordvec_file
+		self.__ignore_duplicates = ignore_duplicates
 
 	def load_tree(self, outputfile):
-		'''Creates a tree and fills it with words and hypernyms.
+		"""Creates a tree and fills it with words and hypernyms.
 
 		:param outputfile: the outputfile to be created containing all words
 		:return: complete tree
-		'''
+		"""
 
 		germanet = load_germanet()
 
@@ -52,10 +54,10 @@ class GermaNetUtil:
 				mult_paths += 1
 				for path in paths:
 					count +=1
-					tree.add_hypernym_path(path, embedded_words)
+					tree.add_hypernym_path(path, embedded_words, self.__ignore_duplicates)
 			else:
 				count+=1
-				tree.add_hypernym_path(paths, embedded_words)
+				tree.add_hypernym_path(paths, embedded_words, self.__ignore_duplicates)
 
 		print("number of words added = "+str(len(tree.words)))
 		print("number of paths = "+str(count))
@@ -68,11 +70,11 @@ class GermaNetUtil:
 		return synset.__str__()[7:-1]
 
 	def __extract_words(self, germanet, outputFile):
-		'''Extracts words from xml files. 
+		"""Extracts words from xml files.
 		Only those contained in the word-vector embedding are kept.
 
-		:param outputFile: destination file 
-		'''
+		:param outputFile: destination file
+		"""
 
 		dir = self.__source
 		wordVecFile = self.__w2vec_file
@@ -146,5 +148,3 @@ class GermaNetUtil:
 				f.write('\n')
 
 		return set(synsets), embedded_words
-
-		

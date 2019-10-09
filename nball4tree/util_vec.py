@@ -52,8 +52,15 @@ def dis_between_ball_centers(ball1, ball2):
     if ball1 == ball2:
         return 0
     cos = np.dot([decimal.Decimal(ele) for ele in ball1[:-2]], [decimal.Decimal(ele) for ele in ball2[:-2]])
+    '''
+    d2_1 = decimal.Decimal(ball1[-2] * ball1[-2] + ball2[-2] * ball2[-2])
+    d2_2 = 2 * decimal.Decimal(ball1[-2]) * decimal.Decimal(ball2[-2]) * decimal.Decimal(cos)
+    d2 = d2_1 - d2_2
+    '''
+
     d2 = decimal.Decimal(ball1[-2] * ball1[-2] + ball2[-2] * ball2[-2]) \
          - 2 * decimal.Decimal(ball1[-2]) * decimal.Decimal(ball2[-2]) * decimal.Decimal(cos)
+
     # v1 = np.multiply([decimal.Decimal(ele) for ele in ball1[:-2]], ball1[-2])
     # v2 = np.multiply([decimal.Decimal(ele) for ele in ball2[:-2]], ball2[-2])
     # return dis_between(v1, v2)
@@ -110,44 +117,6 @@ def qsr_DC_degree(ball1, ball2):
     """
     dis = dis_between_ball_centers(ball1, ball2)
     return dis - ball1[-1]-ball2[-1]
-
-
-def rotate(vec, cosine):
-    """
-    :param vec:
-    :param cosine:
-    :return:
-    """
-    i = 100
-    while cosine >= 1:
-        cosine = 1 - abs(decimal.Decimal('-1e-'+str(i)))
-        i -= 1
-
-    while True:
-        sinV = 1 - cosine*cosine
-        if sinV < 0:
-            sinV = 0
-        else:
-            sinV = np.sqrt(sinV)
-        i = -1
-        while vec[i] == 0:
-            i -= 1
-        j = i - 1
-        while vec[j] == 0:
-            j -= 1
-
-        vecI0, vecJ0 = vec[i], vec[j]
-
-        vec[i] = cosine *vec[i] + sinV*vec[j]
-        vec[j] = -sinV *vec[i] + cosine*vec[j]
-
-        if vec[i] == vecI0 and vec[j] == vecJ0:
-            i -= 1
-            cosine = 1 - abs(decimal.Decimal('-1e-'+str(i)))
-        else:
-            break
-    return vec
-
 
 def rotate(vec, cosine):
     """
