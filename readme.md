@@ -56,10 +56,10 @@ otherwise, failed relations and word-senses will be printed.
  
 - [nball embeddings with 47634 balls](https://drive.google.com/file/d/1cOW8kF30VoPW6WxTCbpstZI15z-pz7_O/view?usp=drive_link)
 
-- [nball embeddings with 54310 balls](https://drive.google.com/file/d/1tOJWK08mMx-uUOFxaIGEKqiQLLahKglj/view?usp=sharing)
+- [nball embeddings with 54310 balls]
 
 # Experiment 2: Observe neighbors of word-sense using nball embeddings
-* [pre-trained nball embeddings](https://drive.google.com/file/d/176FZwSaLB2MwTOWRFsfxWxMmJKQfoFRw/view?usp=sharing)
+* [pre-trained nball embeddings](https://drive.google.com/file/d/1cOW8kF30VoPW6WxTCbpstZI15z-pz7_O/view?usp=drive_link)
 ```
 $ python nball.py --neighbors beijing.n.01 berlin.n.01  --ball /Users/<user-name>/data/glove/glove.6B.50Xball.V10.txt  --num 6
 % --neighbors: list of word-senses
@@ -74,7 +74,7 @@ $ python nball.py --neighbors beijing.n.01 berlin.n.01  --ball /Users/<user-name
 # Experiment 3: Consistency analysis
 
 ## deviation of word-stems
-* [datasets for analyzing deviation of word-stems](https://drive.google.com/file/d/17H2bDIopjyAYjk61GOle_hvVDvtxKN64/view?usp=sharing)
+* [datasets for analyzing deviation of word-stems]()
 
 * shell command for running the experiment
 ```
@@ -86,7 +86,7 @@ $ python nball.py  --std_stem /Users/<user-name>/data/glove/wordstem.std --dim 5
 
 # Experiment 4: Validating unknown word-senses or words
 
-* [datasets for validating unknown word-sense or words](https://drive.google.com/file/d/1JN8eXzjTGsQDi079ZQXqhYu__N2pVQ_w/view?usp=sharing)
+* [datasets for validating unknown word-sense or words]()
 * shell command for running the experiment
 ```
 $ python nball.py  --validate_member /Users/<user-name>/data/glove/memberValidation/membershipPredictionResult.txt \
