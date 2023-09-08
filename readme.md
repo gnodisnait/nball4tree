@@ -54,7 +54,7 @@ otherwise, failed relations and word-senses will be printed.
 ** Test result at Ubuntu platform:
 ![](https://github.com/gnodisnait/nball4tree/blob/master/pic/ubuntu_result.png)
  
-- [nball embeddings with 47634 balls](https://drive.google.com/file/d/1TC5h8PXKQz4rQ4hsFYlWSFsyuoxlkutf/view?usp=sharing)
+- [nball embeddings with 47634 balls](https://drive.google.com/file/d/1cOW8kF30VoPW6WxTCbpstZI15z-pz7_O/view?usp=drive_link)
 
 - [nball embeddings with 54310 balls](https://drive.google.com/file/d/1tOJWK08mMx-uUOFxaIGEKqiQLLahKglj/view?usp=sharing)
 
